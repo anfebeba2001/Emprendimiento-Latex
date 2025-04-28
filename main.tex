@@ -1,0 +1,56 @@
+\documentclass[
+    a4paper,
+    man,
+    spanish
+]{apa6}
+\usepackage{booktabs}
+\usepackage[spanish,es-tabla]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{epstopdf}
+\usepackage{csquotes}
+\usepackage[hidelinks]{hyperref}
+\usepackage[skip=10pt plus1pt, indent=40pt]{parskip}
+\usepackage{float}
+\usepackage{ragged2e}
+\usepackage[
+    style=apa,
+    backend=biber,
+    sorting=nyt,
+    hyperref=false,
+    backref=false,
+]{biblatex}
+\usepackage{adjustbox}
+\usepackage{multirow}
+
+\usepackage{graphicx}
+
+\usepackage[table,xcdraw]{xcolor}
+\DeclareLanguageMapping{spanish}{spanish-apa}
+
+% maps apacite commands to biblatex commands
+\let\citeNP\cite\let \citeA\textcite\let\cite\parencite 
+
+%%%
+% Apa Bib - enable reprint according to apa
+%%%
+
+\bibliography{bibliography}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\title{Plan de negocio de asistente digital de reseñas y recomendaciones turísticas para nómadas digitales en territorio bogotano }
+\shorttitle{Plan de Negocios}
+
+\keywords{emprendimiento, plataforma web, perfilacion, ingeniería web}
+
+\begin{document}
+
+
+\include{cover}
+
+\include{Content/index}
+
+
+\end{document}
