@@ -19,31 +19,6 @@
 
 \refsection{0}
   \datalist[entry]{nyt/apasortcite//global/global}
-    \entry{modeloNegocio}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=99d6bb113cfcf20d41ac3eba7e9cecef}{%
-           family={Alexander\bibnamedelima Osterwalder},
-           familyi={A\bibinitperiod\bibinitdelim O\bibinitperiod},
-           given={Yves\bibnamedelima Pigneur},
-           giveni={Y\bibinitperiod\bibinitdelim P\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{99d6bb113cfcf20d41ac3eba7e9cecef}
-      \strng{fullhash}{99d6bb113cfcf20d41ac3eba7e9cecef}
-      \strng{bibnamehash}{99d6bb113cfcf20d41ac3eba7e9cecef}
-      \strng{authorbibnamehash}{99d6bb113cfcf20d41ac3eba7e9cecef}
-      \strng{authornamehash}{99d6bb113cfcf20d41ac3eba7e9cecef}
-      \strng{authorfullhash}{99d6bb113cfcf20d41ac3eba7e9cecef}
-      \field{sortinit}{A}
-      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers}
-      \field{year}{2010}
-    \endentry
     \entry{hotelesReseñasNeg}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=804b2a49c990b937d37bd6b9c6b2a9d2}{%
@@ -200,31 +175,6 @@
     \endentry
   \enddatalist
   \datalist[entry]{nyt/global//global/global}
-    \entry{modeloNegocio}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=99d6bb113cfcf20d41ac3eba7e9cecef}{%
-           family={Alexander\bibnamedelima Osterwalder},
-           familyi={A\bibinitperiod\bibinitdelim O\bibinitperiod},
-           given={Yves\bibnamedelima Pigneur},
-           giveni={Y\bibinitperiod\bibinitdelim P\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{99d6bb113cfcf20d41ac3eba7e9cecef}
-      \strng{fullhash}{99d6bb113cfcf20d41ac3eba7e9cecef}
-      \strng{bibnamehash}{99d6bb113cfcf20d41ac3eba7e9cecef}
-      \strng{authorbibnamehash}{99d6bb113cfcf20d41ac3eba7e9cecef}
-      \strng{authornamehash}{99d6bb113cfcf20d41ac3eba7e9cecef}
-      \strng{authorfullhash}{99d6bb113cfcf20d41ac3eba7e9cecef}
-      \field{sortinit}{A}
-      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers}
-      \field{year}{2010}
-    \endentry
     \entry{hotelesReseñasNeg}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=804b2a49c990b937d37bd6b9c6b2a9d2}{%
