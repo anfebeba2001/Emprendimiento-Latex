@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.2 $
+% $ biblatex bbl format version 3.3 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -18,8 +18,8 @@
 
 
 \refsection{0}
-  \datalist[entry]{nyt/apasortcite//global/global}
-    \entry{modeloNegocio}{misc}{}
+  \datalist[entry]{nyt/apasortcite//global/global/global}
+    \entry{modeloNegocio}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=99d6bb113cfcf20d41ac3eba7e9cecef}{%
            family={Alexander\bibnamedelima Osterwalder},
@@ -30,10 +30,12 @@
       }
       \strng{namehash}{99d6bb113cfcf20d41ac3eba7e9cecef}
       \strng{fullhash}{99d6bb113cfcf20d41ac3eba7e9cecef}
+      \strng{fullhashraw}{99d6bb113cfcf20d41ac3eba7e9cecef}
       \strng{bibnamehash}{99d6bb113cfcf20d41ac3eba7e9cecef}
       \strng{authorbibnamehash}{99d6bb113cfcf20d41ac3eba7e9cecef}
       \strng{authornamehash}{99d6bb113cfcf20d41ac3eba7e9cecef}
       \strng{authorfullhash}{99d6bb113cfcf20d41ac3eba7e9cecef}
+      \strng{authorfullhashraw}{99d6bb113cfcf20d41ac3eba7e9cecef}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
@@ -44,7 +46,7 @@
       \field{title}{Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers}
       \field{year}{2010}
     \endentry
-    \entry{hotelesReseñasNeg}{misc}{}
+    \entry{hotelesReseñasNeg}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=804b2a49c990b937d37bd6b9c6b2a9d2}{%
            family={Delgado},
@@ -55,10 +57,12 @@
       }
       \strng{namehash}{804b2a49c990b937d37bd6b9c6b2a9d2}
       \strng{fullhash}{804b2a49c990b937d37bd6b9c6b2a9d2}
+      \strng{fullhashraw}{804b2a49c990b937d37bd6b9c6b2a9d2}
       \strng{bibnamehash}{804b2a49c990b937d37bd6b9c6b2a9d2}
       \strng{authorbibnamehash}{804b2a49c990b937d37bd6b9c6b2a9d2}
       \strng{authornamehash}{804b2a49c990b937d37bd6b9c6b2a9d2}
       \strng{authorfullhash}{804b2a49c990b937d37bd6b9c6b2a9d2}
+      \strng{authorfullhashraw}{804b2a49c990b937d37bd6b9c6b2a9d2}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradatescope}{labelyear}
@@ -70,7 +74,7 @@
       \field{title}{Hoteles y restaurantes implantan una tecnología para ocultar reseñas negativas}
       \field{year}{2024}
     \endentry
-    \entry{web}{misc}{}
+    \entry{web}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=84873f5a95c25fd4b6018acef0ed28af}{%
            family={Duckett},
@@ -81,10 +85,12 @@
       }
       \strng{namehash}{84873f5a95c25fd4b6018acef0ed28af}
       \strng{fullhash}{84873f5a95c25fd4b6018acef0ed28af}
+      \strng{fullhashraw}{84873f5a95c25fd4b6018acef0ed28af}
       \strng{bibnamehash}{84873f5a95c25fd4b6018acef0ed28af}
       \strng{authorbibnamehash}{84873f5a95c25fd4b6018acef0ed28af}
       \strng{authornamehash}{84873f5a95c25fd4b6018acef0ed28af}
       \strng{authorfullhash}{84873f5a95c25fd4b6018acef0ed28af}
+      \strng{authorfullhashraw}{84873f5a95c25fd4b6018acef0ed28af}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradatescope}{labelyear}
@@ -95,7 +101,7 @@
       \field{title}{Web Development with HTML, CSS, JavaScript, and jQuery}
       \field{year}{2014}
     \endentry
-    \entry{EstudioTurismoenterritoriosruralesdeBogotá}{book}{}
+    \entry{EstudioTurismoenterritoriosruralesdeBogotá}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=d9f8af08b5392fe7f162bb7de14af4e1}{%
            family={Maria\bibnamedelimb Paula\bibnamedelimb Tovar\bibnamedelima Cuervo},
@@ -109,10 +115,12 @@
       }
       \strng{namehash}{d9f8af08b5392fe7f162bb7de14af4e1}
       \strng{fullhash}{d9f8af08b5392fe7f162bb7de14af4e1}
+      \strng{fullhashraw}{d9f8af08b5392fe7f162bb7de14af4e1}
       \strng{bibnamehash}{d9f8af08b5392fe7f162bb7de14af4e1}
       \strng{authorbibnamehash}{d9f8af08b5392fe7f162bb7de14af4e1}
       \strng{authornamehash}{d9f8af08b5392fe7f162bb7de14af4e1}
       \strng{authorfullhash}{d9f8af08b5392fe7f162bb7de14af4e1}
+      \strng{authorfullhashraw}{d9f8af08b5392fe7f162bb7de14af4e1}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{extradatescope}{labelyear}
@@ -123,7 +131,7 @@
       \field{title}{ESTUDIO TURISMO EN TERRITORIOS RURALES DE BOGOTÁ}
       \field{year}{2023}
     \endentry
-    \entry{Scrum}{misc}{}
+    \entry{Scrum}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ee6f08fcba839e09471a0bc69152b6a5}{%
            family={Schwaber},
@@ -134,10 +142,12 @@
       }
       \strng{namehash}{ee6f08fcba839e09471a0bc69152b6a5}
       \strng{fullhash}{ee6f08fcba839e09471a0bc69152b6a5}
+      \strng{fullhashraw}{ee6f08fcba839e09471a0bc69152b6a5}
       \strng{bibnamehash}{ee6f08fcba839e09471a0bc69152b6a5}
       \strng{authorbibnamehash}{ee6f08fcba839e09471a0bc69152b6a5}
       \strng{authornamehash}{ee6f08fcba839e09471a0bc69152b6a5}
       \strng{authorfullhash}{ee6f08fcba839e09471a0bc69152b6a5}
+      \strng{authorfullhashraw}{ee6f08fcba839e09471a0bc69152b6a5}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradatescope}{labelyear}
@@ -148,7 +158,7 @@
       \field{title}{Agile Project Management with Scrum}
       \field{year}{2004}
     \endentry
-    \entry{MetAgil}{misc}{}
+    \entry{MetAgil}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=88a3ab43b1b557e700260431bdb89283}{%
            family={Sondra\bibnamedelima Ashmore},
@@ -159,10 +169,12 @@
       }
       \strng{namehash}{88a3ab43b1b557e700260431bdb89283}
       \strng{fullhash}{88a3ab43b1b557e700260431bdb89283}
+      \strng{fullhashraw}{88a3ab43b1b557e700260431bdb89283}
       \strng{bibnamehash}{88a3ab43b1b557e700260431bdb89283}
       \strng{authorbibnamehash}{88a3ab43b1b557e700260431bdb89283}
       \strng{authornamehash}{88a3ab43b1b557e700260431bdb89283}
       \strng{authorfullhash}{88a3ab43b1b557e700260431bdb89283}
+      \strng{authorfullhashraw}{88a3ab43b1b557e700260431bdb89283}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradatescope}{labelyear}
@@ -173,7 +185,7 @@
       \field{title}{Introduction to Agile Methods}
       \field{year}{2014}
     \endentry
-    \entry{NomDig}{misc}{}
+    \entry{NomDig}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=bf9a40391cba82529a8ff033c6fcfb25}{%
            family={Tsugio\bibnamedelima Makimoto},
@@ -184,10 +196,12 @@
       }
       \strng{namehash}{bf9a40391cba82529a8ff033c6fcfb25}
       \strng{fullhash}{bf9a40391cba82529a8ff033c6fcfb25}
+      \strng{fullhashraw}{bf9a40391cba82529a8ff033c6fcfb25}
       \strng{bibnamehash}{bf9a40391cba82529a8ff033c6fcfb25}
       \strng{authorbibnamehash}{bf9a40391cba82529a8ff033c6fcfb25}
       \strng{authornamehash}{bf9a40391cba82529a8ff033c6fcfb25}
       \strng{authorfullhash}{bf9a40391cba82529a8ff033c6fcfb25}
+      \strng{authorfullhashraw}{bf9a40391cba82529a8ff033c6fcfb25}
       \field{sortinit}{T}
       \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
       \field{extradatescope}{labelyear}
@@ -199,8 +213,8 @@
       \field{year}{1997}
     \endentry
   \enddatalist
-  \datalist[entry]{nyt/global//global/global}
-    \entry{modeloNegocio}{misc}{}
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{modeloNegocio}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=99d6bb113cfcf20d41ac3eba7e9cecef}{%
            family={Alexander\bibnamedelima Osterwalder},
@@ -211,10 +225,12 @@
       }
       \strng{namehash}{99d6bb113cfcf20d41ac3eba7e9cecef}
       \strng{fullhash}{99d6bb113cfcf20d41ac3eba7e9cecef}
+      \strng{fullhashraw}{99d6bb113cfcf20d41ac3eba7e9cecef}
       \strng{bibnamehash}{99d6bb113cfcf20d41ac3eba7e9cecef}
       \strng{authorbibnamehash}{99d6bb113cfcf20d41ac3eba7e9cecef}
       \strng{authornamehash}{99d6bb113cfcf20d41ac3eba7e9cecef}
       \strng{authorfullhash}{99d6bb113cfcf20d41ac3eba7e9cecef}
+      \strng{authorfullhashraw}{99d6bb113cfcf20d41ac3eba7e9cecef}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
@@ -225,7 +241,7 @@
       \field{title}{Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers}
       \field{year}{2010}
     \endentry
-    \entry{hotelesReseñasNeg}{misc}{}
+    \entry{hotelesReseñasNeg}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=804b2a49c990b937d37bd6b9c6b2a9d2}{%
            family={Delgado},
@@ -236,10 +252,12 @@
       }
       \strng{namehash}{804b2a49c990b937d37bd6b9c6b2a9d2}
       \strng{fullhash}{804b2a49c990b937d37bd6b9c6b2a9d2}
+      \strng{fullhashraw}{804b2a49c990b937d37bd6b9c6b2a9d2}
       \strng{bibnamehash}{804b2a49c990b937d37bd6b9c6b2a9d2}
       \strng{authorbibnamehash}{804b2a49c990b937d37bd6b9c6b2a9d2}
       \strng{authornamehash}{804b2a49c990b937d37bd6b9c6b2a9d2}
       \strng{authorfullhash}{804b2a49c990b937d37bd6b9c6b2a9d2}
+      \strng{authorfullhashraw}{804b2a49c990b937d37bd6b9c6b2a9d2}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradatescope}{labelyear}
@@ -251,7 +269,7 @@
       \field{title}{Hoteles y restaurantes implantan una tecnología para ocultar reseñas negativas}
       \field{year}{2024}
     \endentry
-    \entry{web}{misc}{}
+    \entry{web}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=84873f5a95c25fd4b6018acef0ed28af}{%
            family={Duckett},
@@ -262,10 +280,12 @@
       }
       \strng{namehash}{84873f5a95c25fd4b6018acef0ed28af}
       \strng{fullhash}{84873f5a95c25fd4b6018acef0ed28af}
+      \strng{fullhashraw}{84873f5a95c25fd4b6018acef0ed28af}
       \strng{bibnamehash}{84873f5a95c25fd4b6018acef0ed28af}
       \strng{authorbibnamehash}{84873f5a95c25fd4b6018acef0ed28af}
       \strng{authornamehash}{84873f5a95c25fd4b6018acef0ed28af}
       \strng{authorfullhash}{84873f5a95c25fd4b6018acef0ed28af}
+      \strng{authorfullhashraw}{84873f5a95c25fd4b6018acef0ed28af}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradatescope}{labelyear}
@@ -276,7 +296,7 @@
       \field{title}{Web Development with HTML, CSS, JavaScript, and jQuery}
       \field{year}{2014}
     \endentry
-    \entry{EstudioTurismoenterritoriosruralesdeBogotá}{book}{}
+    \entry{EstudioTurismoenterritoriosruralesdeBogotá}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=d9f8af08b5392fe7f162bb7de14af4e1}{%
            family={Maria\bibnamedelimb Paula\bibnamedelimb Tovar\bibnamedelima Cuervo},
@@ -290,10 +310,12 @@
       }
       \strng{namehash}{d9f8af08b5392fe7f162bb7de14af4e1}
       \strng{fullhash}{d9f8af08b5392fe7f162bb7de14af4e1}
+      \strng{fullhashraw}{d9f8af08b5392fe7f162bb7de14af4e1}
       \strng{bibnamehash}{d9f8af08b5392fe7f162bb7de14af4e1}
       \strng{authorbibnamehash}{d9f8af08b5392fe7f162bb7de14af4e1}
       \strng{authornamehash}{d9f8af08b5392fe7f162bb7de14af4e1}
       \strng{authorfullhash}{d9f8af08b5392fe7f162bb7de14af4e1}
+      \strng{authorfullhashraw}{d9f8af08b5392fe7f162bb7de14af4e1}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{extradatescope}{labelyear}
@@ -304,7 +326,7 @@
       \field{title}{ESTUDIO TURISMO EN TERRITORIOS RURALES DE BOGOTÁ}
       \field{year}{2023}
     \endentry
-    \entry{Scrum}{misc}{}
+    \entry{Scrum}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ee6f08fcba839e09471a0bc69152b6a5}{%
            family={Schwaber},
@@ -315,10 +337,12 @@
       }
       \strng{namehash}{ee6f08fcba839e09471a0bc69152b6a5}
       \strng{fullhash}{ee6f08fcba839e09471a0bc69152b6a5}
+      \strng{fullhashraw}{ee6f08fcba839e09471a0bc69152b6a5}
       \strng{bibnamehash}{ee6f08fcba839e09471a0bc69152b6a5}
       \strng{authorbibnamehash}{ee6f08fcba839e09471a0bc69152b6a5}
       \strng{authornamehash}{ee6f08fcba839e09471a0bc69152b6a5}
       \strng{authorfullhash}{ee6f08fcba839e09471a0bc69152b6a5}
+      \strng{authorfullhashraw}{ee6f08fcba839e09471a0bc69152b6a5}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradatescope}{labelyear}
@@ -329,7 +353,7 @@
       \field{title}{Agile Project Management with Scrum}
       \field{year}{2004}
     \endentry
-    \entry{MetAgil}{misc}{}
+    \entry{MetAgil}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=88a3ab43b1b557e700260431bdb89283}{%
            family={Sondra\bibnamedelima Ashmore},
@@ -340,10 +364,12 @@
       }
       \strng{namehash}{88a3ab43b1b557e700260431bdb89283}
       \strng{fullhash}{88a3ab43b1b557e700260431bdb89283}
+      \strng{fullhashraw}{88a3ab43b1b557e700260431bdb89283}
       \strng{bibnamehash}{88a3ab43b1b557e700260431bdb89283}
       \strng{authorbibnamehash}{88a3ab43b1b557e700260431bdb89283}
       \strng{authornamehash}{88a3ab43b1b557e700260431bdb89283}
       \strng{authorfullhash}{88a3ab43b1b557e700260431bdb89283}
+      \strng{authorfullhashraw}{88a3ab43b1b557e700260431bdb89283}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradatescope}{labelyear}
@@ -354,7 +380,7 @@
       \field{title}{Introduction to Agile Methods}
       \field{year}{2014}
     \endentry
-    \entry{NomDig}{misc}{}
+    \entry{NomDig}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=bf9a40391cba82529a8ff033c6fcfb25}{%
            family={Tsugio\bibnamedelima Makimoto},
@@ -365,10 +391,12 @@
       }
       \strng{namehash}{bf9a40391cba82529a8ff033c6fcfb25}
       \strng{fullhash}{bf9a40391cba82529a8ff033c6fcfb25}
+      \strng{fullhashraw}{bf9a40391cba82529a8ff033c6fcfb25}
       \strng{bibnamehash}{bf9a40391cba82529a8ff033c6fcfb25}
       \strng{authorbibnamehash}{bf9a40391cba82529a8ff033c6fcfb25}
       \strng{authornamehash}{bf9a40391cba82529a8ff033c6fcfb25}
       \strng{authorfullhash}{bf9a40391cba82529a8ff033c6fcfb25}
+      \strng{authorfullhashraw}{bf9a40391cba82529a8ff033c6fcfb25}
       \field{sortinit}{T}
       \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
       \field{extradatescope}{labelyear}

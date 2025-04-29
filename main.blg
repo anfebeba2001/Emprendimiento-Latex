@@ -1,24 +1,24 @@
-[0] Config.pm:307> INFO - This is Biber 2.19
-[0] Config.pm:310> INFO - Logfile is 'main.blg'
-[99] biber:340> INFO - === Mon Apr 28, 2025, 16:47:15
-[116] Biber.pm:419> INFO - Reading 'main.bcf'
-[206] Biber.pm:979> INFO - Found 7 citekeys in bib section 0
-[230] Biber.pm:4419> INFO - Processing section 0
-[241] Biber.pm:4610> INFO - Looking for bibtex file 'bibliography.bib' for section 0
-[244] bibtex.pm:1713> INFO - LaTeX decoding ...
-[299] bibtex.pm:1519> INFO - Found BibTeX data source 'bibliography.bib'
-[375] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[375] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[375] Biber.pm:4239> INFO - Sorting list 'nyt/apasortcite//global/global' of type 'entry' with template 'nyt' and locale 'es-ES'
-[394] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[394] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[394] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'es-ES'
-[402] bbl.pm:660> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[409] bbl.pm:763> INFO - Output to main.bbl
-[409] Biber.pm:131> WARN - Duplicate entry key: 'NomDig' in file 'bibliography.bib', skipping ...
-[409] Biber.pm:131> WARN - Duplicate entry key: 'gamificationRef' in file 'bibliography.bib', skipping ...
-[409] Biber.pm:131> WARN - Duplicate entry key: 'guevara' in file 'bibliography.bib', skipping ...
-[409] Biber.pm:131> WARN - Duplicate entry key: 'werbach' in file 'bibliography.bib', skipping ...
-[409] Biber.pm:131> WARN - Duplicate entry key: 'webEngineer' in file 'bibliography.bib', skipping ...
-[409] Biber.pm:131> WARN - BibTeX subsystem: /tmp/biber_tmp_7u4P/f4d088b3f9f145b5c3058da33afd57d4_21767.utf8, line 229, warning: 10 characters of junk seen at toplevel
-[409] Biber.pm:133> INFO - WARNINGS: 6
+[0] Config.pm:308> INFO - This is Biber 2.20
+[1] Config.pm:311> INFO - Logfile is 'main.blg'
+[365] biber-MSWIN64:340> INFO - === 
+[454] Biber.pm:420> INFO - Reading 'main.bcf'
+[871] Biber.pm:994> INFO - Found 7 citekeys in bib section 0
+[927] Biber.pm:4463> INFO - Processing section 0
+[959] Biber.pm:4654> INFO - Looking for bibtex file 'bibliography.bib' for section 0
+[1104] bibtex.pm:1713> INFO - LaTeX decoding ...
+[1325] bibtex.pm:1519> INFO - Found BibTeX data source 'bibliography.bib'
+[1473] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1473] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1474] Biber.pm:4283> INFO - Sorting list 'nyt/apasortcite//global/global/global' of type 'entry' with template 'nyt' and locale 'es-ES'
+[1515] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1516] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1516] Biber.pm:4283> INFO - Sorting list 'nyt/global//global/global/global' of type 'entry' with template 'nyt' and locale 'es-ES'
+[1529] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[1545] bbl.pm:779> INFO - Output to main.bbl
+[1545] Biber.pm:131> WARN - Duplicate entry key: 'NomDig' in file 'bibliography.bib', skipping ...
+[1545] Biber.pm:131> WARN - Duplicate entry key: 'gamificationRef' in file 'bibliography.bib', skipping ...
+[1548] Biber.pm:131> WARN - Duplicate entry key: 'guevara' in file 'bibliography.bib', skipping ...
+[1548] Biber.pm:131> WARN - Duplicate entry key: 'werbach' in file 'bibliography.bib', skipping ...
+[1548] Biber.pm:131> WARN - Duplicate entry key: 'webEngineer' in file 'bibliography.bib', skipping ...
+[1549] Biber.pm:131> WARN - BibTeX subsystem: C:\Users\DAREDE~1\AppData\Local\Temp\biber_tmp_j9nB\f4d088b3f9f145b5c3058da33afd57d4_9932.utf8, line 229, warning: 10 characters of junk seen at toplevel
+[1549] Biber.pm:133> INFO - WARNINGS: 6
