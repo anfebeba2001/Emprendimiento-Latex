@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 0 "main.bcf" "main.bbl" "main" 1746030279.30377 -1
+["biber main"] 1746030659.62596 "main.bcf" "main.bbl" "main" 1746030668.9841 0
   "bibliography.bib" 1745797058.11666 19594 6e9fa45333f6c3d47c1d9011808bbf33 ""
-  "main.bcf" 1746030279.15859 133234 49494fc0e7f6abb3b3f0f935e3ca0204 "pdflatex"
+  "main.bcf" 1746030668.83099 133234 49494fc0e7f6abb3b3f0f935e3ca0204 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1746030276.65735 "/home/andres/Documentos/Universidad/emprendimiento/ProyectoLatex/main.tex" "main.pdf" "main" 1746030279.30415 0
+["pdflatex"] 1746030666.37544 "/home/andres/Documentos/Universidad/emprendimiento/ProyectoLatex/main.tex" "main.pdf" "main" 1746030668.98449 0
   "/etc/texmf/web2c/texmf.cnf" 1745790238.18686 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/andres/Documentos/Universidad/emprendimiento/ProyectoLatex/main.tex" 1746030273.66554 1157 cdeb17567a1cc570c18da0ddf64c8d96 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -189,7 +189,11 @@
   "Content/5.AlcancesLimitaciones/AlcancesLimitaciones.tex" 1745875281.66211 2727 ed62c174ff4aee410839f45b274182e5 ""
   "Content/6.ModeloDeNegocio/ModeloDeNegocio.tex" 1745876459.96716 7431 7032b869e418f65693148ba89c9cbc45 ""
   "Content/7.Metodologia/Metodologia.tex" 1745876834.4659 9425 a111362fda0bce9fe6cc88c7f4b4e132 ""
-  "Content/8.InformacionDeLaEmpresa/InformacionDeLaEmpresa.tex" 1746028469.04997 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "Content/8.InformacionDeLaEmpresa/InformacionDeLaEmpresa.tex" 1746030585.86734 249 f79d02de93da5e9ece082961cc831984 ""
+  "Content/8.InformacionDeLaEmpresa/Mision.tex" 1746028621.32595 501 e0f5fc4f13b7f4c3546d168238bd83f8 ""
+  "Content/8.InformacionDeLaEmpresa/ModeloOrganizacional.tex" 1746030659.35892 365 71d2871e0a0a6a0c0ff9821dbbd2a20a ""
+  "Content/8.InformacionDeLaEmpresa/Valores.tex" 1746028746.78082 1462 a04d09e0f30cb295c2790a4afb095986 ""
+  "Content/8.InformacionDeLaEmpresa/Vision.tex" 1746028765.51733 486 2d9a60b46a3e35512d26af55700d8b5c ""
   "Content/9.PlanDeNegocio/EstudioAmbiental.tex" 1746029414.95429 2985 7d3e0fbc1fc8f6f264132d34c59250b8 ""
   "Content/9.PlanDeNegocio/EstudioDeMercado.tex" 1746029958.77557 12704 0544b0e0be13d67b047883870d93d8c2 ""
   "Content/9.PlanDeNegocio/EstudioLegal.tex" 1746029164.26723 5729 2c9e6899d0f08aa10ad8251a1281bd59 ""
@@ -204,18 +208,18 @@
   "Content/Images/cronogramaEmpre.PNG" 1745876831.43189 69352 24536d599e609cb83078e76b5597b497 ""
   "Content/Images/graficaTurismoBogota.jpeg" 1745875490.77238 93071 6ff7855eb08aaed0b319181b30f0a478 ""
   "Content/Images/modelo canva plantilla.jpeg" 1745963365.28185 49456 32e569c75327128a8e03467c18d8c2ea ""
-  "Content/index.aux" 1746030279.14559 18329 6f0061f72768b55623e075166d75acaa "pdflatex"
+  "Content/index.aux" 1746030668.81899 19049 85268a0a2476fa696e5a6ccb45d59567 "pdflatex"
   "Content/index.tex" 1746028437.1565 1136 f4cb5925e1c8bf9848f1f4f45898a2d2 ""
-  "cover.aux" 1746030278.06858 4277 c24618a5493faa043c2b36e4f6c093ae "pdflatex"
+  "cover.aux" 1746030667.74798 4277 c24618a5493faa043c2b36e4f6c093ae "pdflatex"
   "cover.tex" 1745796881.995 997 0b329723b92dcbd62f32cc9cabb6b5a0 ""
-  "main.aux" 1746030279.14659 2782 2ebc327be474360645e493fd3f4d5212 "pdflatex"
-  "main.bbl" 1746028899.83256 16666 3fe1c9a56f31acc62fcf4bf6e7791136 "biber main"
-  "main.lof" 1746030279.15959 2378 9816f1a03ad66dc7f9604ae28f653d69 "pdflatex"
-  "main.lot" 1746030279.15959 1682 3ffbfa1f933f6044adea204fb538cc97 "pdflatex"
-  "main.out" 1746030279.15359 8302 51d4414d43bff2e1ef56927a06963e31 "pdflatex"
-  "main.run.xml" 1746030279.15959 2361 5e24f29be355e5e1f2088c00565266b4 "pdflatex"
+  "main.aux" 1746030668.81999 2760 d798389c51468e39147fa5163705b1e6 "pdflatex"
+  "main.bbl" 1746030660.79993 16785 f6730b3e9506da5e42e849c3e4c6bf22 "biber main"
+  "main.lof" 1746030668.83199 2472 31f423293c7beee07b4d11bc98c123b4 "pdflatex"
+  "main.lot" 1746030668.83199 1682 7314f5a8ffb0c215c8b05fca743a7915 "pdflatex"
+  "main.out" 1746030668.82599 8922 07ee0c39a88911d7c1846b58d6416c64 "pdflatex"
+  "main.run.xml" 1746030668.83199 2361 33e49787457545757863eb87e35f0b3c "pdflatex"
   "main.tex" 1746030273.66554 1157 cdeb17567a1cc570c18da0ddf64c8d96 ""
-  "main.toc" 1746030279.15959 3402 334d8bd051831c10b7350f281240cb96 "pdflatex"
+  "main.toc" 1746030668.83199 3704 ee368f2ca0133512dac04002e79e9a05 "pdflatex"
   (generated)
   "Content/index.aux"
   "cover.aux"
