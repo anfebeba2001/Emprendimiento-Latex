@@ -42,3 +42,10 @@
 \contentsline {subsubsection}{Fase 3: Definición de la empresa}{25}{section*.54}%
 \contentsline {subsubsection}{Fase 4: Estructuración}{26}{section*.56}%
 \contentsline {subsection}{Cronograma}{27}{section*.58}%
+\contentsline {section}{Plan de negocio}{28}{section*.60}%
+\contentsline {subsection}{Estudio de mercado}{28}{section*.61}%
+\contentsline {subsection}{Stakeholders}{34}{section*.71}%
+\contentsline {subsection}{Estudio técnico}{36}{section*.72}%
+\contentsline {subsection}{Prototipo mínimo viable}{41}{section*.81}%
+\contentsline {subsection}{Estudio legal}{55}{section*.82}%
+\contentsline {subsection}{Estudio Ambiental}{58}{section*.87}%
