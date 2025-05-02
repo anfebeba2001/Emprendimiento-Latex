@@ -42,15 +42,20 @@
 \contentsline {subsubsection}{Fase 3: Definición de la empresa}{26}{section*.54}%
 \contentsline {subsubsection}{Fase 4: Estructuración}{27}{section*.56}%
 \contentsline {subsection}{Cronograma}{28}{section*.58}%
-\contentsline {section}{Información de la empresa}{29}{section*.60}%
-\contentsline {subsection}{Misión}{29}{section*.61}%
-\contentsline {subsection}{Visión}{29}{section*.62}%
-\contentsline {subsection}{Valores}{30}{section*.63}%
-\contentsline {subsection}{Modelo organizacional}{31}{section*.64}%
-\contentsline {section}{Plan de negocio}{31}{section*.65}%
-\contentsline {subsection}{Estudio de mercado}{31}{section*.66}%
-\contentsline {subsection}{Stakeholders}{37}{section*.76}%
-\contentsline {subsection}{Estudio técnico}{39}{section*.77}%
-\contentsline {subsection}{Prototipo mínimo viable}{44}{section*.86}%
-\contentsline {subsection}{Estudio legal}{58}{section*.87}%
-\contentsline {subsection}{Estudio Ambiental}{61}{section*.92}%
+\contentsline {subsection}{Estructura ideológica}{29}{section*.60}%
+\contentsline {subsection}{Entorno}{30}{section*.61}%
+\contentsline {subsection}{Estructura mecánica}{30}{section*.62}%
+\contentsline {subsection}{Estructura financiera}{31}{section*.63}%
+\contentsline {subsection}{Recursos humanos}{32}{section*.64}%
+\contentsline {section}{Información de la empresa}{32}{section*.65}%
+\contentsline {subsection}{Misión}{32}{section*.66}%
+\contentsline {subsection}{Visión}{32}{section*.67}%
+\contentsline {subsection}{Valores}{33}{section*.68}%
+\contentsline {subsection}{Modelo organizacional}{34}{section*.69}%
+\contentsline {section}{Plan de negocio}{34}{section*.70}%
+\contentsline {subsection}{Estudio de mercado}{34}{section*.71}%
+\contentsline {subsection}{Stakeholders}{40}{section*.81}%
+\contentsline {subsection}{Estudio técnico}{42}{section*.82}%
+\contentsline {subsection}{Prototipo mínimo viable}{47}{section*.91}%
+\contentsline {subsection}{Estudio legal}{61}{section*.92}%
+\contentsline {subsection}{Estudio Ambiental}{64}{section*.97}%
