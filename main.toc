@@ -45,7 +45,7 @@
 \contentsline {subsection}{Estructura ideológica}{29}{section*.60}%
 \contentsline {subsection}{Entorno}{30}{section*.61}%
 \contentsline {subsection}{Entorno}{30}{section*.62}%
-\contentsline {subsection}{Estructura mecánica}{30}{section*.63}%
+\contentsline {subsection}{Estructura mecánica}{31}{section*.63}%
 \contentsline {subsection}{Estructura financiera}{31}{section*.64}%
 \contentsline {subsection}{Recursos humanos}{32}{section*.65}%
 \contentsline {section}{Información de la empresa}{32}{section*.66}%
@@ -55,7 +55,7 @@
 \contentsline {subsection}{Modelo organizacional}{34}{section*.70}%
 \contentsline {section}{Plan de negocio}{34}{section*.71}%
 \contentsline {subsection}{Estudio de mercado}{34}{section*.72}%
-\contentsline {subsection}{Stakeholders}{40}{section*.82}%
+\contentsline {subsection}{Stakeholders}{41}{section*.82}%
 \contentsline {subsection}{Estudio técnico}{42}{section*.83}%
 \contentsline {subsection}{Prototipo mínimo viable}{47}{section*.92}%
 \contentsline {subsection}{Estudio legal}{61}{section*.93}%
