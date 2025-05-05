@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 0 "main.bcf" "main.bbl" "main" 1746196399.66603 -1
+["biber main"] 0 "main.bcf" "main.bbl" "main" 1746448088.98179 -1
   "bibliography.bib" 1745797058.11666 19594 6e9fa45333f6c3d47c1d9011808bbf33 ""
-  "main.bcf" 1746196399.44791 133234 49494fc0e7f6abb3b3f0f935e3ca0204 "pdflatex"
+  "main.bcf" 1746448088.81787 133234 49494fc0e7f6abb3b3f0f935e3ca0204 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1746196395.58108 "/home/andres/Documentos/Universidad/emprendimiento/ProyectoLatex/main.tex" "main.pdf" "main" 1746196399.6666 0
+["pdflatex"] 1746448086.06227 "/home/andres/Documentos/Universidad/emprendimiento/ProyectoLatex/main.tex" "main.pdf" "main" 1746448088.98218 0
   "/etc/texmf/web2c/texmf.cnf" 1745790238.18686 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/andres/Documentos/Universidad/emprendimiento/ProyectoLatex/main.tex" 1746102837.20514 1157 cdeb17567a1cc570c18da0ddf64c8d96 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -189,7 +189,7 @@
   "Content/5.AlcancesLimitaciones/AlcancesLimitaciones.tex" 1745875281.66211 2727 ed62c174ff4aee410839f45b274182e5 ""
   "Content/6.ModeloDeNegocio/ModeloDeNegocio.tex" 1745876459.96716 7431 7032b869e418f65693148ba89c9cbc45 ""
   "Content/7.Metodologia/Descripcion.tex" 1746112917.92395 9404 be21ed3872ec6bdc4ac8427dea9d3148 ""
-  "Content/7.Metodologia/Entorno.tex" 1746196390.39391 1507 efc09ff0aef2f4b26a8933d7e0ffa3aa ""
+  "Content/7.Metodologia/Entorno.tex" 1746448085.78286 1458 c887137f2abe1cd6dd29bf3337b89ba8 ""
   "Content/7.Metodologia/EstructuraFinanciera.tex" 1746102308.46908 1601 fe7d80bf9facfb9ec529da5cfdfb1ae8 ""
   "Content/7.Metodologia/EstructuraIdeologica.tex" 1746146527.16177 1069 5c639802be7c4cd5df050bb2dc352ae3 ""
   "Content/7.Metodologia/EstructuraMecanica.tex" 1746102394.16789 1350 1a0ec2ddfc9ea615dd578a4fbf209ce6 ""
@@ -214,18 +214,18 @@
   "Content/Images/cronogramaEmpre.PNG" 1745876831.43189 69352 24536d599e609cb83078e76b5597b497 ""
   "Content/Images/graficaTurismoBogota.jpeg" 1745875490.77238 93071 6ff7855eb08aaed0b319181b30f0a478 ""
   "Content/Images/modelo canva plantilla.jpeg" 1745963365.28185 49456 32e569c75327128a8e03467c18d8c2ea ""
-  "Content/index.aux" 1746196399.43091 19670 90cba1657c2cee23a24a7866a55e1eab "pdflatex"
+  "Content/index.aux" 1746448088.80287 19575 b1417403aafdea42d04f795dc8159a11 "pdflatex"
   "Content/index.tex" 1746028437.1565 1136 f4cb5925e1c8bf9848f1f4f45898a2d2 ""
-  "cover.aux" 1746196397.69191 4277 c24618a5493faa043c2b36e4f6c093ae "pdflatex"
+  "cover.aux" 1746448087.59787 4277 c24618a5493faa043c2b36e4f6c093ae "pdflatex"
   "cover.tex" 1745796881.995 997 0b329723b92dcbd62f32cc9cabb6b5a0 ""
-  "main.aux" 1746196399.43291 2760 c7805c8a0ca449feccb9430e2bbbdda3 "pdflatex"
+  "main.aux" 1746448088.80487 2760 c7805c8a0ca449feccb9430e2bbbdda3 "pdflatex"
   "main.bbl" 1746102914.46861 16785 f6730b3e9506da5e42e849c3e4c6bf22 "biber main"
-  "main.lof" 1746196399.44991 2472 60550d21255e063e15f706c5175424da "pdflatex"
-  "main.lot" 1746196399.44991 1682 9f4e2dad40ac6962be1c059e619e3d08 "pdflatex"
-  "main.out" 1746196399.44091 9737 4fd3508627d7aa439820ffdd059c82c3 "pdflatex"
-  "main.run.xml" 1746196399.44991 2361 33e49787457545757863eb87e35f0b3c "pdflatex"
+  "main.lof" 1746448088.81887 2472 60550d21255e063e15f706c5175424da "pdflatex"
+  "main.lot" 1746448088.81887 1682 a0347381248fdeb9ee2260c97581fa29 "pdflatex"
+  "main.out" 1746448088.81187 9645 89188c12e12e6705b349dc8461c95d03 "pdflatex"
+  "main.run.xml" 1746448088.81887 2361 33e49787457545757863eb87e35f0b3c "pdflatex"
   "main.tex" 1746102837.20514 1157 cdeb17567a1cc570c18da0ddf64c8d96 ""
-  "main.toc" 1746196399.44991 4079 4b19379581531c64f6bb7693c2b68a73 "pdflatex"
+  "main.toc" 1746448088.81887 4025 707233376ab4089e4f3f6af74acf3c7f "pdflatex"
   (generated)
   "Content/index.aux"
   "cover.aux"
