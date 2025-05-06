@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.4.28)  6 MAY 2025 13:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.4.27)  5 MAY 2025 07:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -872,8 +872,8 @@ Package biblatex Info: Reference section=0 on input line 48.
 Package biblatex Info: Reference segment=0 on input line 48.
 \openout2 = `cover.aux'.
 
- (cover.tex
-<Content/Images/Escudo_UD.png, id=243, 466.74374pt x 479.54156pt>
+ (./cover.tex
+<Content/Images/Escudo_UD.png, id=245, 466.74374pt x 479.54156pt>
 File: Content/Images/Escudo_UD.png Graphic file (type png)
 <use Content/Images/Escudo_UD.png>
 Package pdftex.def Info: Content/Images/Escudo_UD.png  used on input line 25.
@@ -947,54 +947,26 @@ LaTeX Info: Redefining \% on input line 1.
 \tf@lot=\write9
 \openout9 = `main.lot'.
 
-
-
-[6] (Content/0.Resumen/Resumen.tex) (Content/1.Introduccion/Introduccion.tex
-
-[7]) (Content/2.PlanteamientoDelProblema/PlanteamientoDelProblema.tex
-<Content/Images/Gráfica Árbol de problemas emprendimiento (1).png, id=426, 770.88pt x 578.16pt>
+ [6] (./Content/0.Resumen/Resumen.tex) (./Content/1.Introduccion/Introduccion.tex [7]) (./Content/2.PlanteamientoDelProblema/PlanteamientoDelProblema.tex
+<Content/Images/Gráfica Árbol de problemas emprendimiento (1).png, id=429, 770.88pt x 578.16pt>
 File: Content/Images/Gráfica Árbol de problemas emprendimiento (1).png Graphic file (type png)
 <use Content/Images/Gráfica Árbol de problemas emprendimiento (1).png>
 Package pdftex.def Info: Content/Images/Gráfica Árbol de problemas emprendimiento (1).png  used on input line 13.
 (pdftex.def)             Requested size: 462.53157pt x 346.89867pt.
-
-
-[8] (Content/2.PlanteamientoDelProblema/DescripcionDelProblema.tex
-
-[9 <./Content/Images/Gráfica Árbol de problemas emprendimiento (1).png>]) (Content/2.PlanteamientoDelProblema/FormulacionDelProblema.tex) (Content/2.PlanteamientoDelProblema/JustificacionDelProblema.tex
-
-[10]
-<Content/Images/graficaTurismoBogota.jpeg, id=441, 1204.5pt x 647.41875pt>
+ [8] (./Content/2.PlanteamientoDelProblema/DescripcionDelProblema.tex [9 <./Content/Images/Gráfica Árbol de problemas emprendimiento (1).png>]) (./Content/2.PlanteamientoDelProblema/FormulacionDelProblema.tex) (./Content/2.PlanteamientoDelProblema/JustificacionDelProblema.tex [10]
+<Content/Images/graficaTurismoBogota.jpeg, id=444, 1204.5pt x 647.41875pt>
 File: Content/Images/graficaTurismoBogota.jpeg Graphic file (type jpg)
 <use Content/Images/graficaTurismoBogota.jpeg>
 Package pdftex.def Info: Content/Images/graficaTurismoBogota.jpeg  used on input line 10.
 (pdftex.def)             Requested size: 452.9679pt x 243.47295pt.
-)) (Content/3.Objetivos/Objetivos.tex
-
-[11 <./Content/Images/graficaTurismoBogota.jpeg>]) (Content/4.MarcoTeorico/MarcoTeorico.tex (Content/4.MarcoTeorico/AnalisisDeLaCompetencia.tex
-
-[12]) (Content/4.MarcoTeorico/Antecedentes.tex
-
-[13]
-
-[14]) (Content/4.MarcoTeorico/ConceptosDeModeloDeNegocio.tex
-
-[15]
-<Content/Images/modelo canva plantilla.jpeg, id=467, 1032.85875pt x 684.5575pt>
+)) (./Content/3.Objetivos/Objetivos.tex [11 <./Content/Images/graficaTurismoBogota.jpeg>]) (./Content/4.MarcoTeorico/MarcoTeorico.tex (./Content/4.MarcoTeorico/AnalisisDeLaCompetencia.tex [12]) (./Content/4.MarcoTeorico/Antecedentes.tex [13] [14]) (./Content/4.MarcoTeorico/ConceptosDeModeloDeNegocio.tex [15]
+<Content/Images/modelo canva plantilla.jpeg, id=470, 1032.85875pt x 684.5575pt>
 File: Content/Images/modelo canva plantilla.jpeg Graphic file (type jpg)
 <use Content/Images/modelo canva plantilla.jpeg>
 Package pdftex.def Info: Content/Images/modelo canva plantilla.jpeg  used on input line 31.
 (pdftex.def)             Requested size: 413.13618pt x 273.81815pt.
-) (Content/4.MarcoTeorico/DefinicionesPrevias.tex
-
-[16]
-
-[17 <./Content/Images/modelo canva plantilla.jpeg>])) (Content/5.AlcancesLimitaciones/AlcancesLimitaciones.tex
-
-[18]
-
-[19]) (Content/6.ModeloDeNegocio/ModeloDeNegocio.tex
-<Content/Images/Canva Emprendimiento.png, id=485, 770.88pt x 578.16pt>
+) (./Content/4.MarcoTeorico/DefinicionesPrevias.tex [16] [17 <./Content/Images/modelo canva plantilla.jpeg>])) (./Content/5.AlcancesLimitaciones/AlcancesLimitaciones.tex [18] [19]) (./Content/6.ModeloDeNegocio/ModeloDeNegocio.tex
+<Content/Images/Canva Emprendimiento.png, id=489, 770.88pt x 578.16pt>
 File: Content/Images/Canva Emprendimiento.png Graphic file (type png)
 <use Content/Images/Canva Emprendimiento.png>
 Package pdftex.def Info: Content/Images/Canva Emprendimiento.png  used on input line 10.
@@ -1018,34 +990,13 @@ File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 7.
 
-
-
-[25]
-
-[26]
-
-[27]
-<Content/Images/cronogramaEmpre.PNG, id=525, 735.9495pt x 420.3705pt>
+[25] [26] [27]
+<Content/Images/cronogramaEmpre.PNG, id=529, 735.9495pt x 420.3705pt>
 File: Content/Images/cronogramaEmpre.PNG Graphic file (type png)
 <use Content/Images/cronogramaEmpre.PNG>
 Package pdftex.def Info: Content/Images/cronogramaEmpre.PNG  used on input line 169.
 (pdftex.def)             Requested size: 452.9679pt x 258.73479pt.
-
-
-[28]) (Content/7.Metodologia/EstructuraIdeologica.tex
-
-[29 <./Content/Images/cronogramaEmpre.PNG>]) (Content/7.Metodologia/Entorno.tex
-Overfull \hbox (105.0254pt too wide) in paragraph at lines 6--7
-\T1/lmr/m/n/12 di-ri-ge el ser-vi-cio, in-clu-yen-do da-tos de-mo-gra-fi-cos (edad,g�nero,ubicaci�n),psicogr�ficos(intereses,valores)y
- []
-
-) (Content/7.Metodologia/EstructuraMecanica.tex
-
-[30]) (Content/7.Metodologia/EstructuraFinanciera.tex
-
-[31]) (Content/7.Metodologia/RecursosHumanos.tex)) (Content/8.InformacionDeLaEmpresa/InformacionDeLaEmpresa.tex (Content/8.InformacionDeLaEmpresa/Mision.tex) (Content/8.InformacionDeLaEmpresa/Vision.tex)
-
-[32] (Content/8.InformacionDeLaEmpresa/Valores.tex) (Content/8.InformacionDeLaEmpresa/ModeloOrganizacional.tex
+ [28]) (./Content/7.Metodologia/EstructuraIdeologica.tex [29 <./Content/Images/cronogramaEmpre.PNG>]) (./Content/7.Metodologia/Entorno.tex) (./Content/7.Metodologia/EstructuraMecanica.tex [30]) (./Content/7.Metodologia/EstructuraFinanciera.tex [31]) (./Content/7.Metodologia/RecursosHumanos.tex)) (./Content/8.InformacionDeLaEmpresa/InformacionDeLaEmpresa.tex (./Content/8.InformacionDeLaEmpresa/Mision.tex) (./Content/8.InformacionDeLaEmpresa/Vision.tex) [32] (./Content/8.InformacionDeLaEmpresa/Valores.tex) (./Content/8.InformacionDeLaEmpresa/ModeloOrganizacional.tex
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 5.
@@ -1061,52 +1012,30 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 8.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 8.
-)) (Content/9.PlanDeNegocio/PlanDeNegocio.tex
-
-[33] (Content/9.PlanDeNegocio/EstudioDeMercado.tex
-
-[34]
-
-[35]
-
-[36]
+)) (./Content/9.PlanDeNegocio/PlanDeNegocio.tex [33] (./Content/9.PlanDeNegocio/EstudioDeMercado.tex [34] [35] [36]
 
 LaTeX Warning: Citation 'Opreana2015' on page 37 undefined on input line 57.
 
 
 
-[37]
+[38]
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 78.
 See the caption package documentation for explanation.
 
-<Content/Images/Metodologia-Inbound-Marketing.png, id=579, 451.6875pt x 331.2375pt>
+<Content/Images/Metodologia-Inbound-Marketing.png, id=584, 451.6875pt x 331.2375pt>
 File: Content/Images/Metodologia-Inbound-Marketing.png Graphic file (type png)
 <use Content/Images/Metodologia-Inbound-Marketing.png>
 Package pdftex.def Info: Content/Images/Metodologia-Inbound-Marketing.png  used on input line 80.
 (pdftex.def)             Requested size: 326.13591pt x 239.17819pt.
-
-
-[38 <./Content/Images/Metodologia-Inbound-Marketing.png>]
-
-[39]) (Content/9.PlanDeNegocio/Stakeholders.tex
-
-[40]
-
-[41]) (Content/9.PlanDeNegocio/EstudioTecnico.tex
-
-[42]
-
-[43]
-
-[44]
+[38 <./Content/Images/Metodologia-Inbound-Marketing.png>] [39]) (./Content/9.PlanDeNegocio/Stakeholders.tex [40] [41]) (./Content/9.PlanDeNegocio/EstudioTecnico.tex [42] [43] [44]
 
 LaTeX Warning: Citation 'Blank2013' on page 45 undefined on input line 60.
 
 
 
-[45]
+[46]
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 64.
@@ -1117,13 +1046,9 @@ File: Content/Images/Escudo_UD.png Graphic file (type png)
 Package pdftex.def Info: Content/Images/Escudo_UD.png  used on input line 66.
 (pdftex.def)             Requested size: 285.36658pt x 293.20042pt.
 
-LaTeX Warning: Citation 'GioSyst3m' on page 46 undefined on input line 67.
+LaTeX Warning: Citation 'GioSyst3m' on page 47 undefined on input line 67.
 
-
-
-[46]) (Content/9.PlanDeNegocio/PrototipoMinimoViable.tex
-
-[47]
+[46]) (./Content/9.PlanDeNegocio/PrototipoMinimoViable.tex [47]
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 19.
@@ -1142,8 +1067,6 @@ File: Content/Images/Escudo_UD.png Graphic file (type png)
 <use Content/Images/Escudo_UD.png>
 Package pdftex.def Info: Content/Images/Escudo_UD.png  used on input line 32.
 (pdftex.def)             Requested size: 122.30174pt x 125.65105pt.
-
-
 [48]
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
@@ -1163,8 +1086,6 @@ File: Content/Images/Escudo_UD.png Graphic file (type png)
 <use Content/Images/Escudo_UD.png>
 Package pdftex.def Info: Content/Images/Escudo_UD.png  used on input line 64.
 (pdftex.def)             Requested size: 122.30174pt x 125.65105pt.
-
-
 [49]
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
@@ -1175,14 +1096,15 @@ File: Content/Images/Escudo_UD.png Graphic file (type png)
 <use Content/Images/Escudo_UD.png>
 Package pdftex.def Info: Content/Images/Escudo_UD.png  used on input line 77.
 (pdftex.def)             Requested size: 122.30174pt x 125.65105pt.
-
-
 [50]
 
-LaTeX Warning: Citation 'FirebaseCloud' on page 51 undefined on input line 88.
+
+[51]
+
+LaTeX Warning: Citation 'FirebaseCloud' on page 52 undefined on input line 88.
 
 
-LaTeX Warning: Citation 'FirebaseSAAS' on page 51 undefined on input line 91.
+LaTeX Warning: Citation 'FirebaseSAAS' on page 52 undefined on input line 91.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
@@ -1193,8 +1115,6 @@ File: Content/Images/Escudo_UD.png Graphic file (type png)
 <use Content/Images/Escudo_UD.png>
 Package pdftex.def Info: Content/Images/Escudo_UD.png  used on input line 103.
 (pdftex.def)             Requested size: 122.30174pt x 125.65105pt.
-
-
 [51]
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
@@ -1223,8 +1143,6 @@ File: Content/Images/Escudo_UD.png Graphic file (type png)
 <use Content/Images/Escudo_UD.png>
 Package pdftex.def Info: Content/Images/Escudo_UD.png  used on input line 130.
 (pdftex.def)             Requested size: 122.30174pt x 125.65105pt.
-
-
 [52]
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
@@ -1244,8 +1162,6 @@ File: Content/Images/Escudo_UD.png Graphic file (type png)
 <use Content/Images/Escudo_UD.png>
 Package pdftex.def Info: Content/Images/Escudo_UD.png  used on input line 161.
 (pdftex.def)             Requested size: 407.66833pt x 418.86612pt.
-
-
 [53]
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
@@ -1256,8 +1172,6 @@ File: Content/Images/Escudo_UD.png Graphic file (type png)
 <use Content/Images/Escudo_UD.png>
 Package pdftex.def Info: Content/Images/Escudo_UD.png  used on input line 170.
 (pdftex.def)             Requested size: 407.66833pt x 418.86612pt.
-
-
 [54]
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
@@ -1268,8 +1182,6 @@ File: Content/Images/Escudo_UD.png Graphic file (type png)
 <use Content/Images/Escudo_UD.png>
 Package pdftex.def Info: Content/Images/Escudo_UD.png  used on input line 179.
 (pdftex.def)             Requested size: 407.66833pt x 418.86612pt.
-
-
 [55]
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
@@ -1280,8 +1192,6 @@ File: Content/Images/Escudo_UD.png Graphic file (type png)
 <use Content/Images/Escudo_UD.png>
 Package pdftex.def Info: Content/Images/Escudo_UD.png  used on input line 192.
 (pdftex.def)             Requested size: 122.30174pt x 125.65105pt.
-
-
 [56]
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
@@ -1310,8 +1220,6 @@ File: Content/Images/Escudo_UD.png Graphic file (type png)
 <use Content/Images/Escudo_UD.png>
 Package pdftex.def Info: Content/Images/Escudo_UD.png  used on input line 219.
 (pdftex.def)             Requested size: 122.30174pt x 125.65105pt.
-
-
 [57]
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
@@ -1323,13 +1231,13 @@ File: Content/Images/Escudo_UD.png Graphic file (type png)
 Package pdftex.def Info: Content/Images/Escudo_UD.png  used on input line 228.
 (pdftex.def)             Requested size: 122.30174pt x 125.65105pt.
 
-LaTeX Warning: Hyper reference `manual-usuario' on page 58 undefined on input line 239.
+LaTeX Warning: Hyper reference `manual-usuario' on page 59 undefined on input line 239.
 
 
-LaTeX Warning: Hyper reference `manual-instalacion' on page 58 undefined on input line 240.
+LaTeX Warning: Hyper reference `manual-instalacion' on page 59 undefined on input line 240.
 
 
-LaTeX Warning: Hyper reference `manual-despliegue' on page 58 undefined on input line 241.
+LaTeX Warning: Hyper reference `manual-despliegue' on page 59 undefined on input line 241.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
@@ -1340,8 +1248,6 @@ File: Content/Images/Escudo_UD.png Graphic file (type png)
 <use Content/Images/Escudo_UD.png>
 Package pdftex.def Info: Content/Images/Escudo_UD.png  used on input line 250.
 (pdftex.def)             Requested size: 122.30174pt x 125.65105pt.
-
-
 [58]
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
@@ -1370,8 +1276,6 @@ File: Content/Images/Escudo_UD.png Graphic file (type png)
 <use Content/Images/Escudo_UD.png>
 Package pdftex.def Info: Content/Images/Escudo_UD.png  used on input line 277.
 (pdftex.def)             Requested size: 122.30174pt x 125.65105pt.
-
-
 [59]
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
@@ -1400,8 +1304,6 @@ File: Content/Images/Escudo_UD.png Graphic file (type png)
 <use Content/Images/Escudo_UD.png>
 Package pdftex.def Info: Content/Images/Escudo_UD.png  used on input line 304.
 (pdftex.def)             Requested size: 122.30174pt x 125.65105pt.
-
-
 [60]
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
@@ -1412,24 +1314,12 @@ File: Content/Images/Escudo_UD.png Graphic file (type png)
 <use Content/Images/Escudo_UD.png>
 Package pdftex.def Info: Content/Images/Escudo_UD.png  used on input line 313.
 (pdftex.def)             Requested size: 122.30174pt x 125.65105pt.
-) (Content/9.PlanDeNegocio/EstudioLegal.tex
-
-[61]
+) (./Content/9.PlanDeNegocio/EstudioLegal.tex [61]
 Underfull \hbox (badness 10000) in paragraph at lines 13--15
 
  []
 
-
-
-[62]
-
-[63]) (Content/9.PlanDeNegocio/EstudioAmbiental.tex
-
-[64]
-
-[65])))
-
-[66] AED endfloat: Processing end Figures and Tables (main.aux (cover.aux)
+[62] [63]) (./Content/9.PlanDeNegocio/EstudioAmbiental.tex [64] [65]))) [66] AED endfloat: Processing end Figures and Tables (./main.aux (./cover.aux)
 LaTeX Info: Redefining \sptext on input line 14.
 LaTeX Info: Redefining \. on input line 14.
 LaTeX Info: Redefining \% on input line 14.
@@ -1452,17 +1342,18 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 24480 strings out of 469958
- 449334 string characters out of 5466425
- 1351319 words of memory out of 5000000
- 50549 multiletter control sequences out of 15000+600000
- 713660 words of font info for 92 fonts, out of 8000000 for 9000
+ 24098 strings out of 474222
+ 429505 string characters out of 5748733
+ 1944975 words of memory out of 5000000
+ 45647 multiletter control sequences out of 15000+600000
+ 644904 words of font info for 88 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,18n,82p,1312b,2907s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/daredevil769/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/daredevil769/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/daredevil769/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/daredevil769/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/daredevil769/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Users/daredevil769/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/daredevil769/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri7.pfb><C:/Users/daredevil769/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri8.pfb>
-Output written on main.pdf (66 pages, 971744 bytes).
+ 72i,18n,81p,1286b,2907s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr6.pfb></usr/share/texmf/fonts/type1/public/lm/lmri12.pfb></usr/share/texmf/fonts/type1/public/lm/lmri7.pfb></usr/share/texmf/fonts/type1/public/lm/lmri8.pfb>
+Output written on main.pdf (66 pages, 883157 bytes).
 PDF statistics:
- 896 PDF objects out of 1000 (max. 8388607)
+ 905 PDF objects out of 1000 (max. 8388607)
+ 800 compressed objects within 8 object streams
  246 named destinations out of 1000 (max. 500000)
  516 words of extra memory for PDF output out of 10000 (max. 10000000)
 
