@@ -1,0 +1,15 @@
+.slogan-panel {
+    background-image: url('/assets/images/sloganBg.png');
+    background-size: cover;
+    background-position: center;
+    height: 50vh;
+}
+.slogan-text {
+    font-family: Andale Mono,AndaleMono,monospace; 
+    font-size: 3.5rem;
+    padding: 8vh 0 0 0;
+    text-shadow: 0 0  100px rgba(0, 0, 0, 1);
+    font-weight: 800;
+    color: #ffffff;
+    text-align: center;
+}

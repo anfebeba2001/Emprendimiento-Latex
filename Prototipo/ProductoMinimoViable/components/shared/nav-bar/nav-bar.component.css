@@ -1,5 +1,5 @@
 .navbar {
-    background-color: #0f1117;
+    background-color: #000000;
     padding: 1rem 2rem;
     border-bottom: 1px solid #1a1d26;
   }
@@ -13,7 +13,7 @@
   }
   
   .nav-item {
-    color: #e5e7eb; /* texto claro */
+    color: #e5e7eb; 
     display: flex;
     align-items: center;
     font-size: 1rem;
@@ -37,4 +37,11 @@
     color: #22e58f;
     border-bottom: 2px solid #22e58f;
   }
-  
+
+  .logoNavBar {
+    float:inherit;
+    width: 10ch;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+  }
