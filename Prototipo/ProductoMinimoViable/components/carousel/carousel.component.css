@@ -1,0 +1,101 @@
+.carousel-container {
+  position: relative;
+  width: 70vw;
+  height: 30vw;
+  overflow: hidden;
+  margin-top: -170px;
+  margin-left: 2vw;
+  background-color: rgba(71, 63, 63, 0.8);
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+}
+.carousel-wrapper {
+  display: flex;
+  flex-direction: row;
+  width: max-content;
+  transition: transform 0.5s ease-in-out;
+}
+
+.carousel-slide {
+  width: 70vw;
+  height: 30vw;
+  position:relative;
+  display: flex;
+  justify-content: flex-start;
+  transition: all 1s ease;
+  background-color: rgb(177, 233, 193);
+   padding: 1rem;
+}
+.carousel-slide:hover{
+  
+    background-color: rgb(255, 255, 255);
+    transition: all 1s ease;
+ 
+}
+.place-information{
+  padding: 2%;
+  height: 80%;
+  margin-top: 2%;
+  width: 45%;
+  margin-left: 5%;
+}
+
+.carousel-title {
+    font: small-caps 700 2.7vw/1.5 'Times New Roman', Courier;
+}
+
+.carousel-location {
+  font: small-caps 200 1.5vw/1.5 'Times New Roman', Courier;
+  margin-top: 5vh;
+}
+
+.carousel-description {
+  font: italic 300 2vw/1.5 'Times New Roman', serif;
+  transition: transform 0.5s ease-in-out;
+
+}
+.carousel-price {
+  font: small-caps 200 1.4vw/1.5 'Courier New', Courier;
+  position: absolute;
+  bottom: 1%;
+   right: 3%;
+}
+.carousel-rating {
+  font: small-caps 200 1.7vw/1.5 'Courier New', Courier;
+  margin-bottom: 3%;
+  position: absolute;
+  top: 1%;
+   right: 3%;
+}
+
+.carousel-slide img {
+  position:absolute;
+  width: 40%;
+  height: 70%;
+  object-fit: cover;
+  float:inline-end;
+  right: 3vw;
+  top: 7vh;
+}
+
+.prev, .next {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 24px;
+  background: rgba(0, 0, 0, 0.4);
+  color: white;
+  border: none;
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 50%;
+}
+
+.carousel-button{
+  background-color: transparent;
+  color: rgb(0, 0, 0);
+  border: none;
+  cursor: pointer;
+}
+.prev { left: 10px; }
+.next { right: 10px; }
