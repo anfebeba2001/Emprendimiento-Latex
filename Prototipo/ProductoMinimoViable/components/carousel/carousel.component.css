@@ -1,13 +1,13 @@
 .carousel-container {
   position: relative;
-  width: 70vw;
-  height: 30vw;
+  width: 95vw;
+  height: 37vmax;
   overflow: hidden;
-  margin-top: -170px;
   margin-left: 2vw;
-  background-color: rgba(71, 63, 63, 0.8);
+
   border-radius: 12px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+  
+
 }
 .carousel-wrapper {
   display: flex;
@@ -17,8 +17,9 @@
 }
 
 .carousel-slide {
-  width: 70vw;
-  height: 30vw;
+  margin-top: 3.5vh;
+  width: 95vw;
+  height: 30vmax;
   position:relative;
   display: flex;
   justify-content: flex-start;
@@ -33,39 +34,75 @@
  
 }
 .place-information{
-  padding: 2%;
   height: 80%;
   margin-top: 2%;
   width: 45%;
-  margin-left: 5%;
+  margin-left: 6%;
 }
 
 .carousel-title {
-    font: small-caps 700 2.7vw/1.5 'Times New Roman', Courier;
+    font: small-caps 700 4vmin/1.5 'Times New Roman', Courier;
 }
 
 .carousel-location {
-  font: small-caps 200 1.5vw/1.5 'Times New Roman', Courier;
-  margin-top: 5vh;
+  font: small-caps 200 3vmin/1.5 'Times New Roman', Courier;
+  margin-top: 2vw;
 }
 
 .carousel-description {
-  font: italic 300 2vw/1.5 'Times New Roman', serif;
+  font: italic 300 3.7vmin/1.5 'Times New Roman', serif;
   transition: transform 0.5s ease-in-out;
 
 }
-.carousel-price {
-  font: small-caps 200 1.4vw/1.5 'Courier New', Courier;
-  position: absolute;
-  bottom: 1%;
-   right: 3%;
+
+.carousel-price-label{
+  font: small-caps 200 3vmin/1.5 'Times New Roman', Courier;
+background-color: rgb(37, 33, 33);
+padding-right: 3vmin;
+padding-left: 3vmin;
+padding-top: 2vmin;;
+bottom: -2vh;
+border-radius: 5px;
+right:1vw;
+width: 40vw;
+margin-bottom: -10px;
+position: absolute;
+color: white;
+z-index: 3;
 }
 .carousel-rating {
-  font: small-caps 200 1.7vw/1.5 'Courier New', Courier;
-  margin-bottom: 3%;
+  font: small-caps 200 2vmax/1.5 'Times New Roman', Courier;
+  display: inline-block;
+}
+
+
+.carousel-rating-container{
+  width: 40%;
   position: absolute;
+  border-radius: 5px;
+  padding-left: 3%;
+  height: 10%;
+  top: -2vh;
+  right: 1%;
+  display: inline-block;
+  background-color: rgb(255, 255, 255);
+}
+
+.carousel-votesUp{
+  font: small-caps 200 2vmax/1.5 'Times New Roman', Courier;
+  color:rgb(0, 141, 47);
+  display: inline-block;
+  margin-left: 5%;
+  margin-right: 5%;
   top: 1%;
-   right: 3%;
+  right: 35%;
+}
+.carousel-votesDown{
+  font: small-caps 200 2vmax/1.5 'Times New Roman', Courier;
+  color:rgb(197, 0, 0);
+  display: inline-block;
+  top: 1%;
+  right: 15%;
 }
 
 .carousel-slide img {
@@ -74,8 +111,8 @@
   height: 70%;
   object-fit: cover;
   float:inline-end;
-  right: 3vw;
-  top: 7vh;
+  right: 7vw;
+  top: 10%;
 }
 
 .prev, .next {
@@ -97,5 +134,5 @@
   border: none;
   cursor: pointer;
 }
-.prev { left: 10px; }
-.next { right: 10px; }
+.prev { left: 1vw; }
+.next { right: 1vw; }

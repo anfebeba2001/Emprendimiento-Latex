@@ -4,5 +4,7 @@ export interface place {
     image: string;
     location: string;
     price: string;
+    votesUp: number;
+    votesDown: number;
     rating: number;
 }

@@ -6,8 +6,15 @@
         <p class="carousel-title">{{place.name}}</p>
         <p class="carousel-description">{{place.description}}</p>
         <p class="carousel-location">{{place.location}}</p>
-        <p class="carousel-price">${{place.price}}</p>
-        <p class="carousel-rating">{{place.rating}} ⭐</p>
+        <div class="carousel-price-label">
+          <p class="carousel-price">${{place.price}}</p>
+        </div>
+
+        <div class="carousel-rating-container">
+          <p class="carousel-rating">{{place.rating}} ★</p>
+          <p class="carousel-votesUp">{{place.votesUp}}↑</p>
+          <p class="carousel-votesDown">{{place.votesDown}}↓</p>
+        </div>
       </div>
     </div>
   </div>
