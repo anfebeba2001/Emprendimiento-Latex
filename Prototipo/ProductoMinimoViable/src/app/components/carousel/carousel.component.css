@@ -1,0 +1,103 @@
+.carousel-container {
+  position: relative;
+  width: 95vw;
+  height: 37vmax;
+  overflow: hidden;
+  margin-left: 2vw;
+  border-radius: 12px;
+  margin-bottom: 8vh;
+  transition: transform 0.5s ease-in-out;
+}
+
+.carousel-news-container {
+  position: relative;
+  width: 75vw;
+  height: 40vmax;
+  overflow: hidden;
+  margin: auto;
+  border-radius: 12px;
+  margin-bottom: 8vh;
+  transition: transform 0.5s ease-in-out;
+}
+
+.carousel-wrapper {
+  display: flex;
+  flex-direction: row;
+  width: max-content;
+  transition: transform 0.5s ease-in-out;
+}
+
+.carousel-slide {
+  margin-top: 3.5vh;
+  width: 95vw;
+  height: 30vmax;
+  position: relative;
+  display: flex;
+  justify-content: flex-start;
+  transition: all 1s ease;
+
+}
+
+.carousel-slide:hover {
+  transition: all 1s ease;
+}
+
+.newsSlidesContainer {
+  transition: transform 0.5s ease-in-out;
+  display: flex;
+  flex-direction: row;
+}
+
+.carousel-button {
+  background: rgba(0, 0, 0, 1);
+  color: rgb(255, 251, 251);
+  border: none;
+  cursor: pointer;
+}
+
+.prev {
+  left: 0;
+}
+
+.next {
+  right: 0;
+}
+
+.news-carousel-prev-button {
+      background: rgba(245, 245, 245, 0.1);
+   font-size: 28px;
+   width: 7vmin;
+   height: 25vh;
+   border-radius: 20px 0  0 20px ;
+  color: rgb(255, 251, 251);
+  border: none;
+  cursor: pointer;
+  left: 4vw;
+  position: absolute;
+}
+
+.news-carousel-next-button {
+   background: rgba(245, 245, 245, 0.1);
+   width: 7vmin;
+   font-size: 28px;
+   height: 25vh;
+  border-radius: 0 20px  20px 0;
+  color: rgb(255, 251, 251);
+  border: none;
+  cursor: pointer;
+  right: 4vw;
+  position: absolute;
+}
+
+.prev,
+.next {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-80%);
+  font-size: 24px;
+  color: white;
+  border: none;
+  cursor: pointer;
+
+  border-radius: 10%;
+}

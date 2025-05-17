@@ -1,21 +1,21 @@
 .news-container{
-    background-color: aliceblue;
-    position: absolute;
-       flex-direction: column;
+    margin: auto;
+    flex-direction: column;
     display: flex;
     right: 1%;
-    width: 25%;
-    height: 30vw;
+    height: 30vh;
     border-radius: 12px ;
-
- 
+    width: 100%;
 }
 .news-title{
  background-color: rgb(177, 233, 193);
     color: rgb(0, 0, 0);
-    top: -1%;
-    padding: 20px;
-    font: small-caps 700 1.0vw/1.5;
+    margin: auto;
+    width: 80%;
+    text-align: center;
+    padding: 1vmin;
+    font: small-caps 200 3vmin/1.5 Courier;
     font-family: Andale Mono,AndaleMono,monospace; 
     border-radius: 12px 12px 0 0;
+    margin-top: -4vh;
 }
