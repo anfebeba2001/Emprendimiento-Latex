@@ -1,0 +1,23 @@
+.imageBg {
+    width: 90vw;
+    height: 40vh;
+    object-fit: cover;
+    border-radius: 20px 20px 0 0;
+    margin-left: -3vw;
+    object-position: center;
+    box-shadow: 15px 15px 15px rgb(0, 0, 0);
+}
+.placeInfo{
+    background-color: rgb(149, 165, 149);
+    width: 90vw;
+    margin: 2vh auto;
+    border-radius: 20px;
+    height: 80vh;
+}
+
+.placeTitle{
+    font-size: 4vmin;
+    font-family: Andale Mono, AndaleMono, monospace;
+    color: rgb(0, 0, 0);
+    margin: 4vh;
+}
