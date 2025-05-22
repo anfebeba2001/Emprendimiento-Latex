@@ -5,19 +5,49 @@
     border-radius: 20px 20px 0 0;
     margin-left: -3vw;
     object-position: center;
-    box-shadow: 15px 15px 15px rgb(0, 0, 0);
+    box-shadow: 15px 15px 15px rgb(0, 0, 0, 0.7);
 }
-.placeInfo{
+
+.placeInfo {
     background-color: rgb(149, 165, 149);
     width: 90vw;
     margin: 2vh auto;
     border-radius: 20px;
-    height: 80vh;
 }
 
-.placeTitle{
+.placeTitle {
     font-size: 4vmin;
     font-family: Andale Mono, AndaleMono, monospace;
     color: rgb(0, 0, 0);
-    margin: 4vh;
+    margin: 4vh 0 1vh 4vw;
+}
+
+.placeProsContainer {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 3vw;
+    width: 80%;
+    padding: 0 2vw;
+}
+
+.placeProElement {
+    text-align: center;
+    max-width: 30%;
+    align-items: center;
+    
+    flex: 1 1 20%;
+    min-width: 2vw;
+    padding: 1vh 1vw;
+    border: none;
+    border-radius: 6px;
+    background-color: rgb(203, 216, 207);
+    box-shadow: rgb(14, 14, 14) 0px 4px 1px;
+    color: rgb(0, 0, 0);
+    transition: background-color 1s, color 1s;
+    font-family: Andale Mono, AndaleMono, monospace;
+    font-size: 1.8vmin;
+    font-weight: 200;
+    display: flex;
+    justify-content: center;
 }
