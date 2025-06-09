@@ -3080,12 +3080,11 @@
     <bcf:citekey order="8" intorder="1">Scrum</bcf:citekey>
     <bcf:citekey order="9" intorder="1">web</bcf:citekey>
     <bcf:citekey order="10" intorder="1">modeloNegocio</bcf:citekey>
-    <bcf:citekey order="11" intorder="1">Opreana2015</bcf:citekey>
-    <bcf:citekey order="12" intorder="1">EstudioTurismoenterritoriosruralesdeBogotá</bcf:citekey>
-    <bcf:citekey order="13" intorder="1">Blank2013</bcf:citekey>
-    <bcf:citekey order="14" intorder="1">GioSyst3m</bcf:citekey>
-    <bcf:citekey order="15" intorder="1">FirebaseCloud</bcf:citekey>
-    <bcf:citekey order="16" intorder="1">FirebaseSAAS</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">InboundMarketing</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">MetodologiaLean</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">GioSyst3m</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">FirebaseCloud</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">FirebaseSAAS</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">

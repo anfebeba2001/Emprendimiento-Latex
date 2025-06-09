@@ -1,61 +1,63 @@
 \babel@toc {spanish}{}\relax 
-\contentsline {section}{Resumen}{7}{section*.5}%
-\contentsline {section}{Introducción}{7}{section*.6}%
-\contentsline {section}{Planteamiento del problema}{8}{section*.7}%
-\contentsline {subsection}{Descripción del Problema}{9}{section*.9}%
-\contentsline {subsection}{Formulación del Problema}{10}{section*.10}%
-\contentsline {subsection}{Justificacion del problema}{10}{section*.11}%
-\contentsline {section}{Objetivos}{11}{section*.13}%
-\contentsline {subsection}{Objetivo General}{11}{section*.14}%
-\contentsline {subsection}{Objetivos Específicos}{11}{section*.15}%
-\contentsline {section}{Marco Teórico}{12}{section*.16}%
-\contentsline {subsection}{Analisis de competencia}{12}{section*.17}%
-\contentsline {section}{Antecedentes}{13}{section*.21}%
-\contentsline {subsection}{Antecedentes Nacionales (Colombia): }{13}{section*.22}%
-\contentsline {subsection}{Antecedentes Internacionales: }{14}{section*.23}%
-\contentsline {subsection}{Conceptos del Modelo de Negocio}{15}{section*.24}%
-\contentsline {subsection}{Modelo de negocio: }{15}{section*.25}%
-\contentsline {subsection}{Modelo canva}{15}{section*.26}%
-\contentsline {subsection}{Nómada digital}{17}{section*.28}%
-\contentsline {subsection}{Metodología ágil}{17}{section*.29}%
-\contentsline {subsection}{Metodologia Scrum }{18}{section*.30}%
-\contentsline {subsection}{Página web }{18}{section*.31}%
-\contentsline {section}{Alcances y limitaciones}{18}{section*.32}%
-\contentsline {subsection}{Alcances}{18}{section*.33}%
-\contentsline {subsection}{Limitaciones }{19}{section*.34}%
-\contentsline {section}{Modelo de Negocio}{20}{section*.35}%
-\contentsline {subsection}{Segmento de clientes (SC)}{21}{section*.37}%
-\contentsline {subsection}{Propuesta de valor (PV)}{21}{section*.38}%
-\contentsline {subsection}{Canales de distribución (CD)}{22}{section*.39}%
-\contentsline {subsection}{Relaciones con clientes (RCI)}{22}{section*.40}%
-\contentsline {subsection}{Fuentes de ingresos (FI)}{22}{section*.41}%
-\contentsline {subsection}{Recursos clave (RC)}{22}{section*.42}%
-\contentsline {subsection}{Actividades clave (AC)}{22}{section*.43}%
-\contentsline {subsection}{Asociaciones o socios clave(AsC)}{23}{section*.44}%
-\contentsline {subsection}{Estructura de costos (EC)}{23}{section*.45}%
-\contentsline {section}{Esquema de ventas}{23}{section*.46}%
-\contentsline {subsection}{Elementos clave de un esquema de ventas:}{23}{section*.47}%
-\contentsline {subsection}{Esquema de ventas aplicado}{24}{section*.48}%
-\contentsline {section}{Metodología}{25}{section*.49}%
-\contentsline {subsubsection}{Fase 1: Presentación y compromiso del equipo}{25}{section*.50}%
-\contentsline {subsubsection}{Fase 2: Análisis de la situación}{26}{section*.52}%
-\contentsline {subsubsection}{Fase 3: Definición de la empresa}{26}{section*.54}%
-\contentsline {subsubsection}{Fase 4: Estructuración}{27}{section*.56}%
-\contentsline {subsection}{Cronograma}{28}{section*.58}%
-\contentsline {subsection}{Estructura ideológica}{29}{section*.60}%
-\contentsline {subsection}{Entorno}{30}{section*.61}%
-\contentsline {subsection}{Estructura mecánica}{30}{section*.62}%
-\contentsline {subsection}{Estructura financiera}{31}{section*.63}%
-\contentsline {subsection}{Recursos humanos}{32}{section*.64}%
-\contentsline {section}{Información de la empresa}{32}{section*.65}%
-\contentsline {subsection}{Misión}{32}{section*.66}%
-\contentsline {subsection}{Visión}{33}{section*.67}%
-\contentsline {subsection}{Valores}{33}{section*.68}%
-\contentsline {subsection}{Modelo organizacional}{34}{section*.69}%
-\contentsline {section}{Plan de negocio}{34}{section*.70}%
-\contentsline {subsection}{Estudio de mercado}{34}{section*.71}%
-\contentsline {subsection}{Stakeholders}{40}{section*.81}%
-\contentsline {subsection}{Estudio técnico}{42}{section*.82}%
-\contentsline {subsection}{Prototipo mínimo viable}{47}{section*.91}%
-\contentsline {subsection}{Estudio legal}{61}{section*.92}%
-\contentsline {subsection}{Estudio Ambiental}{64}{section*.97}%
+\contentsline {section}{Resumen}{5}{section*.5}%
+\contentsline {section}{Introducción}{5}{section*.6}%
+\contentsline {section}{Planteamiento del problema}{6}{section*.7}%
+\contentsline {subsection}{Descripción del Problema}{7}{section*.9}%
+\contentsline {subsection}{Formulación del Problema}{8}{section*.10}%
+\contentsline {subsection}{Justificacion del problema}{8}{section*.11}%
+\contentsline {section}{Objetivos}{9}{section*.13}%
+\contentsline {subsection}{Objetivo General}{9}{section*.14}%
+\contentsline {subsection}{Objetivos Específicos}{9}{section*.15}%
+\contentsline {section}{Marco Teórico}{10}{section*.16}%
+\contentsline {subsection}{Analisis de competencia}{10}{section*.17}%
+\contentsline {section}{Antecedentes}{11}{section*.21}%
+\contentsline {subsection}{Antecedentes Nacionales (Colombia): }{11}{section*.22}%
+\contentsline {subsection}{Antecedentes Internacionales: }{12}{section*.23}%
+\contentsline {subsection}{Conceptos del Modelo de Negocio}{13}{section*.24}%
+\contentsline {subsection}{Modelo de negocio: }{13}{section*.25}%
+\contentsline {subsection}{Modelo canva}{13}{section*.26}%
+\contentsline {subsection}{Nómada digital}{15}{section*.28}%
+\contentsline {subsection}{Metodología ágil}{15}{section*.29}%
+\contentsline {subsection}{Metodologia Scrum }{16}{section*.30}%
+\contentsline {subsection}{Página web }{16}{section*.31}%
+\contentsline {section}{Alcances y limitaciones}{16}{section*.32}%
+\contentsline {subsection}{Alcances}{16}{section*.33}%
+\contentsline {subsection}{Limitaciones }{17}{section*.34}%
+\contentsline {section}{Modelo de Negocio}{18}{section*.35}%
+\contentsline {subsection}{Segmento de clientes (SC)}{19}{section*.37}%
+\contentsline {subsection}{Propuesta de valor (PV)}{19}{section*.38}%
+\contentsline {subsection}{Canales de distribución (CD)}{20}{section*.39}%
+\contentsline {subsection}{Relaciones con clientes (RCI)}{20}{section*.40}%
+\contentsline {subsection}{Fuentes de ingresos (FI)}{20}{section*.41}%
+\contentsline {subsection}{Recursos clave (RC)}{20}{section*.42}%
+\contentsline {subsection}{Actividades clave (AC)}{20}{section*.43}%
+\contentsline {subsection}{Asociaciones o socios clave(AsC)}{21}{section*.44}%
+\contentsline {subsection}{Estructura de costos (EC)}{21}{section*.45}%
+\contentsline {section}{Esquema de ventas}{21}{section*.46}%
+\contentsline {subsection}{Elementos clave de un esquema de ventas:}{21}{section*.47}%
+\contentsline {subsection}{Esquema de ventas aplicado}{22}{section*.48}%
+\contentsline {section}{Metodología}{23}{section*.49}%
+\contentsline {subsubsection}{Fase 1: Presentación y compromiso del equipo}{23}{section*.50}%
+\contentsline {subsubsection}{Fase 2: Análisis de la situación}{24}{section*.52}%
+\contentsline {subsubsection}{Fase 3: Definición de la empresa}{24}{section*.54}%
+\contentsline {subsubsection}{Fase 4: Estructuración}{25}{section*.56}%
+\contentsline {subsection}{Cronograma}{26}{section*.58}%
+\contentsline {subsection}{Estructura ideológica}{27}{section*.60}%
+\contentsline {subsection}{Entorno}{28}{section*.61}%
+\contentsline {subsection}{Estructura mecánica}{28}{section*.62}%
+\contentsline {subsection}{Estructura financiera}{29}{section*.63}%
+\contentsline {subsection}{Recursos humanos}{30}{section*.64}%
+\contentsline {section}{Información de la empresa}{30}{section*.65}%
+\contentsline {subsection}{Misión}{30}{section*.66}%
+\contentsline {subsection}{Visión}{31}{section*.67}%
+\contentsline {subsection}{Valores}{31}{section*.68}%
+\contentsline {subsection}{Modelo organizacional}{32}{section*.69}%
+\contentsline {section}{Plan de negocio}{32}{section*.70}%
+\contentsline {subsection}{Estudio de mercado}{32}{section*.71}%
+\contentsline {subsection}{Stakeholders}{39}{section*.81}%
+\contentsline {subsection}{Estudio técnico}{40}{section*.82}%
+\contentsline {subsection}{Tamaño}{40}{section*.83}%
+\contentsline {subsection}{Equipo de trabajo}{44}{section*.88}%
+\contentsline {subsection}{Prototipo mínimo viable}{45}{section*.91}%
+\contentsline {subsection}{Estudio legal}{60}{section*.92}%
+\contentsline {subsection}{Estudio Ambiental}{63}{section*.97}%

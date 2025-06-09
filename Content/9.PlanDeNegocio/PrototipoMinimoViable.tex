@@ -1,54 +1,67 @@
 \subsection{Prototipo mínimo viable}
-{\color{red}
-El objetivo es desarrollar una aplicación que ofrezca servicios de bienestar y entrenamiento personalizado para nómadas digitales en Bogotá. Para ello, se plantea el uso de una serie de tecnologías y arquitecturas que permitan la creación de una plataforma escalable, flexible y adaptada a las necesidades de los usuarios, maximizando su experiencia a través de soluciones de vanguardia en fitness y bienestar.
-
-
+El proyecto tiene como finalidad desarrollar una pagina web que ofrezca recomendaciones confiables y enfocados en la seguridad y comodidad de los nómadas digitales que se encuentran en Bogotá. El desarrollo se llevará a cabo usando arquitecturas y herramientoas que den pie a la creación de
+una plataforma sostenible, escalable y dispuesta a las necesidades de los usuarios, primando la experiencia del usuario a traves de la seguridad y confianza en la información que se le brinda.
 
 \textbf{Tecnologías}
-
 \begin{itemize}
-    
-    \item \textbf{Firebase: } Firebase es una plataforma de desarrollo de aplicaciones web y móviles que incluye servicios de base de datos en la nube, entre otros. Con Firebase, puedes almacenar y sincronizar datos en tiempo real a través de su base de datos en la nube, Firebase Firestore, que permite a los desarrolladores acceder y gestionar datos de manera sencilla desde cualquier lugar.
-    
-    Además, Firebase elimina la necesidad de configurar y mantener servidores o entornos de base de datos, lo que agiliza el desarrollo al ofrecer una solución gestionada completamente desde su plataforma. Esta será la herramienta que se utilizará para la base de datos del proyecto.
-
-   
+    \item \textbf{Spring Boot: } Spring Boot es un framework de desarrollo de aplicaciones Java que simplifica la creación de aplicaciones empresariales. Proporciona una configuración automática y una amplia gama de herramientas para facilitar el desarrollo, lo que permite a los desarrolladores centrarse en la lógica del negocio en lugar de la configuración del entorno.
+    Spring Boot es especialmente útil para crear aplicaciones web y servicios RESTful, ya que incluye características como la gestión de dependencias, la configuración de seguridad y la integración con bases de datos. Además, permite el despliegue rápido de aplicaciones en entornos de producción, lo que lo convierte en una opción popular para el desarrollo ágil.
     \vspace{2mm}
-        \begin{minipage}{0.9\textwidth}
+    \begin{minipage}{0.9\textwidth}
         \centering
-        \captionof{figure}[{Logo FireBase Firestore}]{ Logo FireBase Firestore  }
+        \captionof{figure}[{Logo Spring Boot}]{ Logo Spring Boot  }
         \label{Firestore}
-         \includegraphics[width=0.3\textwidth]{Content/Images/Escudo_UD.png}
-        \footnote{Nota. \textup{Fuente: firebase.com}}
+         \includegraphics[width=0.3\textwidth]{Content/Images/spring-boot-logo.png}
+        \footnote{Nota. \textup{Fuente: spring.io}}
     \end{minipage}
 
-    \item \textbf{Node js: }  Node.js, es un entorno en tiempo de ejecución multiplataforma para la capa del servidor (en el lado del servidor) basado en JavaScript. Node.js es un entorno controlado por eventos diseñado para crear aplicaciones escalables, permitiéndote establecer y gestionar múltiples conexiones al mismo tiempo. 
-   
-    \vspace{2mm}
-        \begin{minipage}{0.9\textwidth}
-        \centering
-        \captionof{figure}[{Logo Node.js}]{ Logo Node.js  }
-        \label{nodeJS}
-        \includegraphics[width=0.3\textwidth]{Content/Images/Escudo_UD.png}
-          %esto es lo nuevo que agregue
-        \footnote{}{Nota. \textup{Fuente: NODEJS.com}}
-    \end{minipage}
-    
-      \item \textbf{Angular: } Angular es un framework de desarrollo web creado por Google que facilita la construcción de aplicaciones web dinámicas y robustas. Lo bueno de Angular es que te permite estructurar y organizar el código de manera eficiente, haciendo que sea mucho más fácil mantener y ampliar proyectos grandes.
-    
-    Angular ofrece un enfoque basado en componentes reutilizables, lo que ayuda a que las aplicaciones sean más fáciles de desarrollar y mantener. Además, incluye herramientas integradas para el manejo de formularios, peticiones HTTP, enrutamiento, entre otros, sin la necesidad de instalar librerías adicionales. Angular también puede ejecutarse tanto en el lado del cliente como en el servidor, lo que le da flexibilidad para adaptarse a diferentes tipos de proyectos.
+    \item \textbf{Angular: } Angular es un framework web que permite a los desarrolladores crear aplicaciones rápidas y fiables.
+    Mantenido por un equipo dedicado de Google, Angular ofrece un amplio conjunto de herramientas, API y bibliotecas para simplificar y optimizar tu flujo de trabajo de desarrollo. Angular te ofrece una plataforma sólida para crear aplicaciones rápidas y fiables que escalan con el tamaño de tu equipo y de tu código fuente.
+
+    Angular es muy util para el desarrollo de aplicaciones web modernas, ya que permite crear interfaces de usuario dinámicas y reactivas. Su enfoque basado en componentes facilita la reutilización del código y mejora la mantenibilidad de las aplicaciones. Además, Angular cuenta con un ecosistema robusto que incluye herramientas para pruebas, enrutamiento y gestión del estado, lo que lo convierte en una opción popular para el desarrollo de aplicaciones empresariales.
     
     \vspace{2mm}
-        \begin{minipage}{0.9\textwidth}
+    \begin{minipage}{0.9\textwidth}
         \centering
         \captionof{figure}[{Logo Angular}]{Logo Angular}
         \label{angularLogo}
-        \includegraphics[width=0.3\textwidth]{Content/Images/Escudo_UD.png}
+        \includegraphics[width=0.25\textwidth]{Content/Images/angular-logo.png}
         \footnote{Nota. \textup{Fuente: angular.io}}
     \end{minipage}
     
+    \item \textbf{PostgreSQL: } PostgreSQL es un potente sistema de base de datos relacional de objetos de código abierto con más de 35 años de desarrollo activo eso le ha valido una sólida reputación de confiabilidad, robustez de características y rendimiento.
+
+    La comunidad de código abierto proporciona muchos lugares útiles para familiarizarse con PostgreSQL, incluyendo la documentación oficial, tutoriales y foros de discusión. PostgreSQL es conocido por su capacidad para manejar grandes volúmenes de datos y transacciones complejas, lo que lo convierte en una opción popular para aplicaciones empresariales y sistemas de gestión de datos críticos.
+    \vspace{2mm}
+    \begin{minipage}{0.9\textwidth}
+        \centering
+        \captionof{figure}[{Logo PostgreSQL}]{Logo PostgreSQL}
+        \label{postgresqlLogo}
+        \includegraphics[width=0.3\textwidth]{Content/Images/postgresql-logo.png}
+        \footnote{Nota. \textup{Fuente: postgresql.org}}
+    \end{minipage}
+
 \end{itemize}
+
 \vspace{5mm}
+\textbf{Arquitectura} 
+
+\begin{itemize}
+    \item\textbf{Arquitectura de microservicios: }Los microservicios son una arquitectura de software donde la aplicación se divide en pequeños servicios independientes, cada uno con una función específica (ej.: autenticación, procesamiento de pagos, geolocalización), que se comunican entre sí mediante APIs. A diferencia de las aplicaciones monolíticas, cada microservicio puede desarrollarse, desplegarse y escalarse por separado, usando tecnologías distintas según su necesidad.
+    Esta arquitectura permite escalar selectivamente funciones críticas (como alertas en tiempo real o validación de zonas), integrar tecnologías diversas y aislar fallos sin colapsar todo el sistema. Además, facilita la expansión modular a nuevas ciudades y optimiza costos en la nube al escalar solo lo necesario
+    \vspace{2mm}
+    \begin{minipage}{0.9\textwidth}
+        \centering
+        \captionof{figure}[{Arquitectura de Microservicios.}]{Ejemplo de arquitectura de microservicios.}
+        \label{microservicios}
+        \includegraphics[width=0.3\textwidth]{Content/Images/microservices-logical.png}
+        \footnote{Nota. \textup{Fuente: learn.microsoft.com/es-es/azure/architecture/guide/architecture-styles/microservices}}
+    \end{minipage}
+%------------------------------------------------------------------%
+
+
+{\color{red}
+
 \textbf{Arquitectura} 
 \begin{itemize}
     

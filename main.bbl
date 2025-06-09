@@ -101,6 +101,41 @@
       \field{title}{Web Development with HTML, CSS, JavaScript, and jQuery}
       \field{year}{2014}
     \endentry
+    \entry{MetodologiaLean}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=46b7514c61898eb6c3e5854eccbf6520}{%
+           family={LLAMAS\bibnamedelima FERNANDEZ},
+           familyi={L\bibinitperiod\bibinitdelim F\bibinitperiod},
+           given={Francisco\bibnamedelima Javier},
+           giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e499c1fec91e5d8d47d6e9fe59946a7f}{%
+           family={FERNANDEZ\bibnamedelima RODRIGUEZ},
+           familyi={F\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Juan\bibnamedelima Carlos},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{10395cefd2cedb26a377b47eb23e4abd}
+      \strng{fullhash}{10395cefd2cedb26a377b47eb23e4abd}
+      \strng{fullhashraw}{10395cefd2cedb26a377b47eb23e4abd}
+      \strng{bibnamehash}{10395cefd2cedb26a377b47eb23e4abd}
+      \strng{authorbibnamehash}{10395cefd2cedb26a377b47eb23e4abd}
+      \strng{authornamehash}{10395cefd2cedb26a377b47eb23e4abd}
+      \strng{authorfullhash}{10395cefd2cedb26a377b47eb23e4abd}
+      \strng{authorfullhashraw}{10395cefd2cedb26a377b47eb23e4abd}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista EAN}
+      \field{number}{84}
+      \field{title}{La metodología Lean Startup: desarrollo y aplicación para el emprendimiento}
+      \field{year}{2018}
+    \endentry
     \entry{EstudioTurismoenterritoriosruralesdeBogotá}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=d9f8af08b5392fe7f162bb7de14af4e1}{%
@@ -130,6 +165,41 @@
       \field{labeltitlesource}{title}
       \field{title}{ESTUDIO TURISMO EN TERRITORIOS RURALES DE BOGOTÁ}
       \field{year}{2023}
+    \endentry
+    \entry{InboundMarketing}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4212ef90d8ea57f4bb1fb5ef8f5c5cec}{%
+           family={Maynés},
+           familyi={M\bibinitperiod},
+           given={Oriol},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4212ef90d8ea57f4bb1fb5ef8f5c5cec}
+      \strng{fullhash}{4212ef90d8ea57f4bb1fb5ef8f5c5cec}
+      \strng{fullhashraw}{4212ef90d8ea57f4bb1fb5ef8f5c5cec}
+      \strng{bibnamehash}{4212ef90d8ea57f4bb1fb5ef8f5c5cec}
+      \strng{authorbibnamehash}{4212ef90d8ea57f4bb1fb5ef8f5c5cec}
+      \strng{authornamehash}{4212ef90d8ea57f4bb1fb5ef8f5c5cec}
+      \strng{authorfullhash}{4212ef90d8ea57f4bb1fb5ef8f5c5cec}
+      \strng{authorfullhashraw}{4212ef90d8ea57f4bb1fb5ef8f5c5cec}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Smartcommerce21.com}
+      \field{month}{11}
+      \field{title}{​Inbound marketing, ¿por dónde empezar y qué necesitas saber?}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://www.smartcommerce21.com/blog/empezar-inbound-marketing
+      \endverb
+      \verb{url}
+      \verb https://www.smartcommerce21.com/blog/empezar-inbound-marketing
+      \endverb
     \endentry
     \entry{Scrum}{misc}{}{}
       \name{author}{1}{}{%
@@ -296,6 +366,41 @@
       \field{title}{Web Development with HTML, CSS, JavaScript, and jQuery}
       \field{year}{2014}
     \endentry
+    \entry{MetodologiaLean}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=46b7514c61898eb6c3e5854eccbf6520}{%
+           family={LLAMAS\bibnamedelima FERNANDEZ},
+           familyi={L\bibinitperiod\bibinitdelim F\bibinitperiod},
+           given={Francisco\bibnamedelima Javier},
+           giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e499c1fec91e5d8d47d6e9fe59946a7f}{%
+           family={FERNANDEZ\bibnamedelima RODRIGUEZ},
+           familyi={F\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Juan\bibnamedelima Carlos},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{10395cefd2cedb26a377b47eb23e4abd}
+      \strng{fullhash}{10395cefd2cedb26a377b47eb23e4abd}
+      \strng{fullhashraw}{10395cefd2cedb26a377b47eb23e4abd}
+      \strng{bibnamehash}{10395cefd2cedb26a377b47eb23e4abd}
+      \strng{authorbibnamehash}{10395cefd2cedb26a377b47eb23e4abd}
+      \strng{authornamehash}{10395cefd2cedb26a377b47eb23e4abd}
+      \strng{authorfullhash}{10395cefd2cedb26a377b47eb23e4abd}
+      \strng{authorfullhashraw}{10395cefd2cedb26a377b47eb23e4abd}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista EAN}
+      \field{number}{84}
+      \field{title}{La metodología Lean Startup: desarrollo y aplicación para el emprendimiento}
+      \field{year}{2018}
+    \endentry
     \entry{EstudioTurismoenterritoriosruralesdeBogotá}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=d9f8af08b5392fe7f162bb7de14af4e1}{%
@@ -325,6 +430,41 @@
       \field{labeltitlesource}{title}
       \field{title}{ESTUDIO TURISMO EN TERRITORIOS RURALES DE BOGOTÁ}
       \field{year}{2023}
+    \endentry
+    \entry{InboundMarketing}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4212ef90d8ea57f4bb1fb5ef8f5c5cec}{%
+           family={Maynés},
+           familyi={M\bibinitperiod},
+           given={Oriol},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4212ef90d8ea57f4bb1fb5ef8f5c5cec}
+      \strng{fullhash}{4212ef90d8ea57f4bb1fb5ef8f5c5cec}
+      \strng{fullhashraw}{4212ef90d8ea57f4bb1fb5ef8f5c5cec}
+      \strng{bibnamehash}{4212ef90d8ea57f4bb1fb5ef8f5c5cec}
+      \strng{authorbibnamehash}{4212ef90d8ea57f4bb1fb5ef8f5c5cec}
+      \strng{authornamehash}{4212ef90d8ea57f4bb1fb5ef8f5c5cec}
+      \strng{authorfullhash}{4212ef90d8ea57f4bb1fb5ef8f5c5cec}
+      \strng{authorfullhashraw}{4212ef90d8ea57f4bb1fb5ef8f5c5cec}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Smartcommerce21.com}
+      \field{month}{11}
+      \field{title}{​Inbound marketing, ¿por dónde empezar y qué necesitas saber?}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://www.smartcommerce21.com/blog/empezar-inbound-marketing
+      \endverb
+      \verb{url}
+      \verb https://www.smartcommerce21.com/blog/empezar-inbound-marketing
+      \endverb
     \endentry
     \entry{Scrum}{misc}{}{}
       \name{author}{1}{}{%
@@ -408,11 +548,9 @@
       \field{year}{1997}
     \endentry
   \enddatalist
-  \missing{Blank2013}
   \missing{FirebaseCloud}
   \missing{FirebaseSAAS}
   \missing{GioSyst3m}
-  \missing{Opreana2015}
 \endrefsection
 \endinput
 
