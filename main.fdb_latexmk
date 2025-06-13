@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 0 "main.bcf" "main.bbl" "main" 1749777132.58488 -1
-  "bibliography.bib" 1749610184 21373 f9cd3446f55d4cab3c1ddd933d540588 ""
-  "main.bcf" 1749777131 134137 d8368e5db8d48f561250593419a6a279 "pdflatex"
+["biber main"] 1749786734.38652 "main.bcf" "main.bbl" "main" 1749786763.26166 0
+  "bibliography.bib" 1749786593 21787 e791ebeaa8eab705165f1a901378253a ""
+  "main.bcf" 1749786762 134137 d8368e5db8d48f561250593419a6a279 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1749777122.34501 "c:/Users/daredevil769/Documents/Emprendimiento/Libro emprendimiento/Emprendimiento-Latex/main.tex" "main.pdf" "main" 1749777132.5862 0
+["pdflatex"] 1749786755.97217 "c:/Users/daredevil769/Documents/Emprendimiento/Libro emprendimiento/Emprendimiento-Latex/main.tex" "main.pdf" "main" 1749786763.26299 0
   "C:/Users/daredevil769/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1748474264 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/daredevil769/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1745887779 13151642 12f8c7ff68f82d719da2bd79e0ec0e69 ""
   "C:/Users/daredevil769/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256929440 2375 baa924870cfb487815765f9094cf3728 ""
@@ -236,19 +236,19 @@
   "Content/Images/modelo_organizacional.png" 1746850096 52616 48dcf770def6ffd85f9aec7aad7f2864 ""
   "Content/Images/postgresql-logo.png" 1749004490 50279 3deaa1713b2359b0158b5670c6fd9931 ""
   "Content/Images/spring-boot-logo.png" 1748999714 25090 7dfd3c58ff1d817371608b353dbc282b ""
-  "Content/index.aux" 1749777131 21545 9ce72e065b74ba6c5124f799bd825860 "pdflatex"
+  "Content/index.aux" 1749786762 21545 cec96ea9a4dc20575f19a1c82901375a "pdflatex"
   "Content/index.tex" 1749613533 1315 d587e3c242dcfc23eaa1336786b0bfa4 ""
   "c:/Users/daredevil769/Documents/Emprendimiento/Libro emprendimiento/Emprendimiento-Latex/main.tex" 1749775183 1378 49bd40dde07a1b4ec1a51c5e2ba11b92 ""
-  "cover.aux" 1749777127 4308 a4a4715ade1dbdc699879eec8e7bde9e "pdflatex"
+  "cover.aux" 1749786758 4308 a4a4715ade1dbdc699879eec8e7bde9e "pdflatex"
   "cover.tex" 1746540686 1032 0b329723b92dcbd62f32cc9cabb6b5a0 ""
-  "main.aux" 1749777131 3141 35ce9643b92d3b11d74978e94c111e1c "pdflatex"
-  "main.bbl" 1749610193 25455 0a689c8f0451978af08978f4cd5e1c96 "biber main"
-  "main.lof" 1749777131 2778 ae4eb8ca3c9981dbd7adac848b482886 "pdflatex"
-  "main.lot" 1749777131 1934 45fe4693d199a413aab399a27f5c5c11 "pdflatex"
-  "main.out" 1749777131 10695 7a21bc12be93e613315b65730f673c39 "pdflatex"
-  "main.run.xml" 1749777131 2361 5e24f29be355e5e1f2088c00565266b4 "pdflatex"
+  "main.aux" 1749786762 3164 7e6f897e1c6b7915960fb9719eeae29d "pdflatex"
+  "main.bbl" 1749786740 33605 3696a1ee8becd3db6ee644ce0e75f8e4 "biber main"
+  "main.lof" 1749786762 2778 ae4eb8ca3c9981dbd7adac848b482886 "pdflatex"
+  "main.lot" 1749786762 1934 45fe4693d199a413aab399a27f5c5c11 "pdflatex"
+  "main.out" 1749786762 10695 7a21bc12be93e613315b65730f673c39 "pdflatex"
+  "main.run.xml" 1749786762 2361 33e49787457545757863eb87e35f0b3c "pdflatex"
   "main.tex" 1749775183 1378 49bd40dde07a1b4ec1a51c5e2ba11b92 ""
-  "main.toc" 1749777131 4481 7ecee01c0a870dce81fe3ebe0d568de7 "pdflatex"
+  "main.toc" 1749786762 4481 7ecee01c0a870dce81fe3ebe0d568de7 "pdflatex"
   (generated)
   "Content/index.aux"
   "cover.aux"

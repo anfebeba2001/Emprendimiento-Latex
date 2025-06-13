@@ -1,9 +1,6 @@
-PWD /home/andres/Documentos/Universidad/emprendimiento/ProyectoLatex
-INPUT /etc/texmf/web2c/texmf.cnf
-INPUT /usr/share/texmf/web2c/texmf.cnf
-INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
-INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /home/andres/Documentos/Universidad/emprendimiento/ProyectoLatex/main.tex
+PWD c:\Users\daredevil769\Documents\Emprendimiento\Libro emprendimiento\Emprendimiento-Latex
+INPUT C:\Users\daredevil769\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT c:\Users\daredevil769\Documents\Emprendimiento\Libro emprendimiento\Emprendimiento-Latex\main.tex
 OUTPUT main.log
 INPUT C:\Users\daredevil769\AppData\Local\Programs\MiKTeX\tex\latex\apa6\apa6.cls
 INPUT C:\Users\daredevil769\AppData\Local\Programs\MiKTeX\tex\latex\apa6\apa6.cls
@@ -274,15 +271,15 @@ INPUT C:\Users\daredevil769\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx
 INPUT C:\Users\daredevil769\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
 OUTPUT main.bcf
 INPUT main.bbl
-INPUT ./main.bbl
-INPUT ./main.bbl
-INPUT ./main.bbl
+INPUT .\main.bbl
+INPUT .\main.bbl
+INPUT .\main.bbl
 INPUT main.bbl
-INPUT ./cover.tex
-INPUT ./cover.tex
+INPUT .\cover.tex
+INPUT .\cover.tex
 OUTPUT cover.aux
-INPUT ./cover.tex
-INPUT ./cover.tex
+INPUT .\cover.tex
+INPUT .\cover.tex
 INPUT cover.tex
 INPUT C:\Users\daredevil769\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmr17.tfm
 INPUT C:\Users\daredevil769\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmbx12.tfm
@@ -769,8 +766,8 @@ INPUT .\Content\Images\analisis-dofa.png
 INPUT .\Content\Images\analisis-dofa.png
 INPUT .\Content\Images\analisis-dofa.png
 INPUT main.aux
-INPUT ./cover.aux
-INPUT ./cover.aux
+INPUT .\cover.aux
+INPUT .\cover.aux
 INPUT cover.aux
 INPUT .\Content\index.aux
 INPUT .\Content\index.aux
