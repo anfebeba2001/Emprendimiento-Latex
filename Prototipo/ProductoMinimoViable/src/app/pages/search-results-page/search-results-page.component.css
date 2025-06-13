@@ -1,0 +1,17 @@
+.searchResultsPageContainer{
+    background-color: rgb(149, 165, 149);
+    width: 95vw;
+    margin: 1vh auto;
+    border-radius: 20px;
+    padding: 2vh 5vw;
+    box-shadow: 15px 15px 15px rgb(0, 0, 0, 0.7);
+    display: flex;
+    flex-direction: column;
+    font-family: Andale Mono, AndaleMono, monospace;
+    color: rgb(0, 0, 0);
+}
+.searchResultsPageTitle h1{
+    font-size: 4vmin;
+    font-weight: 400;
+    margin: 3vmin 0;
+}

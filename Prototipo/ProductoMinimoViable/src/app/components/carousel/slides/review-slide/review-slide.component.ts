@@ -12,7 +12,7 @@ export class ReviewSlideComponent {
   userName: '',
   userImg: '',
   reviewText: '',
-  reviewDate: new Date(),
+  reviewDate: '',
   reviewRating: 0
  }
 }

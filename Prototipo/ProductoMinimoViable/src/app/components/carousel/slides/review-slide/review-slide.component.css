@@ -3,25 +3,51 @@
     background-color: white;
     margin: 1vh 0 5vh 3vw;
     width: 30vw;
-    height: 60%;
     border-radius: 12px;
     font-size: 4vmin;
     font-weight: 200;
     font-family: Andale Mono, AndaleMono, monospace;
+    box-shadow: 10px 15px 10px rgb(0, 0, 0, 0.7);
 }
 
 .review-slide img {
-    width: 10vw;
-    height: 10vw;
+    width: 5vw;
+    height: 5vw;
     border-radius: 100px;
 }
 
 .review-userName {
-    font-size: 3vmin;
+    font-size: 2.4vmin;
     text-align: center;
     width: 100%;
-    font-weight: 200;
+    font-weight: 400;
     font-family: Andale Mono, AndaleMono, monospace;
+}
+
+.review-reviewText {
+    font-size: 2.5vmin;
+    margin: 5%;
+    width: 80%;
+    font-weight: 200;
+    font-family: Andale Mono, AnpricedaleMono, monospace;
+    height: 10vh;
+}
+
+.review-reviewRating {
+    color: rgb(221, 252, 85);
+    font-size: 2.4vmin;
+    text-align: center;
+    width: 100%;
+    font-weight: 400;
+    font-family: Andale Mono, AndaleMono, monospace;
+    margin-top: -1vh;
+}
+
+.nameAndRatingContainer {
+    display: block;
+    text-align: center;
+    width: 12vw;
+    margin: auto;
 }
 
 .userInformationContainer {
@@ -29,8 +55,13 @@
     align-items: center;
     display: flex;
     width: 30vw;
-    padding: 5vmin 3vmin  3vmin 3vmin;
+    padding: 1vh 3vmin 1vh 3vmin;
     background-color: black;
     color: white;
     border-radius: 12px 12px 0 0;
+}
+
+.review-reviewDate {
+    font-size: 2.4vmin;
+    text-align: center;
 }

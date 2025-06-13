@@ -1,9 +1,10 @@
 .imageBg {
-    width: 90vw;
+    width: 80vw;
     height: 40vh;
     object-fit: cover;
     border-radius: 20px 20px 0 0;
-    margin-left: -3vw;
+    margin-left: 4vw;
+    margin-top: -2vh;
     object-position: center;
     box-shadow: 15px 15px 15px rgb(0, 0, 0, 0.7);
 }
