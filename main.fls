@@ -147,6 +147,16 @@ INPUT C:\Users\daredevil769\AppData\Local\Programs\MiKTeX\tex\latex\parskip\pars
 INPUT C:\Users\daredevil769\AppData\Local\Programs\MiKTeX\tex\latex\parskip\parskip.sty
 INPUT C:\Users\daredevil769\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
 INPUT C:\Users\daredevil769\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Users\daredevil769\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT C:\Users\daredevil769\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT C:\Users\daredevil769\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT C:\Users\daredevil769\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT C:\Users\daredevil769\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT C:\Users\daredevil769\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT C:\Users\daredevil769\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT C:\Users\daredevil769\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Users\daredevil769\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Users\daredevil769\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
 INPUT C:\Users\daredevil769\AppData\Local\Programs\MiKTeX\tex\latex\ragged2e\ragged2e.sty
 INPUT C:\Users\daredevil769\AppData\Local\Programs\MiKTeX\tex\latex\ragged2e\ragged2e.sty
 INPUT C:\Users\daredevil769\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
@@ -226,6 +236,15 @@ INPUT C:\Users\daredevil769\AppData\Local\Programs\MiKTeX\tex\latex\colortbl\col
 INPUT C:\Users\daredevil769\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
 INPUT C:\Users\daredevil769\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
 INPUT C:\Users\daredevil769\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
+INPUT .\main.aux
+INPUT .\main.aux
+INPUT main.aux
+INPUT .\cover.aux
+INPUT .\cover.aux
+INPUT cover.aux
+INPUT .\Content\index.aux
+INPUT .\Content\index.aux
+INPUT Content\index.aux
 OUTPUT main.aux
 INPUT C:\Users\daredevil769\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\daredevil769\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -233,8 +252,14 @@ INPUT C:\Users\daredevil769\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\
 INPUT C:\Users\daredevil769\AppData\Local\Programs\MiKTeX\tex\latex\apa6\config\APAamerican.txt
 INPUT C:\Users\daredevil769\AppData\Local\Programs\MiKTeX\tex\latex\apa6\config\APAamerican.txt
 INPUT C:\Users\daredevil769\AppData\Local\Programs\MiKTeX\tex\latex\apa6\config\APAamerican.txt
-OUTPUT main.out
+INPUT .\main.out
+INPUT .\main.out
+INPUT main.out
+INPUT main.out
 OUTPUT main.pdf
+INPUT .\main.out
+INPUT .\main.out
+OUTPUT main.out
 INPUT C:\Users\daredevil769\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\spanish-apa.lbx
 INPUT C:\Users\daredevil769\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\spanish-apa.lbx
 INPUT C:\Users\daredevil769\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\spanish-apa.lbx
@@ -275,32 +300,9 @@ OUTPUT Content\index.aux
 INPUT .\Content\index.tex
 INPUT .\Content\index.tex
 INPUT Content\index.tex
-OUTPUT main.toc
-OUTPUT main.lof
-OUTPUT main.lot
-INPUT .\Content\0.Resumen\Resumen.tex
-INPUT .\Content\0.Resumen\Resumen.tex
-INPUT .\Content\0.Resumen\Resumen.tex
-INPUT .\Content\0.Resumen\Resumen.tex
-INPUT Content\0.Resumen\Resumen.tex
-INPUT .\Content\1.Introduccion\Introduccion.tex
-INPUT .\Content\1.Introduccion\Introduccion.tex
-INPUT .\Content\1.Introduccion\Introduccion.tex
-INPUT .\Content\1.Introduccion\Introduccion.tex
-INPUT Content\1.Introduccion\Introduccion.tex
-INPUT .\Content\2.PlanteamientoDelProblema\PlanteamientoDelProblema.tex
-INPUT .\Content\2.PlanteamientoDelProblema\PlanteamientoDelProblema.tex
-INPUT .\Content\2.PlanteamientoDelProblema\PlanteamientoDelProblema.tex
-INPUT .\Content\2.PlanteamientoDelProblema\PlanteamientoDelProblema.tex
-INPUT Content\2.PlanteamientoDelProblema\PlanteamientoDelProblema.tex
-INPUT .\Content\Images\Gráfica Árbol de problemas emprendimiento (1).png
-INPUT .\Content\Images\Gráfica Árbol de problemas emprendimiento (1).png
-INPUT .\Content\Images\Gráfica Árbol de problemas emprendimiento (1).png
-INPUT .\Content\Images\Gráfica Árbol de problemas emprendimiento (1).png
-INPUT .\Content\Images\Gráfica Árbol de problemas emprendimiento (1).png
-INPUT .\Content\Images\Gráfica Árbol de problemas emprendimiento (1).png
-INPUT .\Content\Images\Gráfica Árbol de problemas emprendimiento (1).png
-INPUT C:\Users\daredevil769\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmri12.tfm
+INPUT .\main.toc
+INPUT .\main.toc
+INPUT main.toc
 INPUT C:\Users\daredevil769\AppData\Local\Programs\MiKTeX\tex\latex\lm\ot1lmr.fd
 INPUT C:\Users\daredevil769\AppData\Local\Programs\MiKTeX\tex\latex\lm\ot1lmr.fd
 INPUT C:\Users\daredevil769\AppData\Local\Programs\MiKTeX\tex\latex\lm\ot1lmr.fd
@@ -332,6 +334,38 @@ INPUT C:\Users\daredevil769\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lm
 INPUT C:\Users\daredevil769\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmbsy10.tfm
 INPUT C:\Users\daredevil769\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmbsy10.tfm
 INPUT C:\Users\daredevil769\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmbsy7.tfm
+OUTPUT main.toc
+INPUT .\main.lof
+INPUT .\main.lof
+INPUT main.lof
+OUTPUT main.lof
+INPUT .\main.lot
+INPUT .\main.lot
+INPUT main.lot
+OUTPUT main.lot
+INPUT .\Content\0.Resumen\Resumen.tex
+INPUT .\Content\0.Resumen\Resumen.tex
+INPUT .\Content\0.Resumen\Resumen.tex
+INPUT .\Content\0.Resumen\Resumen.tex
+INPUT Content\0.Resumen\Resumen.tex
+INPUT .\Content\1.Introduccion\Introduccion.tex
+INPUT .\Content\1.Introduccion\Introduccion.tex
+INPUT .\Content\1.Introduccion\Introduccion.tex
+INPUT .\Content\1.Introduccion\Introduccion.tex
+INPUT Content\1.Introduccion\Introduccion.tex
+INPUT .\Content\2.PlanteamientoDelProblema\PlanteamientoDelProblema.tex
+INPUT .\Content\2.PlanteamientoDelProblema\PlanteamientoDelProblema.tex
+INPUT .\Content\2.PlanteamientoDelProblema\PlanteamientoDelProblema.tex
+INPUT .\Content\2.PlanteamientoDelProblema\PlanteamientoDelProblema.tex
+INPUT Content\2.PlanteamientoDelProblema\PlanteamientoDelProblema.tex
+INPUT .\Content\Images\Gráfica Árbol de problemas emprendimiento (1).png
+INPUT .\Content\Images\Gráfica Árbol de problemas emprendimiento (1).png
+INPUT .\Content\Images\Gráfica Árbol de problemas emprendimiento (1).png
+INPUT .\Content\Images\Gráfica Árbol de problemas emprendimiento (1).png
+INPUT .\Content\Images\Gráfica Árbol de problemas emprendimiento (1).png
+INPUT .\Content\Images\Gráfica Árbol de problemas emprendimiento (1).png
+INPUT .\Content\Images\Gráfica Árbol de problemas emprendimiento (1).png
+INPUT C:\Users\daredevil769\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmri12.tfm
 INPUT .\Content\2.PlanteamientoDelProblema\DescripcionDelProblema.tex
 INPUT .\Content\2.PlanteamientoDelProblema\DescripcionDelProblema.tex
 INPUT .\Content\2.PlanteamientoDelProblema\DescripcionDelProblema.tex
@@ -675,6 +709,62 @@ INPUT .\Content\9.PlanDeNegocio\EstudioAmbiental.tex
 INPUT .\Content\9.PlanDeNegocio\EstudioAmbiental.tex
 INPUT .\Content\9.PlanDeNegocio\EstudioAmbiental.tex
 INPUT Content\9.PlanDeNegocio\EstudioAmbiental.tex
+INPUT .\Content\11.AnalisisInternoExterno\AnalisisInternoExterno.tex
+INPUT .\Content\11.AnalisisInternoExterno\AnalisisInternoExterno.tex
+INPUT .\Content\11.AnalisisInternoExterno\AnalisisInternoExterno.tex
+INPUT .\Content\11.AnalisisInternoExterno\AnalisisInternoExterno.tex
+INPUT Content\11.AnalisisInternoExterno\AnalisisInternoExterno.tex
+INPUT .\Content\11.AnalisisInternoExterno\MatrizPEYEA.tex
+INPUT .\Content\11.AnalisisInternoExterno\MatrizPEYEA.tex
+INPUT .\Content\11.AnalisisInternoExterno\MatrizPEYEA.tex
+INPUT .\Content\11.AnalisisInternoExterno\MatrizPEYEA.tex
+INPUT Content\11.AnalisisInternoExterno\MatrizPEYEA.tex
+INPUT .\Content\Images\Matriz PEYEA.png
+INPUT .\Content\Images\Matriz PEYEA.png
+INPUT .\Content\Images\Matriz PEYEA.png
+INPUT .\Content\Images\Matriz PEYEA.png
+INPUT .\Content\Images\Matriz PEYEA.png
+INPUT .\Content\Images\Matriz PEYEA.png
+INPUT .\Content\Images\Matriz PEYEA.png
+INPUT .\Content\Images\PEYEA.jpeg
+INPUT .\Content\Images\PEYEA.jpeg
+INPUT .\Content\Images\PEYEA.jpeg
+INPUT .\Content\Images\PEYEA.jpeg
+INPUT .\Content\Images\PEYEA.jpeg
+INPUT .\Content\Images\PEYEA.jpeg
+INPUT .\Content\Images\PEYEA.jpeg
+INPUT C:\Users\daredevil769\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-mathit.enc
+INPUT .\Content\11.AnalisisInternoExterno\MatrizDOFA.tex
+INPUT .\Content\11.AnalisisInternoExterno\MatrizDOFA.tex
+INPUT .\Content\11.AnalisisInternoExterno\MatrizDOFA.tex
+INPUT .\Content\11.AnalisisInternoExterno\MatrizDOFA.tex
+INPUT Content\11.AnalisisInternoExterno\MatrizDOFA.tex
+INPUT .\Content\Images\dofa-ejemplo.jpeg
+INPUT .\Content\Images\dofa-ejemplo.jpeg
+INPUT .\Content\Images\dofa-ejemplo.jpeg
+INPUT .\Content\Images\dofa-ejemplo.jpeg
+INPUT .\Content\Images\dofa-ejemplo.jpeg
+INPUT .\Content\Images\dofa-ejemplo.jpeg
+INPUT .\Content\Images\dofa-ejemplo.jpeg
+INPUT .\Content\Images\Matriz-dofa-proyecto.png
+INPUT .\Content\Images\Matriz-dofa-proyecto.png
+INPUT .\Content\Images\Matriz-dofa-proyecto.png
+INPUT .\Content\Images\Matriz-dofa-proyecto.png
+INPUT .\Content\Images\Matriz-dofa-proyecto.png
+INPUT .\Content\Images\Matriz-dofa-proyecto.png
+INPUT .\Content\Images\Matriz-dofa-proyecto.png
+INPUT .\Content\11.AnalisisInternoExterno\AnalisisDOFA.tex
+INPUT .\Content\11.AnalisisInternoExterno\AnalisisDOFA.tex
+INPUT .\Content\11.AnalisisInternoExterno\AnalisisDOFA.tex
+INPUT .\Content\11.AnalisisInternoExterno\AnalisisDOFA.tex
+INPUT Content\11.AnalisisInternoExterno\AnalisisDOFA.tex
+INPUT .\Content\Images\analisis-dofa.png
+INPUT .\Content\Images\analisis-dofa.png
+INPUT .\Content\Images\analisis-dofa.png
+INPUT .\Content\Images\analisis-dofa.png
+INPUT .\Content\Images\analisis-dofa.png
+INPUT .\Content\Images\analisis-dofa.png
+INPUT .\Content\Images\analisis-dofa.png
 INPUT main.aux
 INPUT .\cover.aux
 INPUT .\cover.aux
@@ -684,11 +774,14 @@ INPUT .\Content\index.aux
 INPUT Content\index.aux
 INPUT .\main.out
 INPUT .\main.out
+INPUT main.run.xml
 OUTPUT main.run.xml
 INPUT C:\Users\daredevil769\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmbx10.pfb
 INPUT C:\Users\daredevil769\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmbx10.pfb
 INPUT C:\Users\daredevil769\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmbx12.pfb
 INPUT C:\Users\daredevil769\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmbx12.pfb
+INPUT C:\Users\daredevil769\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmmi12.pfb
+INPUT C:\Users\daredevil769\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmmi12.pfb
 INPUT C:\Users\daredevil769\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr10.pfb
 INPUT C:\Users\daredevil769\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr10.pfb
 INPUT C:\Users\daredevil769\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr12.pfb

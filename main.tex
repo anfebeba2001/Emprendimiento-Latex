@@ -12,6 +12,7 @@
 \usepackage[hidelinks]{hyperref}
 \usepackage[skip=10pt plus1pt, indent=40pt]{parskip}
 \usepackage{float}
+\usepackage{amsmath}
 \usepackage{ragged2e}
 \usepackage[
     style=apa,
@@ -52,5 +53,8 @@
 
 \include{Content/index}
 
+% Ensure all environments are properly closed before ending the document
+% If you have an open \begin{itemize}, close it here:
+\end{itemize}
 
 \end{document}
