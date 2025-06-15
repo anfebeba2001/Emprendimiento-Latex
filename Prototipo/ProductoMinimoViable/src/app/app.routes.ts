@@ -1,20 +1,35 @@
 import { Routes } from '@angular/router';
-import  {HomeComponent} from './pages/home/home.component';
+import { HomeComponent } from './pages/home/home.component';
 import { PlacePageComponent } from './pages/place-page/place-page.component';
 import { SearchResultsPageComponent } from './pages/search-results-page/search-results-page.component';
+import { UserPageComponent } from './pages/user-page/user-page.component';
+import { ProfileSettingsComponent } from './pages/profile-settings/profile-settings.component';
+import { CompanySideViewComponent } from './pages/company-side-view/company-side-view.component';
 
 export const routes: Routes = [
     {
         path: '',
-        component:HomeComponent
+        component: HomeComponent
     },
     {
         path: 'place',
-        component:PlacePageComponent
+        component: PlacePageComponent
     },
     {
         path: 'search-results',
-        component:SearchResultsPageComponent
+        component: SearchResultsPageComponent
+    },
+    {
+        path: 'user-details',
+        component: UserPageComponent
+    },
+    {
+        path: 'profile-settings',
+        component: ProfileSettingsComponent
+    }, 
+    {
+        path: 'company-side-view',
+        component: CompanySideViewComponent
     }
 
 ];

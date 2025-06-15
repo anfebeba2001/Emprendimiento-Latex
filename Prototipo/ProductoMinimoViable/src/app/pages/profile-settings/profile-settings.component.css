@@ -1,0 +1,96 @@
+.profileSettingsContainer {
+    background-color: rgb(149, 165, 149);
+    width: 90vw;
+    margin: 4vmin auto;
+    border-radius: 20px;
+    font-family: Andale Mono, AndaleMono, monospace;
+    padding: 4vmin;
+}
+
+h1 {
+    margin: 2vmin 0;
+    padding-bottom: 2vmin;
+    border-bottom: 2px solid black;
+}
+
+.profileSettingsImage {
+    width: 20vw;
+    height: 20vw;
+    border-radius: 50%;
+    object-fit: cover;
+    margin: 2vh 2vw;
+    display: block;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.7);
+}
+
+.profileSettingsContent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 2vh;
+}
+
+.profileSettingsInfo {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.profileSettingsValue {
+    font-size: 4vmin;
+    color: rgb(0, 0, 0);
+    margin: 1vmin 2vmin;
+    font-weight: bold;
+}
+
+.profileSettingsLabel {
+    font-size: 2.3vmin;
+    color: rgb(0, 0, 0);
+    margin: 1vmin 1vmin;
+}
+
+.profileSettingsButton {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 1vh 2vw;
+    font-size: 2.5vmin;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    width: 20vw;
+}
+
+.profileSettingsButtons {
+    margin: 4vh 0;
+    display: flex;
+    flex-direction: row;
+    gap: 2vh;
+}
+.profilePlanContainer{
+    margin: 2vh 10vw;
+    background-color: rgba(105, 104, 104, 0.3);
+    border-radius: 20px;
+    padding: 2vh 2vw;
+    width: 60vw;
+    display: flex;
+    flex-direction: row;
+}
+.profilePlanLabel {
+    font-size: 2.4vmin;
+    font-family: Andale Mono, AndaleMono, monospace;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 1vh 0;
+}
+.profilePlanValue {
+    font-size: 2.4vmin;
+    font-family: Andale Mono, AndaleMono, monospace;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    background-color: rgb(255, 255, 255, 0.4);
+    border-radius: 10px;
+    padding: 1vh 2vw;
+    text-align: center;
+    margin: auto;
+}

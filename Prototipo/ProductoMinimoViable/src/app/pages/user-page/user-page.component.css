@@ -1,0 +1,131 @@
+.userPageContainer {
+    background-color: rgb(149, 165, 149);
+    width: 90vw;
+    margin: 2vh auto;
+    border-radius: 20px;
+    font-family: Andale Mono, AndaleMono, monospace;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 3vmin;
+    font-family: Andale Mono, AndaleMono, monospace;
+    color: rgb(0, 0, 0);
+    margin: 3vmin 4vw;
+    padding-top: 3vh;
+    padding-bottom: 3vmin;
+    border-bottom: 2px solid black;
+}
+
+.userImage {
+    width: 20vw;
+    height: 20vw;
+    border-radius: 50%;
+    object-fit: cover;
+    margin: 2vh 2vw;
+    display: block;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.7);
+}
+
+.userInfoContainer {
+    flex-direction: row;
+    display: flex;
+}
+
+.userName {
+    font-size: 3vmin;
+    font-family: Andale Mono, AndaleMono, monospace;
+    color: rgb(0, 0, 0);
+    margin: 4vmin 2vw;
+    border-bottom: 2px solid black;
+}
+
+.userAccountCreatedAgo {
+    font-size: 2vmin;
+    color: rgb(63, 61, 61);
+    text-align: right;
+    margin: 0 2vw;
+}
+
+.userRecomendations {
+    width: 30vw;
+    background-color: rgba(105, 104, 104, 0.3);
+    border-radius: 20px;
+    height: 90%
+}
+.userRecomentationsTitle{
+    font-size: 2.4vmin;
+    font-family: Andale Mono, AndaleMono, monospace;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 1vh 0; 
+}
+.RecommendationContainer{
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+}
+.RecommendationName{
+    font-size: 2vmin;
+    font-family: Andale Mono, AndaleMono, monospace;
+    color: rgb(255, 255, 255);
+    padding: 0 2vw;
+}
+.RecommendationPopulation{
+    font-size: 1.8vmin;
+    font-family: Andale Mono, AndaleMono, monospace;
+    color: rgb(255, 255, 255);
+    padding: 0.0 2vw;
+    text-align: right;
+}
+.RecommendationDistance{
+    font-size: 1.8vmin;
+    font-family: Andale Mono, AndaleMono, monospace;
+    color: rgb(255, 255, 255);
+    padding: 0.0 2vw;
+    text-align: right;
+}
+.RecommendationImg{
+    width: 100%;
+    height: 15vmin;
+    margin: 1vh 0;
+    object-fit: cover;
+    border-radius: 0 0 20px 20px;
+}
+.userBasicInfo {
+    background-color: rgb(255, 255, 255, 0.4);
+    border-radius: 20px;
+    height: fit-content;
+    margin: 0 2vw;
+    width: 30vw;
+}
+
+.TravelPointsContainer {
+    flex-direction: row;
+    display: flex;
+    gap: 2vw;
+    margin: 2vh 2vw;
+}
+.TravelPointsLabel{
+    font-size: 2.4vmin;
+    font-family: Andale Mono, AndaleMono, monospace;
+    color: rgb(0, 0, 0);
+}
+.TravelPointsValue{
+    font-size: 2.4vmin;
+    font-family: Andale Mono, AndaleMono, monospace;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    background-color: rgb(255, 255, 255, 0.4);
+    border-radius: 10px;
+    padding: 1vh 2vw;
+    text-align: center;
+    margin: 0 auto;
+}
+.userTravelHistory{
+    font-size: 3vmin;
+    font-family: Andale Mono, AndaleMono, monospace;
+    color: #040041;
+    margin: 2vh 2vw;
+    text-align: center;
+    padding: 1vh 0;
+}

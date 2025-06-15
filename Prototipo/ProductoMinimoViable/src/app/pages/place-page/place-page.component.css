@@ -21,6 +21,8 @@
     font-family: Andale Mono, AndaleMono, monospace;
     color: rgb(0, 0, 0);
     margin: 4vh 0 1vh 4vw;
+    border-bottom: 2px solid black;
+    padding-bottom: 2vmin;
 }
 
 .placeProsContainer {
@@ -29,7 +31,7 @@
     flex-wrap: wrap;
     gap: 3vw;
     width: 80%;
-    padding: 0 2vw;
+    padding: 4vmin 2vw;
 }
 
 .placeProElement {

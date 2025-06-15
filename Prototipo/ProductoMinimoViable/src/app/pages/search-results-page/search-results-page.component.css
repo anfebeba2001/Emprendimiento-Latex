@@ -14,4 +14,6 @@
     font-size: 4vmin;
     font-weight: 400;
     margin: 3vmin 0;
+    padding-bottom: 4vmin;
+    border-bottom: 2px solid black;
 }
