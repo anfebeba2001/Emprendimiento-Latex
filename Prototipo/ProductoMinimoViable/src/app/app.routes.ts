@@ -5,6 +5,7 @@ import { SearchResultsPageComponent } from './pages/search-results-page/search-r
 import { UserPageComponent } from './pages/user-page/user-page.component';
 import { ProfileSettingsComponent } from './pages/profile-settings/profile-settings.component';
 import { CompanySideViewComponent } from './pages/company-side-view/company-side-view.component';
+import { RoutPlannerComponent } from './pages/rout-planner/rout-planner.component';
 
 export const routes: Routes = [
     {
@@ -30,6 +31,10 @@ export const routes: Routes = [
     {
         path: 'company-side-view',
         component: CompanySideViewComponent
+    },
+    {
+        path: 'rout-planner',
+        component: RoutPlannerComponent
     }
 
 ];
