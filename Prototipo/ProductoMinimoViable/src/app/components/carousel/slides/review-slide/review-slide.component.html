@@ -1,11 +1,13 @@
-<div class="review-slide">
-    <div class="userInformationContainer">
-        <img [src]="review.userImg" alt="review Image" />
-        <div class="nameAndRatingContainer">
-        <p class="review-userName">{{review.userName}}</p>
-        <p class="review-reviewRating">{{review.reviewRating}}</p>
+<a href="user-details">
+    <div class="review-slide">
+        <div class="userInformationContainer">
+            <img [src]="review.userImg" alt="review Image" />
+            <div class="nameAndRatingContainer">
+                <p class="review-userName">{{review.userName}}</p>
+                <p class="review-reviewRating">{{review.reviewRating}}</p>
+            </div>
         </div>
+        <p class="review-reviewText">{{review.reviewText}}</p>
+        <p class="review-reviewDate">{{review.reviewDate}}</p>
     </div>
-    <p class="review-reviewText">{{review.reviewText}}</p>
-    <p class="review-reviewDate">{{review.reviewDate}}</p>
-</div>
+</a>

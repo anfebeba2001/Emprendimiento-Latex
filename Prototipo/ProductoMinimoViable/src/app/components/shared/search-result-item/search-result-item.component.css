@@ -10,7 +10,10 @@
     background-image: linear-gradient(to right, #ffffff, #bee4a5);
 }
 
-
+a {
+    color: inherit;
+    text-decoration: none;
+}
 .searchResultsPageContainer img {
     width: 25vw; 
     height: 100%;

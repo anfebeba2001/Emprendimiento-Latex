@@ -60,7 +60,14 @@
     color: white;
     border-radius: 12px 12px 0 0;
 }
-
+a {
+    color: inherit;
+    text-decoration: none;
+    font: inherit;
+    background: none;
+    border: none;
+    outline: none;
+}
 .review-reviewDate {
     font-size: 2.4vmin;
     text-align: center;
