@@ -1,0 +1,16 @@
+<a href="place">
+    <div class="searchResultsPageContainer">
+        <img [src]="item.image" [alt]="item.image" class="imageBg" />
+
+        <div class="place-information">
+            <p class="place-title">{{item.name}}</p>
+            <p class="place-location">{{item.location}}</p>
+        </div>
+
+        <div class="place-rating-container">
+            <p class="place-rating">{{item.rating}} ★</p>
+            <p class="place-votesUp">{{item.votesUp}}↑</p>
+            <p class="place-votesDown">{{item.votesDown}}↓</p>
+        </div>
+    </div>
+</a>

@@ -1,0 +1,8 @@
+<div class="searchResultsPageContainer">
+    <div class="searchResultsPageTitle">
+        <h1>Resultados de tu búsqueda</h1>
+    </div>
+    <div *ngFor="let item of items">
+        <app-search-result-item [item]="item"></app-search-result-item>
+    </div>
+</div>
