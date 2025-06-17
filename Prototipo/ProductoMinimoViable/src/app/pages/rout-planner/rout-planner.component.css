@@ -1,0 +1,125 @@
+.RoutPlannerPageContainer {
+    background-color: rgb(149, 165, 149);
+    width: 95vw;
+    margin: 1vh auto;
+    border-radius: 20px;
+    padding: 2vh 5vw;
+    box-shadow: 15px 15px 15px rgb(0, 0, 0, 0.7);
+    display: flex;
+    flex-direction: column;
+    font-family: Andale Mono, AndaleMono, monospace;
+    color: rgb(0, 0, 0);
+}
+
+.RoutPlannerHeader {
+    font-size: 4vmin;
+    padding-bottom: 4vmin;
+}
+
+.RoutPlannerTitle {
+    font-size: 5vmin;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 3vmin;
+    color: rgb(34, 70, 34);
+    letter-spacing: 0.1em;
+}
+
+.RoutPlannerAddStepButton {
+    color: white;
+    background-color: rgb(34, 139, 34);
+    border: none;
+    border-radius: 10px;
+    padding: 1vmin 3vw;
+    font-size: 2.2vmin;
+    font-family: Andale Mono, AndaleMono, monospace;
+    cursor: pointer;
+    box-shadow: 2px 2px 8px rgba(0,0,0,0.2);
+    transition: background 0.2s;
+    
+}
+
+.RoutPlannerAddStepButton:hover {
+    background-color: rgb(46, 160, 46);
+}
+
+.RoutPlannerStepContainer {
+    background-color: #f6fff6;
+    border-radius: 16px;
+    box-shadow: 4px 4px 16px rgba(34, 70, 34, 0.10);
+    margin-bottom: 3vmin;
+    padding: 2vmin 2vw;
+    display: flex;
+    flex-direction: column;
+    transition: box-shadow 0.2s;
+}
+
+.RoutPlannerStepContainer:hover {
+    box-shadow: 8px 8px 24px rgba(34, 70, 34, 0.18);
+}
+
+.RoutPlannerStep {
+    display: flex;
+    align-items: stretch;
+    gap: 2vw;
+}
+
+.RoutPlannerStepImage {
+    width: 28vw;
+    height: 28vmin;
+    object-fit: cover;
+    border-radius: 12px;
+    box-shadow: 2px 2px 8px rgba(34, 70, 34, 0.10);
+    border: 2px solid #94c794;
+    background: #eafbe9;
+}
+
+.RoutPlannerStepSchedule {
+    background-color: rgba(92, 99, 92, 0.18);
+    width: 60vw;
+    border-radius: 10px;
+    padding: 2vmin 2vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.RoutPlannerStepTitle {
+    padding: 1.5vmin 0;
+    text-align: center;
+    border-bottom: 2px solid #228822;
+    font-size: 2.6vmin;
+    font-weight: bold;
+    color: #092209;
+    letter-spacing: 0.08em;
+    margin-bottom: 1vmin;
+}
+
+.RoutPlannerStepDay {
+    font-size: 2.2vmin;
+    font-family: Andale Mono, AndaleMono, monospace;
+    color: #224622;
+    font-weight: bold;
+    padding: 1vmin 2vw;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 1vmin;
+    background: #eafbe9;
+    border-radius: 8px;
+    box-shadow: 1px 1px 4px rgba(34, 70, 34, 0.08);
+    width: fit-content;
+}
+.RoutPlannerStepPrice{
+    font-size: 2.6vmin;
+    font-family: Andale Mono, AndaleMono, monospace;
+    color: #000000;
+    font-weight: bold;
+    padding: 1.2vmin 2.5vw;
+    text-align: center;
+    margin: 1.5vmin auto 0 auto;
+    background: linear-gradient(90deg, #c1cfc1 60%, #068f28 100%);
+    border-radius: 10px;
+    box-shadow: 10px 5px 1px rgba(34, 70, 34, 0.7);
+    width: fit-content;
+    letter-spacing: 0.12em;
+}

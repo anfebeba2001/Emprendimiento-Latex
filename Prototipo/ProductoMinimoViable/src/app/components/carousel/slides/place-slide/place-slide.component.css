@@ -1,0 +1,147 @@
+.place-slide {
+  width: 95vw;
+  height: 30vmax;
+  position: relative;
+  display: flex;
+  justify-content: flex-start;
+  transition: all 1s ease;
+  background-color: rgb(177, 233, 193);
+  padding: 1rem;
+}
+
+.place-slide:hover {
+
+  background-color: rgb(255, 255, 255);
+  transition: all 1s ease;
+
+}
+
+.place-information {
+  height: 80%;
+  margin-top: 2%;
+  width: 45%;
+  margin-left: 6%;
+}
+
+.place-title {
+  font-size: 4vmin;
+  font-weight: 200;
+  font-family: Andale Mono, AndaleMono, monospace;
+}
+
+.place-location {
+   font-size: 3vmin;
+  font-weight: 900;
+  font-family: Andale Mono, AndaleMono, monospace;
+  margin-top: 2vw;
+}
+
+.place-description {
+  font-size: 3vmin;
+  font-weight: 200;
+  font-family: Andale Mono, AndaleMono, monospace;
+
+}
+
+.place-price-label {
+  box-shadow: 7px 0px 7px black;
+  font-family: Andale Mono, AndaleMono, monospace;
+  font-size: 3vmin;
+  font-weight: 200;
+  background-color: rgb(255, 255, 255);
+  padding-right: 3vmin;
+  padding-left: 3vmin;
+  padding-top: 2vmin;
+  bottom: -3vh;
+  border-radius: 10px;
+  right: 2vw;
+  width: 40vw;
+  margin-bottom: -10px;
+  position: absolute;
+  color: rgb(0, 0, 0);
+  z-index: 3;
+}
+
+.place-rating {
+  font: small-caps 200 2vmax/1.5;
+  font-family: Andale Mono, AndaleMono, monospace;
+  display: inline-block;
+}
+
+
+.place-rating-container {
+  box-shadow: 0px 15px 15px rgb(46, 46, 46);
+  font-size: 3vmin;
+  font-weight: 200;
+  padding-top:0.7vh ;
+  width: 40%;
+  position: absolute;
+  border-radius: 5px;
+  padding-left: 3%;
+  height: 10%;
+  top: -2vh;
+  right: 1%;
+  display: inline-block;
+  background-color: rgb(255, 255, 255);
+}
+
+.place-votesUp {
+  font: small-caps 200 2vmax/1.5;
+  font-family: Andale Mono, AndaleMono, monospace;
+  color: rgb(0, 141, 47);
+  display: inline-block;
+  margin-left: 5%;
+  margin-right: 5%;
+  top: 1%;
+  right: 35%;
+}
+
+.place-votesDown {
+  font: small-caps 200 2vmax/1.5;
+  font-family: Andale Mono, AndaleMono, monospace;
+  color: rgb(197, 0, 0);
+  display: inline-block;
+  top: 1%;
+  right: 15%;
+}
+
+.place-slide img {
+  position: absolute;
+  border-radius: 15px;
+  box-shadow: 15px 0px 15px black;
+  width: 40%;
+  height: 70%;
+  object-fit: cover;
+  float: inline-end;
+  right: 7vw;
+  top: 10%;
+}
+
+.prev,
+.next {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 24px;
+  background: rgba(0, 0, 0, 0.4);
+  color: white;
+  border: none;
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 50%;
+}
+
+.place-button {
+  background-color: transparent;
+  color: rgb(0, 0, 0);
+  border: none;
+  cursor: pointer;
+}
+
+.prev {
+  left: 1vw;
+}
+
+.next {
+  right: 1vw;
+}

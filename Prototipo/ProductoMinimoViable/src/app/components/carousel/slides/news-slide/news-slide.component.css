@@ -1,0 +1,67 @@
+.newElement-Slide {
+    display: inline-block;
+    background-color: white;
+    margin: 1vh 0 5vh 3vw;
+    width: 30vw;
+    height: 40vmin;
+    border-radius: 12px;
+}
+
+.newElement-title {
+    border-radius: 12px 12px 0 0;
+    box-shadow: 0px 4px 5px rgb(46, 46, 46);
+    align-items: center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    font-size: 2.5vmin;
+    font-weight: 200;
+    height: 30%;
+    font: small-caps 500 2.5vmin/1.5;
+    font-family: Andale Mono, AndaleMono, monospace;
+    width: 100%;
+    background-color: rgb(177, 233, 193);
+    padding: 1vmin;
+    text-align: center;
+}
+
+.newElement-description {
+    font-size: 2.5vmin;
+    font-weight: 200;
+    font-family: Andale Mono, AndaleMono, monospace;
+    width: 100%;
+    padding: 0 1vmin 0 1vmin;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    height: 35%;
+    line-height: 3vmin;
+}
+
+.newElement-date {
+    font-size: 2vmin;
+    font-weight: 200;
+    font: small-caps 200 2.5vmin/1.5;
+    font-family: Andale Mono, AndaleMono, monospace;
+    padding: 2vh 1vmin 0 1vmin;
+
+    color: aliceblue;
+    position: absolute;
+    bottom: 0vh;
+    width: 37%;
+}
+
+.newElement-provider {
+    font-size: 2.5vmin;
+    font-weight: 200;
+    font: small-caps 200 2.5vmin/1.5;
+    font-family: Andale Mono, AndaleMono, monospace;
+    padding: 0 1vmin 0 1vmin;
+
+    color: aliceblue;
+    position: absolute;
+    bottom: -4vh;
+    width: 30%;
+}
+
