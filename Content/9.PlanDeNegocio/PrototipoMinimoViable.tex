@@ -48,288 +48,189 @@ una plataforma sostenible, escalable y dispuesta a las necesidades de los usuari
 
 \begin{itemize}
     \item\textbf{Arquitectura de microservicios: }Los microservicios son una arquitectura de software donde la aplicación se divide en pequeños servicios independientes, cada uno con una función específica (ej.: autenticación, procesamiento de pagos, geolocalización), que se comunican entre sí mediante APIs. A diferencia de las aplicaciones monolíticas, cada microservicio puede desarrollarse, desplegarse y escalarse por separado, usando tecnologías distintas según su necesidad.
-    Esta arquitectura permite escalar selectivamente funciones críticas (como alertas en tiempo real o validación de zonas), integrar tecnologías diversas y aislar fallos sin colapsar todo el sistema. Además, facilita la expansión modular a nuevas ciudades y optimiza costos en la nube al escalar solo lo necesario
-    \vspace{2mm}
-    \begin{minipage}{0.9\textwidth}
-        \centering
-        \captionof{figure}[{Arquitectura de Microservicios.}]{Ejemplo de arquitectura de microservicios.}
-        \label{microservicios}
-        \includegraphics[width=0.3\textwidth]{Content/Images/microservices-logical.png}
-        \footnote{Nota. \textup{Fuente: learn.microsoft.com/es-es/azure/architecture/guide/architecture-styles/microservices}}
-    \end{minipage}
-%------------------------------------------------------------------%
+        Esta arquitectura permite escalar selectivamente funciones críticas (como alertas en tiempo real o validación de zonas), integrar tecnologías diversas y aislar fallos sin colapsar todo el sistema. Además, facilita la expansión modular a nuevas ciudades y optimiza costos en la nube al escalar solo lo necesario
+        \vspace{2mm}
+        \begin{center}
+        \begin{minipage}{0.9\textwidth}
+            \centering
+            \captionof{figure}[{Arquitectura de Microservicios.}]{Ejemplo de arquitectura de microservicios.}
+            \label{microservicios}
+            \includegraphics[width=0.9\textwidth]{Content/Images/microservices-logical.png}
+            \footnote{Nota. \textup{Fuente: learn.microsoft.com/es-es/azure/architecture/guide/architecture-styles/microservices}}
+        \end{minipage}
+        \end{center}
+        \item \textbf{Arquitectura hexagonal: } La arquitectura hexagonal, también llamada arquitectura de puertos y adaptadores, es un enfoque propuesto por Alistair Cockburn que estructura el software en capas para separar claramente las funcionalidades. Su objetivo principal es mantener el núcleo del sistema (el dominio) aislado, permitiendo que las interacciones con servicios externos (como bases de datos o APIs) se realicen a través de adaptadores específicos.
 
+Gracias a esta separación, los distintos componentes del sistema pueden evolucionar y mantenerse de forma independiente, lo que facilita tanto la escalabilidad como la integración de nuevas tecnologías o servicios. En este modelo, el dominio central permanece protegido de los cambios externos, mientras que los adaptadores gestionan la comunicación con el entorno.
 
-{\color{red}
-
-\textbf{Arquitectura} 
-\begin{itemize}
-    
-    \item \textbf{Arquitectura de microservicios: } La arquitectura de microservicios es un enfoque de desarrollo de aplicaciones que divide el software en pequeños servicios independientes, cada uno enfocado en realizar una función específica del negocio. Estos microservicios funcionan de manera autónoma y pueden estar desarrollados en diferentes lenguajes de programación. Se comunican entre sí a través de APIs y, en muchos casos, utilizan su propio sistema de almacenamiento, lo que contribuye a la estabilidad y escalabilidad de la aplicación al evitar sobrecargas y puntos únicos de fallo.
-    
-    Este enfoque ha sido seleccionado para la arquitectura del back-end, ya que facilita la implementación modular de los servicios necesarios para el negocio. Además, permite que cada servicio se despliegue de manera independiente, lo cual es ideal para su posterior despliegue en plataformas como Firebase.
-    
-    \vspace{2mm}
-    \begin{minipage}{0.9\textwidth}
-        \centering
-        \captionof{figure}[{Arquitectura de Microservicios.}]{Ejemplo de arquitectura de microservicios.}
-        \label{microservicios}
-        \includegraphics[width=0.3\textwidth]{Content/Images/Escudo_UD.png}
-        \footnote{Nota. \textup{Fuente: decidesoluciones.es/arquitectura-de-microservicios}}
-    \end{minipage}
-    
-    \item \textbf{Arquitectura hexagonal: } La Arquitectura Hexagonal, también conocida como Arquitectura de Puertos y Adaptadores, es un patrón de diseño propuesto por Alistair Cockburn, que organiza el software en capas con el objetivo de aislar cada funcionalidad, permitiendo una evolución más ordenada y modular del sistema. El núcleo de esta arquitectura es el dominio, y cada lado del hexágono representa una interacción con servicios externos, facilitando así la integración y adaptabilidad a futuros cambios.
-    
-    Esta arquitectura permite que los componentes del sistema se mantengan independientes unos de otros, facilitando el mantenimiento y la escalabilidad. En este caso, el dominio principal se mantiene aislado mientras que los adaptadores interactúan con bases de datos, APIs, y otros servicios externos.
-    
-    \vspace{2mm}
-    \begin{minipage}{0.9\textwidth}
-        \centering
-        \captionof{figure}[{Arquitectura Hexagonal.}]{Ejemplo de arquitectura hexagonal.}
-        \label{hexagonal}
-        \includegraphics[width=0.3\textwidth]{Content/Images/Escudo_UD.png}
-        \footnote{Nota. \textup{Fuente: https://softwarecrafters.io/react/arquitectura-hexagonal-frontend}}
-    \end{minipage}
-
+\vspace{2mm}
+\begin{minipage}{0.9\textwidth}
+    \centering
+    \captionof{figure}[{Arquitectura Hexagonal.}]{Ejemplo de arquitectura hexagonal.}
+    \label{hexagonal}
+    \includegraphics[width=0.5\textwidth]{Content/Images/hexagonal.png}
+    \footnote{Nota. \textup{Fuente: https://softwarecrafters.io/react/arquitectura-hexagonal-frontend}}
+\end{minipage}
     
 \end{itemize}
-
-\textbf{Infraestructura }
+\textbf{Infraestructura}
 \newline
-La computación en la nube sigue siendo un componente fundamental de este proyecto, permitiendo la entrega y uso de almacenamiento, servidores, aplicaciones y otros recursos a través de Internet, bajo un modelo de pago por consumo. En lugar de depender de centros de datos locales o infraestructuras físicas, la infraestructura utilizada se apoya en servicios remotos y gestionados, lo que permite una escalabilidad eficiente y una gestión optimizada de los recursos.
+La computación en la nube constituye un pilar esencial para este proyecto, ya que posibilita el acceso y la provisión de almacenamiento, servidores, aplicaciones y otros recursos a través de Internet bajo un modelo de pago por uso. En vez de depender de infraestructuras físicas o centros de datos locales, se recurre a servicios remotos y gestionados, lo que facilita la escalabilidad y optimiza la administración de los recursos.
 
-Para este proyecto, se ha seleccionado Firebase como plataforma en la nube. Firebase ofrece una infraestructura integral que facilita el desarrollo y despliegue de aplicaciones, proporcionando servicios como bases de datos en tiempo real, almacenamiento, autenticación y hosting, todos gestionados de manera centralizada. Esto elimina la necesidad de administrar servidores físicos o realizar configuraciones complejas, ya que la plataforma maneja estos aspectos, permitiendo que el desarrollo se enfoque exclusivamente en la creación de la aplicación. \cite{FirebaseCloud}.
+En este contexto, se ha optado por AWS Lightsail como plataforma en la nube. AWS Lightsail proporciona una infraestructura sencilla y rentable que facilita tanto el desarrollo como el despliegue de aplicaciones, ofreciendo servicios como servidores virtuales, almacenamiento, bases de datos y gestión de redes, todo desde una única plataforma. Esto elimina la necesidad de gestionar servidores físicos o realizar configuraciones complejas, permitiendo que el equipo de desarrollo se concentre en la creación de la aplicación. 
 \newline
-\textbf{Software as a Service (SaaS) :}
-El modelo SaaS (Software como Servicio) se utiliza de manera prominente en este proyecto, ya que Firebase funciona bajo este esquema. Firebase, al ser un servicio gestionado, permite a los desarrolladores centrarse en el desarrollo del software sin tener que preocuparse por la administración de servidores, las actualizaciones de seguridad o la gestión de licencias. Los usuarios finales pueden acceder a la aplicación y sus funcionalidades desde cualquier ubicación con una conexión a Internet, lo que simplifica tanto el uso como la operación del sistema. \cite{FirebaseSAAS}
+\textbf{Software as a Service (SaaS):}
+El modelo SaaS (Software como Servicio) es ampliamente utilizado en este proyecto, ya que AWS Lightsail permite implementar soluciones bajo este enfoque. Al tratarse de un servicio gestionado, Lightsail permite a los desarrolladores enfocarse en el desarrollo del software sin preocuparse por la administración de servidores físicos, actualizaciones de seguridad o gestión de licencias. Los usuarios pueden acceder a la aplicación y sus funcionalidades desde cualquier lugar con conexión a Internet, lo que simplifica tanto el uso como la operación del sistema. 
 
-
-\textbf{Requerimientos}
+\textbf{Requisitos}
 
 \begin{enumerate}
     \item Funcionales
         \par\vspace{2mm}
         \begin{minipage}{0.9\textwidth}
         \centering
-        \captionof{table}[{Requerimiento funcional RF-001.}]{ Requerimiento funcional RF-001. }
+        \captionof{table}[{Requisitos funcionales.}]{ Requisitos funcionales.}
         \label{req1}
-        \includegraphics[width=0.3\textwidth]{Content/Images/Escudo_UD.png}
+        \includegraphics[width=1\textwidth]{Content/Images/requisitos.png}
         \footnote{}{Nota. \textup{Fuente : Autores.}}
         \end{minipage}
-        
-        \vspace{2mm}
-        \begin{minipage}{0.9\textwidth}
-        \centering
-        \captionof{table}[{Requerimiento funcional RF-002.}]{ Requerimiento funcional RF-002. }
-        \label{req2}
-        \includegraphics[width=0.3\textwidth]{Content/Images/Escudo_UD.png}
-        \footnote{}{Nota. \textup{Fuente : Autores.}}
-        \end{minipage}
-        
-        \vspace{2mm}
-        \begin{minipage}{0.9\textwidth}
-        \centering
-        \captionof{table}[{Requerimiento funcional RF-003.}]{ Requerimiento funcional RF-003. }
-        \label{req3}
-        \includegraphics[width=0.3\textwidth]{Content/Images/Escudo_UD.png}
-        \footnote{}{Nota. \textup{Fuente : Autores.}}
-        \end{minipage}
-        
-        \vspace{2mm}
-        \begin{minipage}{0.9\textwidth}
-        \centering
-        \captionof{table}[{Requerimiento funcional RF-004.}]{ Requerimiento funcional RF-004. }
-        \label{req4}
-        \includegraphics[width=0.3\textwidth]{Content/Images/Escudo_UD.png}
-        \footnote{}{Nota. \textup{Fuente : Autores.}}
-        \end{minipage}
-        
-        \vspace{2mm}
-        \begin{minipage}{0.9\textwidth}
-        \centering
-        \captionof{table}[{Requerimiento funcional RF-005.}]{ Requerimiento funcional RF-005. }
-        \label{req5}
-        \includegraphics[width=0.3\textwidth]{Content/Images/Escudo_UD.png}
-        \footnote{Nota. \textup{Fuente : Autores.}}
-        \end{minipage}
-        
-        \vspace{2mm}
-    %    \begin{minipage}{0.9\textwidth}
-    %    \centering
-    %    \captionof{table}[{Requerimiento funcional RF-006.}]{ Requerimiento funcional RF-006. }
-    %    \label{req6}
-
-    %    \end{minipage}
-        
-
-        
+           
     \item No funcionales
-    
-        
-        \vspace{2mm}
+    \par\vspace{2mm}
         \begin{minipage}{0.9\textwidth}
         \centering
-        \captionof{table}[{Requerimiento no funcional RNF-001.}]{ Requerimiento no funcional RNF-001. }
-        \label{reqnf1}
-         \includegraphics[width=1\textwidth]{Content/Images/Escudo_UD.png}
-        \footnote{Nota. \textup{Fuente : Autores.}}
-        \end{minipage}
-        
-        \vspace{2mm}
-        \begin{minipage}{0.9\textwidth}
-        \centering
-        \captionof{table}[{Requerimiento no funcional RNF-002.}]{ Requerimiento no funcional RNF-002. }
-        \label{reqnf2}
-        \includegraphics[width=1\textwidth]{Content/Images/Escudo_UD.png}
-        \footnote{Nota. \textup{Fuente : Autores.}}
-        \end{minipage}
-
-        \vspace{2mm}
-        \begin{minipage}{0.9\textwidth}
-        \centering
-        \captionof{table}[{Requerimiento no funcional RNF-003.}]{ Requerimiento no funcional RNF-003. }
-        \label{reqnf3}
-        \includegraphics[width=1\textwidth]{Content/Images/Escudo_UD.png}
+        \captionof{table}[{Requisitos no funcionales.}]{ Requisitos no funcionales.}
+        \label{req1}
+        \includegraphics[width=1\textwidth]{Content/Images/requisitosNF.png}
         \footnote{}{Nota. \textup{Fuente : Autores.}}
         \end{minipage}
         
 \end{enumerate}
 
 \textbf{Casos de uso}
-    
     \vspace{2mm}
     \begin{minipage}{0.9\textwidth}
     \centering
-    \captionof{figure}[{Caso de uso RF-001.}]{ Caso de uso RF-001. }
+    \captionof{figure}[{Diagramas de caso de uso.}]{Diagramas de caso de uso.}
     \label{caso1}
-    \includegraphics[width=0.3\textwidth]{Content/Images/Escudo_UD.png}
+    \includegraphics[width=0.9\textwidth]{Content/Images/CasosDeUso.png}
     \footnote{Nota. \textup{Fuente : Autores.}}
     \end{minipage}
-    
-    \vspace{2mm}
-    \begin{minipage}{0.9\textwidth}
-    \centering
-    \captionof{figure}[{Caso de uso RF-002.}]{ Caso de uso RF-002. }
-    \label{caso2}
-    \includegraphics[width=0.3\textwidth]{Content/Images/Escudo_UD.png}
-    \footnote{Nota. \textup{Fuente : Autores.}}
-    \end{minipage}
-    
-    \vspace{2mm}
-    \begin{minipage}{0.9\textwidth}
-    \centering
-    \captionof{figure}[{Caso de uso RF-003.}]{ Caso de uso RF-003. }
-    \label{caso3}
-    \includegraphics[width=0.3\textwidth]{Content/Images/Escudo_UD.png}
-    \footnote{Nota. \textup{Fuente : Autores.}}
-    \end{minipage}
-    
-    \vspace{2mm}
-    \begin{minipage}{0.9\textwidth}
-    \centering
-    \captionof{figure}[{Caso de uso RF-004.}]{ Caso de uso RF-004. }
-    \label{caso4}
-    \includegraphics[width=0.3\textwidth]{Content/Images/Escudo_UD.png}
-    \footnote{Nota. \textup{Fuente : Autores.}}
-    \end{minipage}
-    
-    \vspace{2mm}
-    \begin{minipage}{0.9\textwidth}
-    \centering
-    \captionof{figure}[{Caso de uso RF-005.}]{ Caso de uso RF-005. }
-    \label{caso1}
-    \includegraphics[width=0.3\textwidth]{Content/Images/Escudo_UD.png}
-    \footnote{Nota. \textup{Fuente : Autores.}}
-    \end{minipage}
-    
+    %------------------------------------------------------------------%
 
 
 \textbf{Vistas principales del prototipo}
-De acuerdo a los requerimientos funcionales y no funcionales junto con los casos de uso, a continuación, en las figuras \ref{prot1}, \ref{prot2}, \ref{prot3}, \ref{prot4}, \ref{prot5}, \ref{prot6}, \ref{prot7}, \ref{prot8}, se adjuntan las vistas que representan el núcleo del plan de negocio. Todas las ilustraciones utilizadas en la creación de este prototipo fueron generadas y desarrolladas específicamente para el presente proyecto.
-
-Los manuales para la instalación y el uso de este prototipo se pueden encontrar en los anexos del documento:
-\begin{itemize}
-    \item \hyperref[manual-usuario]{Manual de Usuario}
-    \item \hyperref[manual-instalacion]{Manual de Instalación}
-    \item \hyperref[manual-despliegue]{Manual de Despliegue en Vercel}
-\end{itemize}
-
+En función de los requisitos funcionales, no funcionales y los casos de uso definidos, a continuación se presentan en las figuras \ref{prot1}, \ref{prot2}, \ref{prot3}, \ref{prot4}, \ref{prot5}, \ref{prot6}, \ref{prot7}, \ref{prot8} , \ref{prot9} , \ref{prot10} ,\ref{prot11} ,\ref{prot12} las principales vistas que conforman el núcleo del plan de negocio. Todas las imágenes mostradas en este prototipo fueron diseñadas y desarrolladas exclusivamente para este proyecto.
 
     \vspace{2mm}
     \begin{minipage}{0.9\textwidth}
     \centering
-    \captionof{figure}[{Vista principal}]{ Vista principal }
+    \captionof{figure}[{Vista principal parte I}]{ Vista principal parte I}
     \label{prot1}
-    \includegraphics[width=0.3\textwidth]{Content/Images/Escudo_UD.png}
+    \includegraphics[width=0.9\textwidth]{Content/Images/VistaGeneral1.png}
     \footnote{Nota. \textup{Fuente: Autores}}
     \end{minipage}
-    
+
+    \vspace{2mm}
+    \begin{minipage}{0.9\textwidth}
+    \centering
+    \captionof{figure}[{Vista principal parte II}]{ Vista principal parte II}
+    \label{prot2}
+    \includegraphics[width=0.9\textwidth]{Content/Images/VistaGeneral2.png}
+    \footnote{Nota. \textup{Fuente: Autores}}
+    \end{minipage}
+
+    \vspace{2mm}
+    \begin{minipage}{0.9\textwidth}
+    \centering
+    \captionof{figure}[{Vista principal parte III}]{ Vista principal parte III}
+    \label{prot3}
+    \includegraphics[width=0.9\textwidth]{Content/Images/VistaGeneral3.png}
+    \footnote{Nota. \textup{Fuente: Autores}}
+    \end{minipage}
+
+    \vspace{2mm}
+    \begin{minipage}{0.9\textwidth}
+    \centering
+    \captionof{figure}[{Tu Perfil}]{Tu Perfil}
+    \label{prot4}
+    \includegraphics[width=0.9\textwidth]{Content/Images/TuPerfil.png}
+    \footnote{Nota. \textup{Fuente: Autores}}
+    \end{minipage}
+
+     \vspace{2mm}
+    \begin{minipage}{0.9\textwidth}
+    \centering
+    \captionof{figure}[{Vista de proveedor Parte I}]{Vista de proveedor Parte I}
+    \label{prot5}
+    \includegraphics[width=0.9\textwidth]{Content/Images/VistaProveedor1.png}
+    \footnote{Nota. \textup{Fuente: Autores}}
+    \end{minipage}
+
+     \vspace{2mm}
+    \begin{minipage}{0.9\textwidth}
+    \centering
+    \captionof{figure}[{Vista de proveedor Parte II}]{Vista de proveedor Parte II}
+    \label{prot6}
+    \includegraphics[width=0.9\textwidth]{Content/Images/VistaProveedor2.png}
+    \footnote{Nota. \textup{Fuente: Autores}}
+    \end{minipage}
+
+     \vspace{2mm}
+    \begin{minipage}{0.9\textwidth}
+    \centering
+    \captionof{figure}[{Vista de proveedor Parte III}]{Vista de proveedor Parte III}
+    \label{prot7}
+    \includegraphics[width=0.9\textwidth]{Content/Images/VistaProveedor3.png}
+    \footnote{Nota. \textup{Fuente: Autores}}
+    \end{minipage}
+
+     \vspace{2mm}
+    \begin{minipage}{0.9\textwidth}
+    \centering
+    \captionof{figure}[{Ruta de viaje Parte I}]{Ruta de viaje Parte I}
+    \label{prot8}
+    \includegraphics[width=0.9\textwidth]{Content/Images/RutaDeViaje1.png}
+    \footnote{Nota. \textup{Fuente: Autores}}
+    \end{minipage}
+
       \vspace{2mm}
     \begin{minipage}{0.9\textwidth}
     \centering
-    \captionof{figure}[{Vista nosotros}]{ Vista nosotros }
-    \label{prot2}
-    \includegraphics[width=0.3\textwidth]{Content/Images/Escudo_UD.png}
-    \footnote{Nota. \textup{Fuente: Autores}}
-    \end{minipage}
-    
-    \vspace{2mm}
-    \begin{minipage}{0.9\textwidth}
-    \centering
-    \captionof{figure}[{Vista registro}]{ Vista registro }
-    \label{prot3}
-    \includegraphics[width=0.3\textwidth]{Content/Images/Escudo_UD.png}
-    \footnote{Nota. \textup{Fuente: Autores}}
-    \end{minipage}
-    
-    \vspace{2mm}
-    \begin{minipage}{0.9\textwidth}
-    \centering
-    \captionof{figure}[{Vista registro}]{ Vista registro }
-    \label{prot4}
-    \includegraphics[width=0.3\textwidth]{Content/Images/Escudo_UD.png}
-    \footnote{Nota. \textup{Fuente: Autores}}
-    \end{minipage}
-    
-    \vspace{2mm}
-    \begin{minipage}{0.9\textwidth}
-    \centering
-    \captionof{figure}[{Vista mi progreso}]{ Vista mi progreso }
-    \label{prot5}
-    \includegraphics[width=0.3\textwidth]{Content/Images/Escudo_UD.png}
-    \footnote{Nota. \textup{Fuente: Autores}}
-    \end{minipage}
-    
-        \vspace{2mm}
-    \begin{minipage}{0.9\textwidth}
-    \centering
-    \captionof{figure}[{Vista eventos}]{ Vista eventos }
-    \label{prot6}
-    \includegraphics[width=0.3\textwidth]{Content/Images/Escudo_UD.png}
+    \captionof{figure}[{Ruta de viaje Parte II}]{Ruta de viaje Parte II}
+    \label{prot9}
+    \includegraphics[width=0.9\textwidth]{Content/Images/RutaDeViaje2.png}
     \footnote{Nota. \textup{Fuente: Autores}}
     \end{minipage}
 
-        \vspace{2mm}
+      \vspace{2mm}
     \begin{minipage}{0.9\textwidth}
     \centering
-    \captionof{figure}[{Vista gimnasios}]{ Vista gimnasios }
-    \label{prot7}
-    \includegraphics[width=0.3\textwidth]{Content/Images/Escudo_UD.png}
+    \captionof{figure}[{Resultados de busqueda}]{Resultados de busqueda}
+    \label{prot10}
+    \includegraphics[width=0.9\textwidth]{Content/Images/ResultadosDeBusqueda.png}
     \footnote{Nota. \textup{Fuente: Autores}}
     \end{minipage}
 
-    \vspace{2mm}
+       \vspace{2mm}
     \begin{minipage}{0.9\textwidth}
     \centering
-    \captionof{figure}[{Vista mis datos}]{ Vista mis datos }
-    \label{prot8}
-    \includegraphics[width=0.3\textwidth]{Content/Images/Escudo_UD.png}
+    \captionof{figure}[{Vista de sitio}]{Vista de sitio}
+    \label{prot11}
+    \includegraphics[width=0.9\textwidth]{Content/Images/VistaDeSitio.png}
     \footnote{Nota. \textup{Fuente: Autores}}
     \end{minipage}
 
+      \vspace{2mm}
+    \begin{minipage}{0.9\textwidth}
+    \centering
+    \captionof{figure}[{Perfil de usuario}]{Perfil de Usuario}
+    \label{prot12}
+    \includegraphics[width=0.9\textwidth]{Content/Images/UserProfile.png}
+    \footnote{Nota. \textup{Fuente: Autores}}
+    \end{minipage}
+
+    
 
     
     
-    
-
-}
