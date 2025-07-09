@@ -1,14 +1,14 @@
 # Fdb version 4
-["biber main"] 0 "main.bcf" "main.bbl" "main" 1752099280.74689 -1
+["biber main"] 1752101609.6203 "main.bcf" "main.bbl" "main" 1752101611.28259 2
   "bibliography.bib" 1750104262.40746 21196 e791ebeaa8eab705165f1a901378253a ""
-  "main.bcf" 1752099280.44922 133281 9173c30e1bb74c960c20c0dfab7ff22d "pdflatex"
+  "main.bcf" 1752101609.23127 133281 9173c30e1bb74c960c20c0dfab7ff22d "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1752099272.96973 "/home/andres/Documentos/Universidad/emprendimiento/ProyectoLatex/main.tex" "main.pdf" "main" 1752099280.74748 0
+["pdflatex"] 1752101602.13775 "/home/andres/Documentos/Universidad/emprendimiento/ProyectoLatex/main.tex" "main.pdf" "main" 1752101611.28282 0
   "/etc/texmf/web2c/texmf.cnf" 1745790238.18686 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/andres/Documentos/Universidad/emprendimiento/ProyectoLatex/main.tex" 1750202999.84568 1305 46f3d7da14587a4f4e4e4f45510c937c ""
+  "/home/andres/Documentos/Universidad/emprendimiento/ProyectoLatex/main.tex" 1752099677.9158 1305 46f3d7da14587a4f4e4e4f45510c937c ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1136768653 1288 655e228510b4c2a1abe905c368440826 ""
   "/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
@@ -186,6 +186,7 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1745790283.41862 5472669 54eaf61a88b6b7896ebd0dac973cb29c ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1745790503 8216459 268be394b981ca7ec523accf005445cd ""
   "Content/0.Resumen/Resumen.tex" 1750205763.50018 1494 d3a01bb3619d0cc4c860ebc03a3c3b01 ""
+  "Content/000.Correcciones/Correcciones.tex" 1752101593.47879 1501 34872aea7da143238d436acff861089f ""
   "Content/1.Introduccion/Introduccion.tex" 1745797065.02365 1910 8af6958988b04ae3ff0c872c0fa8072d ""
   "Content/10.AnalisisFinanciero/AmortizacionDepreciacion.tex" 1750205262.37142 1866 782cac664e2f8444c0296349dfe0d7f5 ""
   "Content/10.AnalisisFinanciero/AnalisisFinanciero.tex" 1750128036.15441 745 f6976bdc482fadf16f60021f3a4215a2 ""
@@ -310,18 +311,17 @@
   "Content/Images/requisitos.png" 1750122292 131533 5b56506e786c6df10a4387d2ca96e385 ""
   "Content/Images/requisitosNF.png" 1750108123 62747 cf156c28e5fa6214e364b6eb7534c9c9 ""
   "Content/Images/spring-boot-logo.png" 1750104257.50734 25090 61962931755252b7e3177a86bc7f7251 ""
-  "Content/index.aux" 1752099280.43022 30052 7ffe677d05e8e4f4e2196a172c5bad33 "pdflatex"
-  "Content/index.tex" 1752099272.14111 1845 0ce00a2756c66f6e847c455cd3412a4f ""
-  "cover.aux" 1752099275.13777 4308 a4a4715ade1dbdc699879eec8e7bde9e "pdflatex"
+  "Content/index.aux" 1752101609.21327 30136 9fddf4123675db37a328eda7475f8f88 "pdflatex"
+  "Content/index.tex" 1752099467.42762 1892 91bff46720607dd4d7de0f46e3ddac4e ""
+  "cover.aux" 1752101604.26612 4308 a4a4715ade1dbdc699879eec8e7bde9e "pdflatex"
   "cover.tex" 1745796881.995 997 0b329723b92dcbd62f32cc9cabb6b5a0 ""
-  "main.aux" 1752099280.43122 2929 39b232e740a15534955fd2579a762bfb "pdflatex"
-  "main.bbl" 1750204200.62513 29857 53649b4f7ea37de975936460765adfe6 "biber main"
-  "main.lof" 1752099280.45022 3119 83eb79ed84201bfde6a46fc9577c1bd7 "pdflatex"
-  "main.lot" 1752099280.45022 3507 9b052cc07304cd24aab5d9004acdb3ba "pdflatex"
-  "main.out" 1752099280.44222 15922 20ed259354e01852bd9e0e5c2304b720 "pdflatex"
-  "main.run.xml" 1752099280.45022 2361 5e24f29be355e5e1f2088c00565266b4 "pdflatex"
-  "main.tex" 1750202999.84568 1305 46f3d7da14587a4f4e4e4f45510c937c ""
-  "main.toc" 1752099280.45022 6837 282aa954590925a5a309cc0a52913048 "pdflatex"
+  "main.aux" 1752101609.21527 2899 2d0fe2691f4f34e73da2b47a94084d09 "pdflatex"
+  "main.bbl" 1752101611.24733 29857 53649b4f7ea37de975936460765adfe6 "biber main"
+  "main.lof" 1752101609.23327 3115 2246a809b342d114d513a8f8713f84b1 "pdflatex"
+  "main.lot" 1752101609.23327 3507 dc7b7668f5dc9e66491ce7d7c2ba6d37 "pdflatex"
+  "main.out" 1752101609.22427 16042 e015cac00c7af2203f7ed31bddf79ec4 "pdflatex"
+  "main.tex" 1752099677.9158 1305 46f3d7da14587a4f4e4e4f45510c937c ""
+  "main.toc" 1752101609.23327 6889 657b28b1422db67362bed70c409e1035 "pdflatex"
   (generated)
   "Content/index.aux"
   "cover.aux"

@@ -237,12 +237,6 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
 INPUT ./main.aux
 INPUT ./main.aux
 INPUT main.aux
-INPUT ./cover.aux
-INPUT ./cover.aux
-INPUT cover.aux
-INPUT ./Content/index.aux
-INPUT ./Content/index.aux
-INPUT Content/index.aux
 OUTPUT main.aux
 INPUT /usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -250,14 +244,8 @@ INPUT /usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/share/texlive/texmf-dist/tex/latex/apa6/config/APAamerican.txt
 INPUT /usr/share/texlive/texmf-dist/tex/latex/apa6/config/APAamerican.txt
 INPUT /usr/share/texlive/texmf-dist/tex/latex/apa6/config/APAamerican.txt
-INPUT ./main.out
-INPUT ./main.out
-INPUT main.out
-INPUT main.out
-OUTPUT main.pdf
-INPUT ./main.out
-INPUT ./main.out
 OUTPUT main.out
+OUTPUT main.pdf
 INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex-apa/spanish-apa.lbx
 INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex-apa/spanish-apa.lbx
 INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex-apa/spanish-apa.lbx
@@ -296,9 +284,35 @@ OUTPUT Content/index.aux
 INPUT ./Content/index.tex
 INPUT ./Content/index.tex
 INPUT Content/index.tex
-INPUT ./main.toc
-INPUT ./main.toc
-INPUT main.toc
+OUTPUT main.toc
+OUTPUT main.lof
+OUTPUT main.lot
+INPUT ./Content/0.Resumen/Resumen.tex
+INPUT ./Content/0.Resumen/Resumen.tex
+INPUT ./Content/0.Resumen/Resumen.tex
+INPUT ./Content/0.Resumen/Resumen.tex
+INPUT Content/0.Resumen/Resumen.tex
+INPUT ./Content/000.Correcciones/Correcciones.tex
+INPUT ./Content/000.Correcciones/Correcciones.tex
+INPUT ./Content/000.Correcciones/Correcciones.tex
+INPUT ./Content/000.Correcciones/Correcciones.tex
+INPUT Content/000.Correcciones/Correcciones.tex
+INPUT ./Content/1.Introduccion/Introduccion.tex
+INPUT ./Content/1.Introduccion/Introduccion.tex
+INPUT ./Content/1.Introduccion/Introduccion.tex
+INPUT ./Content/1.Introduccion/Introduccion.tex
+INPUT Content/1.Introduccion/Introduccion.tex
+INPUT ./Content/2.PlanteamientoDelProblema/PlanteamientoDelProblema.tex
+INPUT ./Content/2.PlanteamientoDelProblema/PlanteamientoDelProblema.tex
+INPUT ./Content/2.PlanteamientoDelProblema/PlanteamientoDelProblema.tex
+INPUT ./Content/2.PlanteamientoDelProblema/PlanteamientoDelProblema.tex
+INPUT Content/2.PlanteamientoDelProblema/PlanteamientoDelProblema.tex
+INPUT ./Content/Images/Gráfica Árbol de problemas emprendimiento (1).png
+INPUT ./Content/Images/Gráfica Árbol de problemas emprendimiento (1).png
+INPUT ./Content/Images/Gráfica Árbol de problemas emprendimiento (1).png
+INPUT ./Content/Images/Gráfica Árbol de problemas emprendimiento (1).png
+INPUT ./Content/Images/Gráfica Árbol de problemas emprendimiento (1).png
+INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmri12.tfm
 INPUT /usr/share/texmf/tex/latex/lm/ot1lmr.fd
 INPUT /usr/share/texmf/tex/latex/lm/ot1lmr.fd
 INPUT /usr/share/texmf/tex/latex/lm/ot1lmr.fd
@@ -330,36 +344,6 @@ INPUT /usr/share/texmf/fonts/tfm/public/lm/lmmib7.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/lm/lmbsy10.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/lm/lmbsy10.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/lm/lmbsy7.tfm
-OUTPUT main.toc
-INPUT ./main.lof
-INPUT ./main.lof
-INPUT main.lof
-OUTPUT main.lof
-INPUT ./main.lot
-INPUT ./main.lot
-INPUT main.lot
-OUTPUT main.lot
-INPUT ./Content/0.Resumen/Resumen.tex
-INPUT ./Content/0.Resumen/Resumen.tex
-INPUT ./Content/0.Resumen/Resumen.tex
-INPUT ./Content/0.Resumen/Resumen.tex
-INPUT Content/0.Resumen/Resumen.tex
-INPUT ./Content/1.Introduccion/Introduccion.tex
-INPUT ./Content/1.Introduccion/Introduccion.tex
-INPUT ./Content/1.Introduccion/Introduccion.tex
-INPUT ./Content/1.Introduccion/Introduccion.tex
-INPUT Content/1.Introduccion/Introduccion.tex
-INPUT ./Content/2.PlanteamientoDelProblema/PlanteamientoDelProblema.tex
-INPUT ./Content/2.PlanteamientoDelProblema/PlanteamientoDelProblema.tex
-INPUT ./Content/2.PlanteamientoDelProblema/PlanteamientoDelProblema.tex
-INPUT ./Content/2.PlanteamientoDelProblema/PlanteamientoDelProblema.tex
-INPUT Content/2.PlanteamientoDelProblema/PlanteamientoDelProblema.tex
-INPUT ./Content/Images/Gráfica Árbol de problemas emprendimiento (1).png
-INPUT ./Content/Images/Gráfica Árbol de problemas emprendimiento (1).png
-INPUT ./Content/Images/Gráfica Árbol de problemas emprendimiento (1).png
-INPUT ./Content/Images/Gráfica Árbol de problemas emprendimiento (1).png
-INPUT ./Content/Images/Gráfica Árbol de problemas emprendimiento (1).png
-INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmri12.tfm
 INPUT ./Content/2.PlanteamientoDelProblema/DescripcionDelProblema.tex
 INPUT ./Content/2.PlanteamientoDelProblema/DescripcionDelProblema.tex
 INPUT ./Content/2.PlanteamientoDelProblema/DescripcionDelProblema.tex
@@ -966,7 +950,6 @@ INPUT ./Content/index.aux
 INPUT Content/index.aux
 INPUT ./main.out
 INPUT ./main.out
-INPUT main.run.xml
 OUTPUT main.run.xml
 INPUT /usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb
 INPUT /usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb

@@ -1,0 +1,30 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'main.blg'
+[133] biber:340> INFO - === Wed Jul  9, 2025, 17:53:30
+[156] Biber.pm:419> INFO - Reading 'main.bcf'
+[268] Biber.pm:979> INFO - Found 14 citekeys in bib section 0
+[300] Biber.pm:4419> INFO - Processing section 0
+[314] Biber.pm:4610> INFO - Looking for bibtex file 'bibliography.bib' for section 0
+[318] bibtex.pm:1713> INFO - LaTeX decoding ...
+[408] bibtex.pm:1519> INFO - Found BibTeX data source 'bibliography.bib'
+[516] Utils.pm:399> ERROR - Name "Gil Osorio, Ivonne María, & Ibarra Lopesierra, Sait." has too many commas, skipping entry 'factores-exito'
+[555] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[555] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[555] Biber.pm:4239> INFO - Sorting list 'nyt/apasortcite//global/global' of type 'entry' with template 'nyt' and locale 'es-ES'
+[592] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[592] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[592] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'es-ES'
+[613] bbl.pm:660> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[626] bbl.pm:763> INFO - Output to main.bbl
+[626] Biber.pm:131> WARN - Duplicate entry key: 'NomDig' in file 'bibliography.bib', skipping ...
+[626] Biber.pm:131> WARN - Duplicate entry key: 'gamificationRef' in file 'bibliography.bib', skipping ...
+[627] Biber.pm:131> WARN - Duplicate entry key: 'guevara' in file 'bibliography.bib', skipping ...
+[627] Biber.pm:131> WARN - Duplicate entry key: 'werbach' in file 'bibliography.bib', skipping ...
+[627] Biber.pm:131> WARN - Duplicate entry key: 'webEngineer' in file 'bibliography.bib', skipping ...
+[627] Biber.pm:131> WARN - Possible typo (case mismatch) between citation and datasource keys: 'Dofa' and 'DOFA' in file 'bibliography.bib'
+[627] Biber.pm:131> WARN - Entry with key 'factores-exito' in section '0' is cited and found but not created (likely due to sourcemap)
+[627] Biber.pm:131> WARN - BibTeX subsystem: /tmp/biber_tmp_Fg46/f4d088b3f9f145b5c3058da33afd57d4_17838.utf8, line 259, warning: 10 characters of junk seen at toplevel
+[627] Biber.pm:131> WARN - I didn't find a database entry for 'GioSyst3m' (section 0)
+[627] Biber.pm:131> WARN - I didn't find a database entry for 'Dofa' (section 0)
+[627] Biber.pm:133> INFO - WARNINGS: 10
+[627] Biber.pm:136> INFO - ERRORS: 1

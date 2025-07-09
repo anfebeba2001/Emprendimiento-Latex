@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.4.27)  9 JUL 2025 17:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.4.27)  9 JUL 2025 17:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -772,29 +772,7 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'spanish'.
- (./main.aux (./cover.aux)
-LaTeX Info: Redefining \. on input line 14.
-LaTeX Info: Redefining \% on input line 14.
- (./Content/index.aux
-
-LaTeX Warning: Label `req1' multiply defined.
-
-
-LaTeX Warning: Label `dofa' multiply defined.
-
-
-LaTeX Warning: Label `dofa' multiply defined.
-
-
-LaTeX Warning: Label `ManualBarraNavegacion' multiply defined.
-
-
-LaTeX Warning: Label `ManualBarraNavegacion' multiply defined.
-
-
-LaTeX Warning: Label `ManualBarraNavegacion' multiply defined.
-
-))
+ (./main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
@@ -873,7 +851,6 @@ Package caption Info: End \AtBeginDocument code.
 LaTeX Info: Redefining \. on input line 49.
 LaTeX Info: Redefining \% on input line 49.
 Package hyperref Info: Link coloring OFF on input line 49.
- (./main.out) (./main.out)
 \@outlinefile=\write6
 \openout6 = `main.out'.
 
@@ -919,7 +896,7 @@ Package biblatex Info: Reference segment=0 on input line 49.
 \openout2 = `cover.aux'.
 
  (./cover.tex
-<Content/Images/Escudo_UD.png, id=418, 466.74374pt x 479.54156pt>
+<Content/Images/Escudo_UD.png, id=4, 466.74374pt x 479.54156pt>
 File: Content/Images/Escudo_UD.png Graphic file (type png)
 <use Content/Images/Escudo_UD.png>
 Package pdftex.def Info: Content/Images/Escudo_UD.png  used on input line 25.
@@ -930,113 +907,112 @@ Package pdftex.def Info: Content/Images/Escudo_UD.png  used on input line 25.
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc} <./Content/Images/Escudo_UD.png>])
 \openout2 = `Content/index.aux'.
 
- (./Content/index.tex (./main.toc
-LaTeX Info: Redefining \sptext on input line 1.
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 5.
- (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
-File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 5.
- (/usr/share/texmf/tex/latex/lm/omllmm.fd
-File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 5.
- (/usr/share/texmf/tex/latex/lm/omslmsy.fd
-File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 5.
- (/usr/share/texmf/tex/latex/lm/omxlmex.fd
-File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 5.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 5.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 5.
-
-Underfull \vbox (badness 2469) has occurred while \output is active []
-
- [2
-
-
-
-] [3]
-Underfull \vbox (badness 1448) has occurred while \output is active []
-
- [4])
+ (./Content/index.tex
+No file main.toc.
 \tf@toc=\write7
 \openout7 = `main.toc'.
 
- [5] (./main.lof
-LaTeX Info: Redefining \sptext on input line 1.
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
- [6])
+[2
+
+
+
+]
+No file main.lof.
 \tf@lof=\write8
 \openout8 = `main.lof'.
 
- [7] (./main.lot
-LaTeX Info: Redefining \sptext on input line 1.
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
- [8])
+[3]
+No file main.lot.
 \tf@lot=\write9
 \openout9 = `main.lot'.
 
- [9] (./Content/0.Resumen/Resumen.tex) (./Content/1.Introduccion/Introduccion.tex [10]) (./Content/2.PlanteamientoDelProblema/PlanteamientoDelProblema.tex [11]
-<Content/Images/Gráfica Árbol de problemas emprendimiento (1).png, id=717, 770.88pt x 578.16pt>
+[4] (./Content/0.Resumen/Resumen.tex) (./Content/000.Correcciones/Correcciones.tex [5]) (./Content/1.Introduccion/Introduccion.tex [6]) (./Content/2.PlanteamientoDelProblema/PlanteamientoDelProblema.tex [7]
+<Content/Images/Gráfica Árbol de problemas emprendimiento (1).png, id=45, 770.88pt x 578.16pt>
 File: Content/Images/Gráfica Árbol de problemas emprendimiento (1).png Graphic file (type png)
 <use Content/Images/Gráfica Árbol de problemas emprendimiento (1).png>
 Package pdftex.def Info: Content/Images/Gráfica Árbol de problemas emprendimiento (1).png  used on input line 13.
 (pdftex.def)             Requested size: 462.53157pt x 346.89867pt.
- (./Content/2.PlanteamientoDelProblema/DescripcionDelProblema.tex [12 <./Content/Images/Gráfica Árbol de problemas emprendimiento (1).png>]) (./Content/2.PlanteamientoDelProblema/FormulacionDelProblema.tex) (./Content/2.PlanteamientoDelProblema/JustificacionDelProblema.tex [13]
-<Content/Images/graficaTurismoBogota.jpeg, id=729, 1204.5pt x 647.41875pt>
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 16.
+ (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 16.
+ (/usr/share/texmf/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 16.
+ (/usr/share/texmf/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 16.
+ (/usr/share/texmf/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 16.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 16.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 16.
+ (./Content/2.PlanteamientoDelProblema/DescripcionDelProblema.tex [8]) [9 <./Content/Images/Gráfica Árbol de problemas emprendimiento (1).png>] (./Content/2.PlanteamientoDelProblema/FormulacionDelProblema.tex) (./Content/2.PlanteamientoDelProblema/JustificacionDelProblema.tex
+<Content/Images/graficaTurismoBogota.jpeg, id=59, 1204.5pt x 647.41875pt>
 File: Content/Images/graficaTurismoBogota.jpeg Graphic file (type jpg)
 <use Content/Images/graficaTurismoBogota.jpeg>
 Package pdftex.def Info: Content/Images/graficaTurismoBogota.jpeg  used on input line 10.
 (pdftex.def)             Requested size: 452.9679pt x 243.47295pt.
-)) (./Content/3.Objetivos/Objetivos.tex [14 <./Content/Images/graficaTurismoBogota.jpeg>]) (./Content/4.MarcoTeorico/MarcoTeorico.tex (./Content/4.MarcoTeorico/AnalisisDeLaCompetencia.tex [15]) (./Content/4.MarcoTeorico/Antecedentes.tex [16] [17]) (./Content/4.MarcoTeorico/ConceptosDeModeloDeNegocio.tex [18]
-<Content/Images/modelo canva plantilla.jpeg, id=754, 1032.85875pt x 684.5575pt>
+)) (./Content/3.Objetivos/Objetivos.tex [10] [11 <./Content/Images/graficaTurismoBogota.jpeg>]) (./Content/4.MarcoTeorico/MarcoTeorico.tex (./Content/4.MarcoTeorico/AnalisisDeLaCompetencia.tex [12]) (./Content/4.MarcoTeorico/Antecedentes.tex [13] [14]) (./Content/4.MarcoTeorico/ConceptosDeModeloDeNegocio.tex [15]
+<Content/Images/modelo canva plantilla.jpeg, id=103, 1032.85875pt x 684.5575pt>
 File: Content/Images/modelo canva plantilla.jpeg Graphic file (type jpg)
 <use Content/Images/modelo canva plantilla.jpeg>
 Package pdftex.def Info: Content/Images/modelo canva plantilla.jpeg  used on input line 31.
 (pdftex.def)             Requested size: 413.13618pt x 273.81815pt.
-) (./Content/4.MarcoTeorico/DefinicionesPrevias.tex [19] [20 <./Content/Images/modelo canva plantilla.jpeg>])) (./Content/5.AlcancesLimitaciones/AlcancesLimitaciones.tex [21] [22]) (./Content/6.ModeloDeNegocio/ModeloDeNegocio.tex
-<Content/Images/Canva Emprendimiento.png, id=772, 770.88pt x 578.16pt>
+) (./Content/4.MarcoTeorico/DefinicionesPrevias.tex [16] [17 <./Content/Images/modelo canva plantilla.jpeg>])) (./Content/5.AlcancesLimitaciones/AlcancesLimitaciones.tex [18] [19]) (./Content/6.ModeloDeNegocio/ModeloDeNegocio.tex
+<Content/Images/Canva Emprendimiento.png, id=129, 770.88pt x 578.16pt>
 File: Content/Images/Canva Emprendimiento.png Graphic file (type png)
 <use Content/Images/Canva Emprendimiento.png>
 Package pdftex.def Info: Content/Images/Canva Emprendimiento.png  used on input line 10.
 (pdftex.def)             Requested size: 470.23611pt x 352.67708pt.
- [23] [24 <./Content/Images/Canva Emprendimiento.png>] [25] [26]
+ [20] [21 <./Content/Images/Canva Emprendimiento.png>] [22] [23]
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 60.
  (/usr/share/texmf/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) [27{/usr/share/texmf/fonts/enc/dvips/lm/lm-ts1.enc}]) (./Content/7.Metodologia/Metodologia.tex (./Content/7.Metodologia/Descripcion.tex
+) [24{/usr/share/texmf/fonts/enc/dvips/lm/lm-ts1.enc}]) (./Content/7.Metodologia/Metodologia.tex (./Content/7.Metodologia/Descripcion.tex
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 7.
 
-[28] [29] [30]
-<Content/Images/cronogramaEmpre.PNG, id=813, 735.9495pt x 420.3705pt>
+
+LaTeX Warning: Reference `Fase1' on page 25 undefined on input line 15.
+
+[25]
+
+LaTeX Warning: Reference `Fase2' on page 26 undefined on input line 48.
+
+[26]
+
+LaTeX Warning: Reference `Fase3' on page 27 undefined on input line 91.
+
+
+LaTeX Warning: Reference `Fase4' on page 27 undefined on input line 125.
+
+[27]
+<Content/Images/cronogramaEmpre.PNG, id=188, 735.9495pt x 420.3705pt>
 File: Content/Images/cronogramaEmpre.PNG Graphic file (type png)
 <use Content/Images/cronogramaEmpre.PNG>
 Package pdftex.def Info: Content/Images/cronogramaEmpre.PNG  used on input line 169.
 (pdftex.def)             Requested size: 452.9679pt x 258.73479pt.
- [31]) (./Content/7.Metodologia/EstructuraIdeologica.tex [32 <./Content/Images/cronogramaEmpre.PNG>]) (./Content/7.Metodologia/Entorno.tex
+ [28]) (./Content/7.Metodologia/EstructuraIdeologica.tex [29 <./Content/Images/cronogramaEmpre.PNG>]) (./Content/7.Metodologia/Entorno.tex
 Overfull \hbox (105.02672pt too wide) in paragraph at lines 6--7
 \T1/lmr/m/n/12 di-ri-ge el ser-vi-cio, in-clu-yen-do da-tos de-mo-gra-fi-cos (edad,g�nero,ubicaci�n),psicogr�ficos(intereses,valores)y
  []
 
-) (./Content/7.Metodologia/EstructuraMecanica.tex [33]) (./Content/7.Metodologia/EstructuraFinanciera.tex [34]) (./Content/7.Metodologia/RecursosHumanos.tex)) (./Content/8.InformacionDeLaEmpresa/InformacionDeLaEmpresa.tex (./Content/8.InformacionDeLaEmpresa/Mision.tex) (./Content/8.InformacionDeLaEmpresa/Vision.tex) [35] (./Content/8.InformacionDeLaEmpresa/Valores.tex) (./Content/8.InformacionDeLaEmpresa/ModeloOrganizacional.tex
+) (./Content/7.Metodologia/EstructuraMecanica.tex [30]) (./Content/7.Metodologia/EstructuraFinanciera.tex [31]) (./Content/7.Metodologia/RecursosHumanos.tex)) (./Content/8.InformacionDeLaEmpresa/InformacionDeLaEmpresa.tex (./Content/8.InformacionDeLaEmpresa/Mision.tex) (./Content/8.InformacionDeLaEmpresa/Vision.tex) [32] (./Content/8.InformacionDeLaEmpresa/Valores.tex) (./Content/8.InformacionDeLaEmpresa/ModeloOrganizacional.tex
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 5.
 See the caption package documentation for explanation.
 
-<Content/Images/modelo_organizacional.png, id=836, 770.88pt x 578.16pt>
+<Content/Images/modelo_organizacional.png, id=221, 770.88pt x 578.16pt>
 File: Content/Images/modelo_organizacional.png Graphic file (type png)
 <use Content/Images/modelo_organizacional.png>
 Package pdftex.def Info: Content/Images/modelo_organizacional.png  used on input line 7.
@@ -1057,23 +1033,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--10
 
  []
 
-[36]) (./Content/9.PlanDeNegocio/PlanDeNegocio.tex (./Content/9.PlanDeNegocio/EstudioDeMercado.tex [37 <./Content/Images/modelo_organizacional.png>]
+[33]) (./Content/9.PlanDeNegocio/PlanDeNegocio.tex (./Content/9.PlanDeNegocio/EstudioDeMercado.tex [34 <./Content/Images/modelo_organizacional.png>]
 Overfull \hbox (39.38896pt too wide) in paragraph at lines 11--12
 []\T1/lmr/m/n/12 Ecosistema co-la-bo-ra-ti-vo: Una co-mu-ni-dad de apo-yo pa-ra los n�-ma-das di-gi-ta-les,compartiendo
  []
 
-[38] [39]
+[35] [36]
+
+LaTeX Warning: Reference `inboundMarkting-1' on page 37 undefined on input line 50.
+
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 57.
 See the caption package documentation for explanation.
 
-<Content/Images/Metodología Inbound-1.jpeg, id=865, 961.5925pt x 475.7775pt>
+<Content/Images/Metodología Inbound-1.jpeg, id=254, 961.5925pt x 475.7775pt>
 File: Content/Images/Metodología Inbound-1.jpeg Graphic file (type jpg)
 <use Content/Images/Metodología Inbound-1.jpeg>
 Package pdftex.def Info: Content/Images/Metodología Inbound-1.jpeg  used on input line 59.
 (pdftex.def)             Requested size: 326.13591pt x 161.37018pt.
-[40 <./Content/Images/Metodología Inbound-1.jpeg>] [41] [42{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}]) [43] (./Content/9.PlanDeNegocio/Stakeholders.tex [44]) (./Content/9.PlanDeNegocio/EstudioTecnico.tex [45] [46] [47]
+[37 <./Content/Images/Metodología Inbound-1.jpeg>] [38] [39{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}]) [40] (./Content/9.PlanDeNegocio/Stakeholders.tex [41]) (./Content/9.PlanDeNegocio/EstudioTecnico.tex [42] [43] [44]
 Overfull \hbox (14.48409pt too wide) in paragraph at lines 44--45
 \T1/lmr/m/n/12 mues-tra ser el lu-gar ideal pa-ra de-sa-rro-llar y es-ta-ble-cer la se-de del pro-yec-to,considerando
  []
@@ -1083,43 +1062,43 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 57.
 See the caption package documentation for explanation.
 
-<Content/Images/cicloMetodologiaLean.jpeg, id=909, 622.325pt x 500.87125pt>
+<Content/Images/cicloMetodologiaLean.jpeg, id=306, 622.325pt x 500.87125pt>
 File: Content/Images/cicloMetodologiaLean.jpeg Graphic file (type jpg)
 <use Content/Images/cicloMetodologiaLean.jpeg>
 Package pdftex.def Info: Content/Images/cicloMetodologiaLean.jpeg  used on input line 59.
 (pdftex.def)             Requested size: 285.36658pt x 229.6775pt.
 
-LaTeX Warning: Citation 'GioSyst3m' on page 48 undefined on input line 60.
+LaTeX Warning: Citation 'GioSyst3m' on page 45 undefined on input line 60.
 
-[48] [49 <./Content/Images/cicloMetodologiaLean.jpeg>]) (./Content/9.PlanDeNegocio/PrototipoMinimoViable.tex
+[45] [46 <./Content/Images/cicloMetodologiaLean.jpeg>]) (./Content/9.PlanDeNegocio/PrototipoMinimoViable.tex
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 12.
 See the caption package documentation for explanation.
 
-<Content/Images/spring-boot-logo.png, id=923, 602.25pt x 316.18124pt>
+<Content/Images/spring-boot-logo.png, id=321, 602.25pt x 316.18124pt>
 File: Content/Images/spring-boot-logo.png Graphic file (type png)
 <use Content/Images/spring-boot-logo.png>
 Package pdftex.def Info: Content/Images/spring-boot-logo.png  used on input line 14.
 (pdftex.def)             Requested size: 122.30174pt x 64.20485pt.
-[50]
+[47]
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 26.
 See the caption package documentation for explanation.
 
-<Content/Images/angular-logo.png, id=930, 225.84375pt x 225.84375pt>
+<Content/Images/angular-logo.png, id=330, 225.84375pt x 225.84375pt>
 File: Content/Images/angular-logo.png Graphic file (type png)
 <use Content/Images/angular-logo.png>
 Package pdftex.def Info: Content/Images/angular-logo.png  used on input line 28.
 (pdftex.def)             Requested size: 101.91708pt x 101.91821pt.
-[51 <./Content/Images/spring-boot-logo.png> <./Content/Images/angular-logo.png>]
+[48 <./Content/Images/spring-boot-logo.png> <./Content/Images/angular-logo.png>]
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 38.
 See the caption package documentation for explanation.
 
-<Content/Images/postgresql-logo.png, id=940, 542.025pt x 559.08875pt>
+<Content/Images/postgresql-logo.png, id=342, 542.025pt x 559.08875pt>
 File: Content/Images/postgresql-logo.png Graphic file (type png)
 <use Content/Images/postgresql-logo.png>
 Package pdftex.def Info: Content/Images/postgresql-logo.png  used on input line 40.
@@ -1129,29 +1108,29 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 56.
 See the caption package documentation for explanation.
 
-<Content/Images/microservices-logical.png, id=942, 495.35063pt x 200.24812pt>
+<Content/Images/microservices-logical.png, id=344, 495.35063pt x 200.24812pt>
 File: Content/Images/microservices-logical.png Graphic file (type png)
 <use Content/Images/microservices-logical.png>
 Package pdftex.def Info: Content/Images/microservices-logical.png  used on input line 58.
 (pdftex.def)             Requested size: 366.899pt x 148.32184pt.
-[52 <./Content/Images/postgresql-logo.png>]
+[49 <./Content/Images/postgresql-logo.png>]
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 69.
 See the caption package documentation for explanation.
 
-<Content/Images/hexagonal.png, id=950, 581.17125pt x 463.7325pt>
+<Content/Images/hexagonal.png, id=354, 581.17125pt x 463.7325pt>
 File: Content/Images/hexagonal.png Graphic file (type png)
 <use Content/Images/hexagonal.png>
 Package pdftex.def Info: Content/Images/hexagonal.png  used on input line 71.
 (pdftex.def)             Requested size: 203.83417pt x 162.64844pt.
-[53 <./Content/Images/microservices-logical.png>] [54 <./Content/Images/hexagonal.png>]
+[50 <./Content/Images/microservices-logical.png>] [51 <./Content/Images/hexagonal.png>]
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 92.
 See the caption package documentation for explanation.
 
-<Content/Images/requisitos.png, id=963, 767.86874pt x 614.295pt>
+<Content/Images/requisitos.png, id=369, 767.86874pt x 614.295pt>
 File: Content/Images/requisitos.png Graphic file (type png)
 <use Content/Images/requisitos.png>
 Package pdftex.def Info: Content/Images/requisitos.png  used on input line 94.
@@ -1161,40 +1140,76 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 102.
 See the caption package documentation for explanation.
 
-<Content/Images/requisitosNF.png, id=965, 556.0775pt x 355.3275pt>
+<Content/Images/requisitosNF.png, id=371, 556.0775pt x 355.3275pt>
 File: Content/Images/requisitosNF.png Graphic file (type png)
 <use Content/Images/requisitosNF.png>
 Package pdftex.def Info: Content/Images/requisitosNF.png  used on input line 104.
 (pdftex.def)             Requested size: 407.66833pt x 260.49838pt.
-[55 <./Content/Images/requisitos.png>]
+[52 <./Content/Images/requisitos.png>]
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 115.
 See the caption package documentation for explanation.
 
-<Content/Images/CasosDeUso.png, id=976, 1004.75375pt x 814.04124pt>
+<Content/Images/CasosDeUso.png, id=382, 1004.75375pt x 814.04124pt>
 File: Content/Images/CasosDeUso.png Graphic file (type png)
 <use Content/Images/CasosDeUso.png>
 Package pdftex.def Info: Content/Images/CasosDeUso.png  used on input line 117.
 (pdftex.def)             Requested size: 366.899pt x 297.253pt.
-[56 <./Content/Images/requisitosNF.png>]
+[53 <./Content/Images/requisitosNF.png>]
+
+LaTeX Warning: Reference `prot1' on page 54 undefined on input line 124.
+
+
+LaTeX Warning: Reference `prot2' on page 54 undefined on input line 124.
+
+
+LaTeX Warning: Reference `prot3' on page 54 undefined on input line 124.
+
+
+LaTeX Warning: Reference `prot4' on page 54 undefined on input line 124.
+
+
+LaTeX Warning: Reference `prot5' on page 54 undefined on input line 124.
+
+
+LaTeX Warning: Reference `prot6' on page 54 undefined on input line 124.
+
+
+LaTeX Warning: Reference `prot7' on page 54 undefined on input line 124.
+
+
+LaTeX Warning: Reference `prot8' on page 54 undefined on input line 124.
+
+
+LaTeX Warning: Reference `prot9' on page 54 undefined on input line 124.
+
+
+LaTeX Warning: Reference `prot10' on page 54 undefined on input line 124.
+
+
+LaTeX Warning: Reference `prot11' on page 54 undefined on input line 124.
+
+
+LaTeX Warning: Reference `prot12' on page 54 undefined on input line 124.
+
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 129.
 See the caption package documentation for explanation.
 
-<Content/Images/VistaGeneral1.png, id=996, 1286.8075pt x 660.4675pt>
+<Content/Images/VistaGeneral1.png, id=391, 1286.8075pt x 660.4675pt>
 File: Content/Images/VistaGeneral1.png Graphic file (type png)
 <use Content/Images/VistaGeneral1.png>
 Package pdftex.def Info: Content/Images/VistaGeneral1.png  used on input line 131.
 (pdftex.def)             Requested size: 366.899pt x 188.31581pt.
-[57 <./Content/Images/CasosDeUso.png>]
+[54 <./Content/Images/CasosDeUso.png>]
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 138.
 See the caption package documentation for explanation.
 
-<Content/Images/VistaGeneral2.png, id=1004, 1286.8075pt x 660.4675pt>
+<Content/Images/VistaGeneral2.png, id=400, 1286.8075pt x 660.4675pt>
 File: Content/Images/VistaGeneral2.png Graphic file (type png)
 <use Content/Images/VistaGeneral2.png>
 Package pdftex.def Info: Content/Images/VistaGeneral2.png  used on input line 140.
@@ -1204,18 +1219,18 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 147.
 See the caption package documentation for explanation.
 
-<Content/Images/VistaGeneral3.png, id=1006, 1286.8075pt x 660.4675pt>
+<Content/Images/VistaGeneral3.png, id=402, 1286.8075pt x 660.4675pt>
 File: Content/Images/VistaGeneral3.png Graphic file (type png)
 <use Content/Images/VistaGeneral3.png>
 Package pdftex.def Info: Content/Images/VistaGeneral3.png  used on input line 149.
 (pdftex.def)             Requested size: 366.899pt x 188.31581pt.
-[58 <./Content/Images/VistaGeneral1.png> <./Content/Images/VistaGeneral2.png>]
+[55 <./Content/Images/VistaGeneral1.png> <./Content/Images/VistaGeneral2.png>]
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 156.
 See the caption package documentation for explanation.
 
-<Content/Images/TuPerfil.png, id=1017, 1286.8075pt x 660.4675pt>
+<Content/Images/TuPerfil.png, id=415, 1286.8075pt x 660.4675pt>
 File: Content/Images/TuPerfil.png Graphic file (type png)
 <use Content/Images/TuPerfil.png>
 Package pdftex.def Info: Content/Images/TuPerfil.png  used on input line 158.
@@ -1225,18 +1240,18 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 165.
 See the caption package documentation for explanation.
 
-<Content/Images/VistaProveedor1.png, id=1019, 1286.8075pt x 660.4675pt>
+<Content/Images/VistaProveedor1.png, id=417, 1286.8075pt x 660.4675pt>
 File: Content/Images/VistaProveedor1.png Graphic file (type png)
 <use Content/Images/VistaProveedor1.png>
 Package pdftex.def Info: Content/Images/VistaProveedor1.png  used on input line 167.
 (pdftex.def)             Requested size: 366.899pt x 188.31581pt.
-[59 <./Content/Images/VistaGeneral3.png> <./Content/Images/TuPerfil.png>]
+[56 <./Content/Images/VistaGeneral3.png> <./Content/Images/TuPerfil.png>]
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 174.
 See the caption package documentation for explanation.
 
-<Content/Images/VistaProveedor2.png, id=1029, 1286.8075pt x 660.4675pt>
+<Content/Images/VistaProveedor2.png, id=430, 1286.8075pt x 660.4675pt>
 File: Content/Images/VistaProveedor2.png Graphic file (type png)
 <use Content/Images/VistaProveedor2.png>
 Package pdftex.def Info: Content/Images/VistaProveedor2.png  used on input line 176.
@@ -1246,18 +1261,18 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 183.
 See the caption package documentation for explanation.
 
-<Content/Images/VistaProveedor3.png, id=1031, 1286.8075pt x 660.4675pt>
+<Content/Images/VistaProveedor3.png, id=432, 1286.8075pt x 660.4675pt>
 File: Content/Images/VistaProveedor3.png Graphic file (type png)
 <use Content/Images/VistaProveedor3.png>
 Package pdftex.def Info: Content/Images/VistaProveedor3.png  used on input line 185.
 (pdftex.def)             Requested size: 366.899pt x 188.31581pt.
-[60 <./Content/Images/VistaProveedor1.png> <./Content/Images/VistaProveedor2.png>]
+[57 <./Content/Images/VistaProveedor1.png> <./Content/Images/VistaProveedor2.png>]
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 192.
 See the caption package documentation for explanation.
 
-<Content/Images/RutaDeViaje1.png, id=1041, 1286.8075pt x 660.4675pt>
+<Content/Images/RutaDeViaje1.png, id=444, 1286.8075pt x 660.4675pt>
 File: Content/Images/RutaDeViaje1.png Graphic file (type png)
 <use Content/Images/RutaDeViaje1.png>
 Package pdftex.def Info: Content/Images/RutaDeViaje1.png  used on input line 194.
@@ -1267,18 +1282,18 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 201.
 See the caption package documentation for explanation.
 
-<Content/Images/RutaDeViaje2.png, id=1043, 1286.8075pt x 660.4675pt>
+<Content/Images/RutaDeViaje2.png, id=446, 1286.8075pt x 660.4675pt>
 File: Content/Images/RutaDeViaje2.png Graphic file (type png)
 <use Content/Images/RutaDeViaje2.png>
 Package pdftex.def Info: Content/Images/RutaDeViaje2.png  used on input line 203.
 (pdftex.def)             Requested size: 366.899pt x 188.31581pt.
-[61 <./Content/Images/VistaProveedor3.png> <./Content/Images/RutaDeViaje1.png>]
+[58 <./Content/Images/VistaProveedor3.png> <./Content/Images/RutaDeViaje1.png>]
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 210.
 See the caption package documentation for explanation.
 
-<Content/Images/ResultadosDeBusqueda.png, id=1054, 1286.8075pt x 660.4675pt>
+<Content/Images/ResultadosDeBusqueda.png, id=458, 1286.8075pt x 660.4675pt>
 File: Content/Images/ResultadosDeBusqueda.png Graphic file (type png)
 <use Content/Images/ResultadosDeBusqueda.png>
 Package pdftex.def Info: Content/Images/ResultadosDeBusqueda.png  used on input line 212.
@@ -1288,77 +1303,89 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 219.
 See the caption package documentation for explanation.
 
-<Content/Images/VistaDeSitio.png, id=1056, 1286.8075pt x 660.4675pt>
+<Content/Images/VistaDeSitio.png, id=460, 1286.8075pt x 660.4675pt>
 File: Content/Images/VistaDeSitio.png Graphic file (type png)
 <use Content/Images/VistaDeSitio.png>
 Package pdftex.def Info: Content/Images/VistaDeSitio.png  used on input line 221.
 (pdftex.def)             Requested size: 366.899pt x 188.31581pt.
-[62 <./Content/Images/RutaDeViaje2.png> <./Content/Images/ResultadosDeBusqueda.png>]
+[59 <./Content/Images/RutaDeViaje2.png> <./Content/Images/ResultadosDeBusqueda.png>]
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 228.
 See the caption package documentation for explanation.
 
-<Content/Images/UserProfile.png, id=1066, 1286.8075pt x 660.4675pt>
+<Content/Images/UserProfile.png, id=472, 1286.8075pt x 660.4675pt>
 File: Content/Images/UserProfile.png Graphic file (type png)
 <use Content/Images/UserProfile.png>
 Package pdftex.def Info: Content/Images/UserProfile.png  used on input line 230.
 (pdftex.def)             Requested size: 366.899pt x 188.31581pt.
-) (./Content/9.PlanDeNegocio/EstudioLegal.tex [63 <./Content/Images/VistaDeSitio.png> <./Content/Images/UserProfile.png>]
+) (./Content/9.PlanDeNegocio/EstudioLegal.tex [60 <./Content/Images/VistaDeSitio.png> <./Content/Images/UserProfile.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 7--9
 
  []
 
-[64] [65]) (./Content/9.PlanDeNegocio/EstudioAmbiental.tex [66])) (./Content/10.AnalisisFinanciero/AnalisisFinanciero.tex (./Content/10.AnalisisFinanciero/InversionInicial.tex [67]
+[61] [62]) (./Content/9.PlanDeNegocio/EstudioAmbiental.tex [63])) (./Content/10.AnalisisFinanciero/AnalisisFinanciero.tex (./Content/10.AnalisisFinanciero/InversionInicial.tex [64]
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 8.
 See the caption package documentation for explanation.
 
-<Content/Images/AF/InversionInicial.png, id=1116, 500.87125pt x 559.08875pt>
+<Content/Images/AF/InversionInicial.png, id=526, 500.87125pt x 559.08875pt>
 File: Content/Images/AF/InversionInicial.png Graphic file (type png)
 <use Content/Images/AF/InversionInicial.png>
 Package pdftex.def Info: Content/Images/AF/InversionInicial.png  used on input line 10.
 (pdftex.def)             Requested size: 244.60349pt x 273.03453pt.
 ) (./Content/10.AnalisisFinanciero/Establecimiento.tex
 
+LaTeX Warning: Reference `activosTangiles' on page 65 undefined on input line 7.
+
+
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 12.
 See the caption package documentation for explanation.
 
-<Content/Images/AF/Establecimiento_tangibles.png, id=1119, 327.2225pt x 116.435pt>
+<Content/Images/AF/Establecimiento_tangibles.png, id=528, 327.2225pt x 116.435pt>
 File: Content/Images/AF/Establecimiento_tangibles.png Graphic file (type png)
 <use Content/Images/AF/Establecimiento_tangibles.png>
 Package pdftex.def Info: Content/Images/AF/Establecimiento_tangibles.png  used on input line 14.
 (pdftex.def)             Requested size: 244.60349pt x 87.03642pt.
-[68 <./Content/Images/AF/InversionInicial.png>]
+[65 <./Content/Images/AF/InversionInicial.png>]
+
+LaTeX Warning: Reference `Establecimiento_intangibles' on page 66 undefined on input line 20.
+
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 25.
 See the caption package documentation for explanation.
 
-<Content/Images/AF/Establecimiento_intangibles.png, id=1128, 336.25626pt x 168.63pt>
+<Content/Images/AF/Establecimiento_intangibles.png, id=541, 336.25626pt x 168.63pt>
 File: Content/Images/AF/Establecimiento_intangibles.png Graphic file (type png)
 <use Content/Images/AF/Establecimiento_intangibles.png>
 Package pdftex.def Info: Content/Images/AF/Establecimiento_intangibles.png  used on input line 27.
 (pdftex.def)             Requested size: 244.60349pt x 122.66658pt.
 
+LaTeX Warning: Reference `Establecimiento_totalActivos' on page 66 undefined on input line 32.
+
+
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 37.
 See the caption package documentation for explanation.
 
-<Content/Images/AF/Establecimiento_totalActivos.png, id=1131, 246.9225pt x 117.43875pt>
+<Content/Images/AF/Establecimiento_totalActivos.png, id=543, 246.9225pt x 117.43875pt>
 File: Content/Images/AF/Establecimiento_totalActivos.png Graphic file (type png)
 <use Content/Images/AF/Establecimiento_totalActivos.png>
 Package pdftex.def Info: Content/Images/AF/Establecimiento_totalActivos.png  used on input line 39.
 (pdftex.def)             Requested size: 244.60349pt x 116.33458pt.
-[69 <./Content/Images/AF/Establecimiento_tangibles.png> <./Content/Images/AF/Establecimiento_intangibles.png> <./Content/Images/AF/Establecimiento_totalActivos.png>]
+
+LaTeX Warning: Reference `Establecimiento_Financiacion' on page 66 undefined on input line 44.
+
+[66 <./Content/Images/AF/Establecimiento_tangibles.png> <./Content/Images/AF/Establecimiento_intangibles.png> <./Content/Images/AF/Establecimiento_totalActivos.png>]
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 49.
 See the caption package documentation for explanation.
 
-<Content/Images/AF/Establecimiento_Financiacion.png, id=1145, 248.93pt x 131.49126pt>
+<Content/Images/AF/Establecimiento_Financiacion.png, id=561, 248.93pt x 131.49126pt>
 File: Content/Images/AF/Establecimiento_Financiacion.png Graphic file (type png)
 <use Content/Images/AF/Establecimiento_Financiacion.png>
 Package pdftex.def Info: Content/Images/AF/Establecimiento_Financiacion.png  used on input line 51.
@@ -1369,126 +1396,158 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 10.
 See the caption package documentation for explanation.
 
-<Content/Images/AF/ingresos.png, id=1147, 330.23375pt x 119.44624pt>
+<Content/Images/AF/ingresos.png, id=563, 330.23375pt x 119.44624pt>
 File: Content/Images/AF/ingresos.png Graphic file (type png)
 <use Content/Images/AF/ingresos.png>
 Package pdftex.def Info: Content/Images/AF/ingresos.png  used on input line 12.
 (pdftex.def)             Requested size: 244.60349pt x 88.4763pt.
-[70 <./Content/Images/AF/Establecimiento_Financiacion.png> <./Content/Images/AF/ingresos.png>]
+
+LaTeX Warning: Reference `egresos' on page 67 undefined on input line 18.
+
+[67 <./Content/Images/AF/Establecimiento_Financiacion.png> <./Content/Images/AF/ingresos.png>]
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 23.
 See the caption package documentation for explanation.
 
-<Content/Images/AF/egresos.png, id=1158, 371.3875pt x 620.3175pt>
+<Content/Images/AF/egresos.png, id=579, 371.3875pt x 620.3175pt>
 File: Content/Images/AF/egresos.png Graphic file (type png)
 <use Content/Images/AF/egresos.png>
 Package pdftex.def Info: Content/Images/AF/egresos.png  used on input line 25.
 (pdftex.def)             Requested size: 244.60349pt x 408.55894pt.
-) (./Content/10.AnalisisFinanciero/ProyeccionDeVentas.tex [71 <./Content/Images/AF/egresos.png>]
+) (./Content/10.AnalisisFinanciero/ProyeccionDeVentas.tex
+
+LaTeX Warning: Reference `proyeccion' on page 68 undefined on input line 3.
+
+[68 <./Content/Images/AF/egresos.png>]
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 8.
 See the caption package documentation for explanation.
 
-<Content/Images/AF/Proyeccion_de_ventas.png, id=1167, 536.0025pt x 170.6375pt>
+<Content/Images/AF/Proyeccion_de_ventas.png, id=590, 536.0025pt x 170.6375pt>
 File: Content/Images/AF/Proyeccion_de_ventas.png Graphic file (type png)
 <use Content/Images/AF/Proyeccion_de_ventas.png>
 Package pdftex.def Info: Content/Images/AF/Proyeccion_de_ventas.png  used on input line 10.
 (pdftex.def)             Requested size: 244.60349pt x 77.8693pt.
 
+LaTeX Warning: Reference `ipc' on page 69 undefined on input line 14.
+
+
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 19.
 See the caption package documentation for explanation.
 
-<Content/Images/AF/Proyeccion_de_incremento_ventas.png, id=1170, 567.11874pt x 151.56625pt>
+<Content/Images/AF/Proyeccion_de_incremento_ventas.png, id=592, 567.11874pt x 151.56625pt>
 File: Content/Images/AF/Proyeccion_de_incremento_ventas.png Graphic file (type png)
 <use Content/Images/AF/Proyeccion_de_incremento_ventas.png>
 Package pdftex.def Info: Content/Images/AF/Proyeccion_de_incremento_ventas.png  used on input line 21.
 (pdftex.def)             Requested size: 244.60349pt x 65.3711pt.
 ) (./Content/10.AnalisisFinanciero/AmortizacionDepreciacion.tex
 
+LaTeX Warning: Reference `prestamo' on page 69 undefined on input line 5.
+
+
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 10.
 See the caption package documentation for explanation.
 
-<Content/Images/AF/amortizacion_financiacion.png, id=1173, 215.80624pt x 93.34875pt>
+<Content/Images/AF/amortizacion_financiacion.png, id=594, 215.80624pt x 93.34875pt>
 File: Content/Images/AF/amortizacion_financiacion.png Graphic file (type png)
 <use Content/Images/AF/amortizacion_financiacion.png>
 Package pdftex.def Info: Content/Images/AF/amortizacion_financiacion.png  used on input line 12.
 (pdftex.def)             Requested size: 244.60349pt x 105.80902pt.
-[72 <./Content/Images/AF/Proyeccion_de_ventas.png> <./Content/Images/AF/Proyeccion_de_incremento_ventas.png>]
+[69 <./Content/Images/AF/Proyeccion_de_ventas.png> <./Content/Images/AF/Proyeccion_de_incremento_ventas.png>]
+
+LaTeX Warning: Reference `amortizacion' on page 70 undefined on input line 18.
+
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 23.
 See the caption package documentation for explanation.
 
-<Content/Images/AF/amortizacion_amortizacion.png, id=1184, 492.84125pt x 138.5175pt>
+<Content/Images/AF/amortizacion_amortizacion.png, id=608, 492.84125pt x 138.5175pt>
 File: Content/Images/AF/amortizacion_amortizacion.png Graphic file (type png)
 <use Content/Images/AF/amortizacion_amortizacion.png>
 Package pdftex.def Info: Content/Images/AF/amortizacion_amortizacion.png  used on input line 25.
 (pdftex.def)             Requested size: 244.60349pt x 68.74919pt.
 
+LaTeX Warning: Reference `depreciacion' on page 70 undefined on input line 31.
+
+
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 36.
 See the caption package documentation for explanation.
 
-<Content/Images/AF/amortizacion_Depresiacion.png, id=1187, 740.7675pt x 291.0875pt>
+<Content/Images/AF/amortizacion_Depresiacion.png, id=610, 740.7675pt x 291.0875pt>
 File: Content/Images/AF/amortizacion_Depresiacion.png Graphic file (type png)
 <use Content/Images/AF/amortizacion_Depresiacion.png>
 Package pdftex.def Info: Content/Images/AF/amortizacion_Depresiacion.png  used on input line 38.
 (pdftex.def)             Requested size: 244.60349pt x 96.1169pt.
-) (./Content/10.AnalisisFinanciero/BalanceGeneral.tex [73 <./Content/Images/AF/amortizacion_financiacion.png> <./Content/Images/AF/amortizacion_amortizacion.png>] [74 <./Content/Images/AF/amortizacion_Depresiacion.png>]
+) (./Content/10.AnalisisFinanciero/BalanceGeneral.tex [70 <./Content/Images/AF/amortizacion_financiacion.png> <./Content/Images/AF/amortizacion_amortizacion.png>] [71 <./Content/Images/AF/amortizacion_Depresiacion.png>]
+
+LaTeX Warning: Reference `balanceGeneral' on page 72 undefined on input line 19.
+
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 26.
 See the caption package documentation for explanation.
 
-<Content/Images/AF/Balance_General.png, id=1205, 699.61375pt x 422.57875pt>
+<Content/Images/AF/Balance_General.png, id=632, 699.61375pt x 422.57875pt>
 File: Content/Images/AF/Balance_General.png Graphic file (type png)
 <use Content/Images/AF/Balance_General.png>
 Package pdftex.def Info: Content/Images/AF/Balance_General.png  used on input line 28.
 (pdftex.def)             Requested size: 217.42761pt x 131.3269pt.
-[75 <./Content/Images/AF/Balance_General.png>]) (./Content/10.AnalisisFinanciero/EstadoDeResultado.tex
+[72 <./Content/Images/AF/Balance_General.png>]) (./Content/10.AnalisisFinanciero/EstadoDeResultado.tex
+
+LaTeX Warning: Reference `estado' on page 73 undefined on input line 5.
+
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 10.
 See the caption package documentation for explanation.
 
-<Content/Images/AF/EstadoDeResultados.png, id=1214, 792.9625pt x 325.215pt>
+<Content/Images/AF/EstadoDeResultados.png, id=641, 792.9625pt x 325.215pt>
 File: Content/Images/AF/EstadoDeResultados.png Graphic file (type png)
 <use Content/Images/AF/EstadoDeResultados.png>
 Package pdftex.def Info: Content/Images/AF/EstadoDeResultados.png  used on input line 12.
 (pdftex.def)             Requested size: 244.60349pt x 100.3144pt.
-[76 <./Content/Images/AF/EstadoDeResultados.png>]) (./Content/10.AnalisisFinanciero/FlujoDeCaja.tex
+[73 <./Content/Images/AF/EstadoDeResultados.png>]) (./Content/10.AnalisisFinanciero/FlujoDeCaja.tex
+
+LaTeX Warning: Reference `flujoCaja' on page 74 undefined on input line 5.
+
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 10.
 See the caption package documentation for explanation.
 
-<Content/Images/AF/FlujoDeCaja.png, id=1223, 587.19376pt x 193.72375pt>
+<Content/Images/AF/FlujoDeCaja.png, id=652, 587.19376pt x 193.72375pt>
 File: Content/Images/AF/FlujoDeCaja.png Graphic file (type png)
 <use Content/Images/AF/FlujoDeCaja.png>
 Package pdftex.def Info: Content/Images/AF/FlujoDeCaja.png  used on input line 12.
 (pdftex.def)             Requested size: 217.42761pt x 71.73282pt.
-[77 <./Content/Images/AF/FlujoDeCaja.png>]) (./Content/10.AnalisisFinanciero/FlujoDeEfectivo.tex
+[74 <./Content/Images/AF/FlujoDeCaja.png>]) (./Content/10.AnalisisFinanciero/FlujoDeEfectivo.tex
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 18.
 See the caption package documentation for explanation.
 
-<Content/Images/AF/FlujoDeEfectivo.png, id=1231, 623.32875pt x 382.42876pt>
+<Content/Images/AF/FlujoDeEfectivo.png, id=662, 623.32875pt x 382.42876pt>
 File: Content/Images/AF/FlujoDeEfectivo.png Graphic file (type png)
 <use Content/Images/AF/FlujoDeEfectivo.png>
 Package pdftex.def Info: Content/Images/AF/FlujoDeEfectivo.png  used on input line 20.
 (pdftex.def)             Requested size: 217.42761pt x 133.3969pt.
-) (./Content/10.AnalisisFinanciero/PuntoDeEquilibrio.tex [78 <./Content/Images/AF/FlujoDeEfectivo.png>]
+) (./Content/10.AnalisisFinanciero/PuntoDeEquilibrio.tex
+
+LaTeX Warning: Reference `costosFijosVariables' on page 75 undefined on input line 3.
+
+[75 <./Content/Images/AF/FlujoDeEfectivo.png>]
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 8.
 See the caption package documentation for explanation.
 
-<Content/Images/AF/PuntoDeEquilibrio_CostosFijosYVar.png, id=1240, 581.17125pt x 194.7275pt>
+<Content/Images/AF/PuntoDeEquilibrio_CostosFijosYVar.png, id=672, 581.17125pt x 194.7275pt>
 File: Content/Images/AF/PuntoDeEquilibrio_CostosFijosYVar.png Graphic file (type png)
 <use Content/Images/AF/PuntoDeEquilibrio_CostosFijosYVar.png>
 Package pdftex.def Info: Content/Images/AF/PuntoDeEquilibrio_CostosFijosYVar.png  used on input line 10.
@@ -1498,7 +1557,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 19.
 See the caption package documentation for explanation.
 
-<Content/Images/AF/PuntoDeEquilibrio_Estimacion.png, id=1242, 261.97874pt x 120.45pt>
+<Content/Images/AF/PuntoDeEquilibrio_Estimacion.png, id=674, 261.97874pt x 120.45pt>
 File: Content/Images/AF/PuntoDeEquilibrio_Estimacion.png Graphic file (type png)
 <use Content/Images/AF/PuntoDeEquilibrio_Estimacion.png>
 Package pdftex.def Info: Content/Images/AF/PuntoDeEquilibrio_Estimacion.png  used on input line 21.
@@ -1508,55 +1567,67 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 30.
 See the caption package documentation for explanation.
 
-<Content/Images/AF/PuntoDeEquilibrio_PuntoDeEqui.png, id=1244, 273.02pt x 104.39pt>
+<Content/Images/AF/PuntoDeEquilibrio_PuntoDeEqui.png, id=676, 273.02pt x 104.39pt>
 File: Content/Images/AF/PuntoDeEquilibrio_PuntoDeEqui.png Graphic file (type png)
 <use Content/Images/AF/PuntoDeEquilibrio_PuntoDeEqui.png>
 Package pdftex.def Info: Content/Images/AF/PuntoDeEquilibrio_PuntoDeEqui.png  used on input line 32.
 (pdftex.def)             Requested size: 244.60349pt x 93.52481pt.
-[79 <./Content/Images/AF/PuntoDeEquilibrio_CostosFijosYVar.png> <./Content/Images/AF/PuntoDeEquilibrio_Estimacion.png>]
+[76 <./Content/Images/AF/PuntoDeEquilibrio_CostosFijosYVar.png> <./Content/Images/AF/PuntoDeEquilibrio_Estimacion.png>]
+
+LaTeX Warning: Reference `puntoEquilibrio' on page 77 undefined on input line 36.
+
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 41.
 See the caption package documentation for explanation.
 
-<Content/Images/AF/PuntoDeEquilibrio_CostosYVentas.png, id=1257, 479.7925pt x 294.09875pt>
+<Content/Images/AF/PuntoDeEquilibrio_CostosYVentas.png, id=689, 479.7925pt x 294.09875pt>
 File: Content/Images/AF/PuntoDeEquilibrio_CostosYVentas.png Graphic file (type png)
 <use Content/Images/AF/PuntoDeEquilibrio_CostosYVentas.png>
 Package pdftex.def Info: Content/Images/AF/PuntoDeEquilibrio_CostosYVentas.png  used on input line 43.
 (pdftex.def)             Requested size: 244.60349pt x 149.93452pt.
 ) (./Content/10.AnalisisFinanciero/EstadoDeFuenteUsos.tex
 
+LaTeX Warning: Reference `financiacion' on page 77 undefined on input line 3.
+
+
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 9.
 See the caption package documentation for explanation.
 
-<Content/Images/AF/EstadosDeFuenteYUsos.png, id=1260, 714.67pt x 387.4475pt>
+<Content/Images/AF/EstadosDeFuenteYUsos.png, id=691, 714.67pt x 387.4475pt>
 File: Content/Images/AF/EstadosDeFuenteYUsos.png Graphic file (type png)
 <use Content/Images/AF/EstadosDeFuenteYUsos.png>
 Package pdftex.def Info: Content/Images/AF/EstadosDeFuenteYUsos.png  used on input line 11.
 (pdftex.def)             Requested size: 244.60349pt x 132.60538pt.
-[80 <./Content/Images/AF/PuntoDeEquilibrio_PuntoDeEqui.png> <./Content/Images/AF/PuntoDeEquilibrio_CostosYVentas.png>]
+[77 <./Content/Images/AF/PuntoDeEquilibrio_PuntoDeEqui.png> <./Content/Images/AF/PuntoDeEquilibrio_CostosYVentas.png>]
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 18.
 See the caption package documentation for explanation.
 
-<Content/Images/AF/EstadosDeFuenteYUsosResumen.png, id=1270, 309.155pt x 252.945pt>
+<Content/Images/AF/EstadosDeFuenteYUsosResumen.png, id=705, 309.155pt x 252.945pt>
 File: Content/Images/AF/EstadosDeFuenteYUsosResumen.png Graphic file (type png)
 <use Content/Images/AF/EstadosDeFuenteYUsosResumen.png>
 Package pdftex.def Info: Content/Images/AF/EstadosDeFuenteYUsosResumen.png  used on input line 20.
 (pdftex.def)             Requested size: 244.60349pt x 200.13698pt.
-) (./Content/10.AnalisisFinanciero/IndicadoresFinancieros.tex [81 <./Content/Images/AF/EstadosDeFuenteYUsos.png> <./Content/Images/AF/EstadosDeFuenteYUsosResumen.png>]
+) (./Content/10.AnalisisFinanciero/IndicadoresFinancieros.tex [78 <./Content/Images/AF/EstadosDeFuenteYUsos.png> <./Content/Images/AF/EstadosDeFuenteYUsosResumen.png>]
+
+LaTeX Warning: Reference `indicadores' on page 79 undefined on input line 21.
+
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 26.
 See the caption package documentation for explanation.
 
-<Content/Images/AF/IndicadoresFinancieros.png, id=1281, 571.13374pt x 152.57pt>
+<Content/Images/AF/IndicadoresFinancieros.png, id=718, 571.13374pt x 152.57pt>
 File: Content/Images/AF/IndicadoresFinancieros.png Graphic file (type png)
 <use Content/Images/AF/IndicadoresFinancieros.png>
 Package pdftex.def Info: Content/Images/AF/IndicadoresFinancieros.png  used on input line 28.
 (pdftex.def)             Requested size: 244.60349pt x 65.34074pt.
+
+LaTeX Warning: Reference `flujoLibre' on page 79 undefined on input line 32.
+
 
 Overfull \hbox (5.53595pt too wide) in paragraph at lines 32--33
 []\T1/lmr/m/n/12 Adicionalmente, se uti-li-za-ron los in-di-ca-do-res VAN, TIR y la re-la-ci�n costo-beneficio
@@ -1567,29 +1638,32 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 37.
 See the caption package documentation for explanation.
 
-<Content/Images/AF/FlujoDeCajaLibre.png, id=1284, 228.855pt x 140.525pt>
+<Content/Images/AF/FlujoDeCajaLibre.png, id=720, 228.855pt x 140.525pt>
 File: Content/Images/AF/FlujoDeCajaLibre.png Graphic file (type png)
 <use Content/Images/AF/FlujoDeCajaLibre.png>
 Package pdftex.def Info: Content/Images/AF/FlujoDeCajaLibre.png  used on input line 39.
 (pdftex.def)             Requested size: 244.60349pt x 150.20157pt.
-[82 <./Content/Images/AF/IndicadoresFinancieros.png>]
+[79 <./Content/Images/AF/IndicadoresFinancieros.png>]
+
+LaTeX Warning: Reference `vanTIR' on page 80 undefined on input line 45.
+
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 50.
 See the caption package documentation for explanation.
 
-<Content/Images/AF/VanTirRbc.png, id=1293, 168.63pt x 96.36pt>
+<Content/Images/AF/VanTirRbc.png, id=730, 168.63pt x 96.36pt>
 File: Content/Images/AF/VanTirRbc.png Graphic file (type png)
 <use Content/Images/AF/VanTirRbc.png>
 Package pdftex.def Info: Content/Images/AF/VanTirRbc.png  used on input line 52.
 (pdftex.def)             Requested size: 244.60349pt x 139.77573pt.
-)) [83 <./Content/Images/AF/FlujoDeCajaLibre.png> <./Content/Images/AF/VanTirRbc.png>] (./Content/11.AnalisisInternoExterno/AnalisisInternoExterno.tex (./Content/11.AnalisisInternoExterno/MatrizPEYEA.tex [84] [85]
+)) [80 <./Content/Images/AF/FlujoDeCajaLibre.png> <./Content/Images/AF/VanTirRbc.png>] (./Content/11.AnalisisInternoExterno/AnalisisInternoExterno.tex (./Content/11.AnalisisInternoExterno/MatrizPEYEA.tex [81] [82]
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 32.
 See the caption package documentation for explanation.
 
-<Content/Images/Matriz PEYEA.png, id=1319, 770.88pt x 578.16pt>
+<Content/Images/Matriz PEYEA.png, id=760, 770.88pt x 578.16pt>
 File: Content/Images/Matriz PEYEA.png Graphic file (type png)
 <use Content/Images/Matriz PEYEA.png>
 Package pdftex.def Info: Content/Images/Matriz PEYEA.png  used on input line 34.
@@ -1599,22 +1673,22 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 57.
 See the caption package documentation for explanation.
 
-<Content/Images/PEYEA.jpeg, id=1320, 1202.4925pt x 752.8125pt>
+<Content/Images/PEYEA.jpeg, id=761, 1202.4925pt x 752.8125pt>
 File: Content/Images/PEYEA.jpeg Graphic file (type jpg)
 <use Content/Images/PEYEA.jpeg>
 Package pdftex.def Info: Content/Images/PEYEA.jpeg  used on input line 59.
 (pdftex.def)             Requested size: 407.66833pt x 255.2177pt.
-[86{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc} <./Content/Images/Matriz PEYEA.png>]) (./Content/11.AnalisisInternoExterno/MatrizDOFA.tex
+[83{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc} <./Content/Images/Matriz PEYEA.png>]) (./Content/11.AnalisisInternoExterno/MatrizDOFA.tex
 
-LaTeX Warning: Citation 'Dofa' on page 87 undefined on input line 3.
+LaTeX Warning: Citation 'Dofa' on page 84 undefined on input line 3.
 
-[87 <./Content/Images/PEYEA.jpeg>]
+[84 <./Content/Images/PEYEA.jpeg>]
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 10.
 See the caption package documentation for explanation.
 
-<Content/Images/dofa-ejemplo.jpeg, id=1331, 638.385pt x 789.95125pt>
+<Content/Images/dofa-ejemplo.jpeg, id=775, 638.385pt x 789.95125pt>
 File: Content/Images/dofa-ejemplo.jpeg Graphic file (type jpg)
 <use Content/Images/dofa-ejemplo.jpeg>
 Package pdftex.def Info: Content/Images/dofa-ejemplo.jpeg  used on input line 12.
@@ -1624,13 +1698,13 @@ Overfull \hbox (1.58917pt too wide) in paragraph at lines 19--20
 []\T1/lmr/bx/n/12 FO(Fortalezas-Oportunidades):\T1/lmr/m/n/12 Estas es-tra-te-gias per-mi-ten a la or-ga-ni-za-ci�n cre-
  []
 
-[88 <./Content/Images/dofa-ejemplo.jpeg>]
+[85 <./Content/Images/dofa-ejemplo.jpeg>]
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 27.
 See the caption package documentation for explanation.
 
-<Content/Images/Matriz-dofa-proyecto.png, id=1338, 770.88pt x 578.16pt>
+<Content/Images/Matriz-dofa-proyecto.png, id=784, 770.88pt x 578.16pt>
 File: Content/Images/Matriz-dofa-proyecto.png Graphic file (type png)
 <use Content/Images/Matriz-dofa-proyecto.png>
 Package pdftex.def Info: Content/Images/Matriz-dofa-proyecto.png  used on input line 29.
@@ -1641,22 +1715,22 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 4.
 See the caption package documentation for explanation.
 
-<Content/Images/analisis-dofa.png, id=1340, 770.88pt x 578.16pt>
+<Content/Images/analisis-dofa.png, id=786, 770.88pt x 578.16pt>
 File: Content/Images/analisis-dofa.png Graphic file (type png)
 <use Content/Images/analisis-dofa.png>
 Package pdftex.def Info: Content/Images/analisis-dofa.png  used on input line 6.
 (pdftex.def)             Requested size: 308.34654pt x 231.2599pt.
-)) (./Content/12.AnalisisDeRiesgo/AnalisisDeRiesgo.tex [89 <./Content/Images/Matriz-dofa-proyecto.png (PNG copy)>] (./Content/12.AnalisisDeRiesgo/FactoresLimitantesObstaculos.tex) [90 <./Content/Images/analisis-dofa.png (PNG copy)>] (./Content/12.AnalisisDeRiesgo/FactoresClaveExito.tex
+)) (./Content/12.AnalisisDeRiesgo/AnalisisDeRiesgo.tex [86 <./Content/Images/Matriz-dofa-proyecto.png (PNG copy)>] (./Content/12.AnalisisDeRiesgo/FactoresLimitantesObstaculos.tex) [87 <./Content/Images/analisis-dofa.png (PNG copy)>] (./Content/12.AnalisisDeRiesgo/FactoresClaveExito.tex
 
-LaTeX Warning: Citation 'factores-exito' on page 91 undefined on input line 2.
+LaTeX Warning: Citation 'factores-exito' on page 88 undefined on input line 2.
 
-[91]) (./Content/12.AnalisisDeRiesgo/RiesgosLegales.tex [92]) (./Content/12.AnalisisDeRiesgo/RiesgosOperacionales.tex [93])) (./Content/13.Impactos/Impactos.tex (./Content/13.Impactos/ImpactoSocial.tex [94]) (./Content/13.Impactos/ImpactoAmbiental.tex [95]) (./Content/13.Impactos/ImpactoEconomico.tex)) (./Content/14.Conclusiones/Conclusiones.tex [96]) (./Content/15.referencias/referencias.tex [97]) (./Content/16.Anexos/Anexos.tex [98]
+[88]) (./Content/12.AnalisisDeRiesgo/RiesgosLegales.tex [89]) (./Content/12.AnalisisDeRiesgo/RiesgosOperacionales.tex [90])) (./Content/13.Impactos/Impactos.tex (./Content/13.Impactos/ImpactoSocial.tex [91]) (./Content/13.Impactos/ImpactoAmbiental.tex [92]) (./Content/13.Impactos/ImpactoEconomico.tex)) (./Content/14.Conclusiones/Conclusiones.tex [93]) (./Content/15.referencias/referencias.tex [94]) (./Content/16.Anexos/Anexos.tex [95]
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 12.
 See the caption package documentation for explanation.
 
-<Content/Images/ManualBarraNavegacion.png, id=1405, 404.51125pt x 137.51375pt>
+<Content/Images/ManualBarraNavegacion.png, id=864, 404.51125pt x 137.51375pt>
 File: Content/Images/ManualBarraNavegacion.png Graphic file (type png)
 <use Content/Images/ManualBarraNavegacion.png>
 Package pdftex.def Info: Content/Images/ManualBarraNavegacion.png  used on input line 14.
@@ -1666,18 +1740,18 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 25.
 See the caption package documentation for explanation.
 
-<Content/Images/ManualBarraBusqueda.png, id=1407, 404.51125pt x 113.42375pt>
+<Content/Images/ManualBarraBusqueda.png, id=866, 404.51125pt x 113.42375pt>
 File: Content/Images/ManualBarraBusqueda.png Graphic file (type png)
 <use Content/Images/ManualBarraBusqueda.png>
 Package pdftex.def Info: Content/Images/ManualBarraBusqueda.png  used on input line 27.
 (pdftex.def)             Requested size: 285.36658pt x 80.0174pt.
-[99 <./Content/Images/ManualBarraNavegacion.png>]
+[96 <./Content/Images/ManualBarraNavegacion.png>]
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 37.
 See the caption package documentation for explanation.
 
-<Content/Images/ManualBotonesDeBusqueda.png, id=1415, 404.51125pt x 113.42375pt>
+<Content/Images/ManualBotonesDeBusqueda.png, id=878, 404.51125pt x 113.42375pt>
 File: Content/Images/ManualBotonesDeBusqueda.png Graphic file (type png)
 <use Content/Images/ManualBotonesDeBusqueda.png>
 Package pdftex.def Info: Content/Images/ManualBotonesDeBusqueda.png  used on input line 39.
@@ -1687,12 +1761,12 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 48.
 See the caption package documentation for explanation.
 
-<Content/Images/ManualFlechasCarrusel.png, id=1417, 414.54875pt x 321.2pt>
+<Content/Images/ManualFlechasCarrusel.png, id=880, 414.54875pt x 321.2pt>
 File: Content/Images/ManualFlechasCarrusel.png Graphic file (type png)
 <use Content/Images/ManualFlechasCarrusel.png>
 Package pdftex.def Info: Content/Images/ManualFlechasCarrusel.png  used on input line 50.
 (pdftex.def)             Requested size: 285.36658pt x 221.11362pt.
-) [100 <./Content/Images/ManualBarraBusqueda.png> <./Content/Images/ManualBotonesDeBusqueda.png>]) [101 <./Content/Images/ManualFlechasCarrusel.png>] AED endfloat: Processing end Figures and Tables (./main.aux (./cover.aux)
+) [97 <./Content/Images/ManualBarraBusqueda.png> <./Content/Images/ManualBotonesDeBusqueda.png>]) [98 <./Content/Images/ManualFlechasCarrusel.png>] AED endfloat: Processing end Figures and Tables (./main.aux (./cover.aux)
 LaTeX Info: Redefining \sptext on input line 14.
 LaTeX Info: Redefining \. on input line 14.
 LaTeX Info: Redefining \% on input line 14.
@@ -1706,10 +1780,16 @@ L3 programming layer <2024-01-22>
 LaTeX Warning: There were undefined references.
 
 
-LaTeX Warning: There were multiply-defined labels.
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 20ED259354E01852BD9E0E5C2304B720;15922.
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  E015CAC00C7AF2203F7ED31BDDF79EC4;16042.
 
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                main
@@ -1720,18 +1800,18 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 25622 strings out of 474222
- 469303 string characters out of 5748733
- 1944975 words of memory out of 5000000
- 46914 multiletter control sequences out of 15000+600000
+ 25491 strings out of 474222
+ 467881 string characters out of 5748733
+ 1945975 words of memory out of 5000000
+ 46795 multiletter control sequences out of 15000+600000
  644904 words of font info for 88 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,18n,81p,1286b,2907s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr6.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmri12.pfb></usr/share/texmf/fonts/type1/public/lm/lmri7.pfb></usr/share/texmf/fonts/type1/public/lm/lmri8.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb>
-Output written on main.pdf (101 pages, 6263015 bytes).
+Output written on main.pdf (98 pages, 6245267 bytes).
 PDF statistics:
- 1576 PDF objects out of 1728 (max. 8388607)
- 1318 compressed objects within 14 object streams
- 390 named destinations out of 1000 (max. 500000)
- 1140 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1040 PDF objects out of 1200 (max. 8388607)
+ 791 compressed objects within 8 object streams
+ 388 named destinations out of 1000 (max. 500000)
+ 316 words of extra memory for PDF output out of 10000 (max. 10000000)
 
