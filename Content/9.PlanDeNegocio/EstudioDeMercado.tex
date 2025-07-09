@@ -88,21 +88,21 @@ El precio de la plataforma se ha fijado en un rango competitivo. Se espera que e
             label={Precio},
             nofloat=table, vspace={20px}}
             {
-            \begin{threeparttable}
+       \begin{threeparttable}
            \begin{tabular}{|p{11cm}|p{10cm}p{2cm}|}
                 \hline
                 \rowcolor[HTML]{D9EAD3} 
                 \cellcolor[HTML]{D9EAD3}                              & \multicolumn{2}{c|}{\cellcolor[HTML]{D9EAD3}Precio}            \\ \cline{2-3} 
                 \rowcolor[HTML]{D9EAD3} 
-                \multirow{-2}{*}{\cellcolor[HTML]{D9EAD3}Suscripción} & \multicolumn{1}{l|}{\cellcolor[HTML]{D9EAD3}Mínimo} & Máximo   \\ \hline
-                \multicolumn{1}{|l|}{Mensualidad}                     & \multicolumn{1}{l|}{\$50000}                       & \$300000 \\ \hline
-            \end{tabular}
+                 \multirow{-2}{*}{\cellcolor[HTML]{D9EAD3}Suscripción} & \multicolumn{1}{l|}{\cellcolor[HTML]{D9EAD3}Mínimo} & Máximo   \\ \hline
+                                \multicolumn{1}{|l|}{Mensualidad}                     & \multicolumn{1}{l|}{\$30000}                       & \$3600000 \\ \hline
+                                \multicolumn{1}{|l|}{Anualidad}                       & \multicolumn{1}{l|}{\$360000}                      & \$3600000 \\ \hline      \end{tabular}
             \begin{tablenotes}[para,flushleft]
                 \vspace{2mm}
                \textit Nota. Fuente: Autores.
             \end{tablenotes}
             
-        \end{threeparttable} 
+        \end{threeparttable}
     }
 
 \end{adjustbox}
@@ -112,25 +112,24 @@ Se tendrá en cuenta la posibilidad de ofrecer diferentes planes de suscripción
 
 \begin{adjustbox}{
             center,
-            caption=[{Precios de suscripción.}]{Precios de suscripción mensual y publicidad. },
+            caption=[{Precios de suscripción.}]{Precios de suscripción mensual y anual },
             label={PrecioPeriodos},
             nofloat=table, vspace={20px}}
             {
             \begin{threeparttable}
-           \begin{tabular}{|p{7.8cm}|p{7.8cm}|}
-            \hline
-            \rowcolor[HTML]{D9EAD3} 
-            Suscripción & Precio       \\ \hline
-            Mensualidad & \$ 50.000    \\ \hline
-            Publicidad   & \$ 250.000   \\ \hline
-        
-            \end{tabular}%
-            
-            \begin{tablenotes}[para,flushleft]
-                \vspace{2mm}
-                \textit Nota. Fuente: Autores.
-            \end{tablenotes}
-            
-        \end{threeparttable} 
+                \begin{tabular}{|p{7cm}|p{4cm}|p{4cm}|}
+                    \hline
+                    \rowcolor[HTML]{D9EAD3}
+                    Suscripción & Mensualidad & Anualidad \\ \hline
+                    Plan gratuito & \$0 & \$0 \\ \hline
+                    Plan personal premium & \$30.000 & \$360.000 \\ \hline
+                    Plan empresarial & \$240.000 & \$2.880.000 \\ \hline
+                    Plan empresarial premium & \$300.000 & \$3.600.000 \\ \hline
+                \end{tabular}%
+                \begin{tablenotes}[para,flushleft]
+                    \vspace{2mm}
+                    \textit Nota. Fuente: Autores.
+                \end{tablenotes}
+            \end{threeparttable}
     }
 \end{adjustbox}
