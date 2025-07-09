@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 0 "main.bcf" "main.bbl" "main" 1752099262.5876 -1
+["biber main"] 0 "main.bcf" "main.bbl" "main" 1752099280.74689 -1
   "bibliography.bib" 1750104262.40746 21196 e791ebeaa8eab705165f1a901378253a ""
-  "main.bcf" 1752099262.27031 133281 9173c30e1bb74c960c20c0dfab7ff22d "pdflatex"
+  "main.bcf" 1752099280.44922 133281 9173c30e1bb74c960c20c0dfab7ff22d "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1752099254.04717 "/home/andres/Documentos/Universidad/emprendimiento/ProyectoLatex/main.tex" "main.pdf" "main" 1752099262.58817 0
+["pdflatex"] 1752099272.96973 "/home/andres/Documentos/Universidad/emprendimiento/ProyectoLatex/main.tex" "main.pdf" "main" 1752099280.74748 0
   "/etc/texmf/web2c/texmf.cnf" 1745790238.18686 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/andres/Documentos/Universidad/emprendimiento/ProyectoLatex/main.tex" 1750202999.84568 1305 46f3d7da14587a4f4e4e4f45510c937c ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -310,18 +310,18 @@
   "Content/Images/requisitos.png" 1750122292 131533 5b56506e786c6df10a4387d2ca96e385 ""
   "Content/Images/requisitosNF.png" 1750108123 62747 cf156c28e5fa6214e364b6eb7534c9c9 ""
   "Content/Images/spring-boot-logo.png" 1750104257.50734 25090 61962931755252b7e3177a86bc7f7251 ""
-  "Content/index.aux" 1752099262.25131 30052 7ffe677d05e8e4f4e2196a172c5bad33 "pdflatex"
-  "Content/index.tex" 1752099253.18857 1846 58001dfb8199893fbee266a6f34ead81 ""
-  "cover.aux" 1752099256.77405 4308 a4a4715ade1dbdc699879eec8e7bde9e "pdflatex"
+  "Content/index.aux" 1752099280.43022 30052 7ffe677d05e8e4f4e2196a172c5bad33 "pdflatex"
+  "Content/index.tex" 1752099272.14111 1845 0ce00a2756c66f6e847c455cd3412a4f ""
+  "cover.aux" 1752099275.13777 4308 a4a4715ade1dbdc699879eec8e7bde9e "pdflatex"
   "cover.tex" 1745796881.995 997 0b329723b92dcbd62f32cc9cabb6b5a0 ""
-  "main.aux" 1752099262.25331 2929 39b232e740a15534955fd2579a762bfb "pdflatex"
+  "main.aux" 1752099280.43122 2929 39b232e740a15534955fd2579a762bfb "pdflatex"
   "main.bbl" 1750204200.62513 29857 53649b4f7ea37de975936460765adfe6 "biber main"
-  "main.lof" 1752099262.27231 3119 83eb79ed84201bfde6a46fc9577c1bd7 "pdflatex"
-  "main.lot" 1752099262.27231 3507 9b052cc07304cd24aab5d9004acdb3ba "pdflatex"
-  "main.out" 1752099262.26231 15922 20ed259354e01852bd9e0e5c2304b720 "pdflatex"
-  "main.run.xml" 1752099262.27231 2361 5e24f29be355e5e1f2088c00565266b4 "pdflatex"
+  "main.lof" 1752099280.45022 3119 83eb79ed84201bfde6a46fc9577c1bd7 "pdflatex"
+  "main.lot" 1752099280.45022 3507 9b052cc07304cd24aab5d9004acdb3ba "pdflatex"
+  "main.out" 1752099280.44222 15922 20ed259354e01852bd9e0e5c2304b720 "pdflatex"
+  "main.run.xml" 1752099280.45022 2361 5e24f29be355e5e1f2088c00565266b4 "pdflatex"
   "main.tex" 1750202999.84568 1305 46f3d7da14587a4f4e4e4f45510c937c ""
-  "main.toc" 1752099262.27231 6837 282aa954590925a5a309cc0a52913048 "pdflatex"
+  "main.toc" 1752099280.45022 6837 282aa954590925a5a309cc0a52913048 "pdflatex"
   (generated)
   "Content/index.aux"
   "cover.aux"
