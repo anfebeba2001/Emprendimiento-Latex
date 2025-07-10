@@ -40,6 +40,11 @@ una plataforma sostenible, escalable y dispuesta a las necesidades de los usuari
         \includegraphics[width=0.3\textwidth]{Content/Images/postgresql-logo.png}
         \footnote{Nota. \textup{Fuente: postgresql.org}}
     \end{minipage}
+    \item \textbf{Inteligencias artificiales:}En el desarrollo de este proyecto, se contempló la integración de diversas inteligencias artificiales para mejorar la experiencia del usuario y optimizar el rendimiento de la plataforma. Estas IA se utilizarán para analizar datos, personalizar recomendaciones y mejorar la seguridad del sistema. Algunas de las aplicaciones específicas incluyen:
+        \begin{itemize}
+            \item \textbf{Análisis de datos: } Utilizar IA para procesar y analizar grandes volúmenes de datos, identificando patrones y tendencias que pueden ser útiles para los usuarios,para esto se emplean NPL (Natural Language Processing) para el análisis de reseñas y comentarios de los usuarios, permitiendo una comprensión más profunda de las necesidades y preferencias de los nómadas digitales.
+            \item \textbf{Recomendaciones personalizadas: } Implementar embeddings los cuales permiten capturar relaciones semánticas y contextuales entre palabras para ofrecer recomendaciones personalizadas basadas en las preferencias y comportamientos de los usuarios, mejorando la relevancia de las sugerencias de lugares y servicios, además de que permite recomendaciones explicables y fundamentadas.
+            \item \textbf{Seguridad: } Emplear IA para detectar y prevenir amenazas de seguridad, mejorando la protección de los datos sensibles de los usuarios además de la detección de fraudes y actividades sospechosas en la plataforma, este haciendo analisis de datos de usuarios sospechosos.
 
 \end{itemize}
 
@@ -62,7 +67,17 @@ una plataforma sostenible, escalable y dispuesta a las necesidades de los usuari
         \item \textbf{Arquitectura hexagonal: } La arquitectura hexagonal, también llamada arquitectura de puertos y adaptadores, es un enfoque propuesto por Alistair Cockburn que estructura el software en capas para separar claramente las funcionalidades. Su objetivo principal es mantener el núcleo del sistema (el dominio) aislado, permitiendo que las interacciones con servicios externos (como bases de datos o APIs) se realicen a través de adaptadores específicos.
 
 Gracias a esta separación, los distintos componentes del sistema pueden evolucionar y mantenerse de forma independiente, lo que facilita tanto la escalabilidad como la integración de nuevas tecnologías o servicios. En este modelo, el dominio central permanece protegido de los cambios externos, mientras que los adaptadores gestionan la comunicación con el entorno.
+Al hacer uso de esta arquitectura, se tienen diversos beneficios y ventajas con respecto a otras arquitecturas, como los despliegues independientes donde cada componente tales como análisis de reseñas,monitorización de alertas, validación de zonas entre otros, pueden ser desplegados, ser actualizados o revertir cambios sin necesidad de poner offline toda la aplicación. 
+Se tiene la facilidad de poder escalar cada componente de forma independiente, lo que permite que la aplicación pueda crecer y adaptarse componente por componente, optimizando costos y recursos.Tambien se tiene la capacidad de cumplir con estandares de manejo de datos sensibles como cifrado reforzado sin complicar el resto de la plataforma. Además , se facilita la integración de nuevas tecnologías o servicios, ya que los adaptadores permiten conectar el núcleo del sistema con diferentes fuentes de datos o APIs sin afectar la lógica central.
 
+    \vspace{2mm}
+    \begin{minipage}{0.9\textwidth}
+        \centering
+        \captionof{figure}[{Arquitectura Hexagonal.}]{Ejemplo de arquitectura hexagonal.}
+        \label{hexagonal}
+        \includegraphics[width=0.9\textwidth]{Content/Images/hexagonal.png}
+        \footnote{Nota. \textup{Fuente: https://softwarecrafters.io/react/arquitectura-hexagonal-frontend}}
+    \end{minipage}
 \vspace{2mm}
 \begin{minipage}{0.9\textwidth}
     \centering
