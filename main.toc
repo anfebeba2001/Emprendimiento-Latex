@@ -1,0 +1,105 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{Resumen}{10}{section*.4}%
+\contentsline {section}{Introducción}{10}{section*.5}%
+\contentsline {section}{Planteamiento del problema}{11}{section*.6}%
+\contentsline {subsection}{Descripción del Problema}{13}{section*.8}%
+\contentsline {subsection}{Formulación del problema}{13}{section*.9}%
+\contentsline {subsection}{Justificación del problema}{14}{section*.10}%
+\contentsline {section}{Objetivos}{14}{section*.12}%
+\contentsline {subsection}{Objetivo General}{14}{section*.13}%
+\contentsline {subsection}{Objetivos Específicos}{15}{section*.14}%
+\contentsline {section}{Marco Teórico}{16}{section*.15}%
+\contentsline {subsection}{Analisis de competencia}{16}{section*.16}%
+\contentsline {section}{Antecedentes}{17}{section*.20}%
+\contentsline {subsection}{Antecedentes Nacionales (Colombia): }{17}{section*.21}%
+\contentsline {subsection}{Antecedentes Internacionales: }{17}{section*.22}%
+\contentsline {subsection}{Conceptos del Modelo de Negocio}{18}{section*.23}%
+\contentsline {subsection}{Modelo de negocio: }{18}{section*.24}%
+\contentsline {subsection}{Modelo canva}{18}{section*.25}%
+\contentsline {subsection}{Nómada digital}{20}{section*.27}%
+\contentsline {subsection}{Metodología ágil}{20}{section*.28}%
+\contentsline {subsection}{Metodologia Scrum }{21}{section*.29}%
+\contentsline {subsection}{Página web }{21}{section*.30}%
+\contentsline {section}{Alcances y limitaciones}{22}{section*.31}%
+\contentsline {subsection}{Alcances}{22}{section*.32}%
+\contentsline {subsection}{Limitaciones }{22}{section*.33}%
+\contentsline {section}{Modelo de Negocio}{23}{section*.34}%
+\contentsline {subsection}{Segmento de clientes (SC)}{24}{section*.36}%
+\contentsline {subsection}{Propuesta de valor (PV)}{24}{section*.37}%
+\contentsline {subsection}{Canales de distribución (CD)}{25}{section*.38}%
+\contentsline {subsection}{Relaciones con clientes (RCI)}{25}{section*.39}%
+\contentsline {subsection}{Fuentes de ingresos (FI)}{25}{section*.40}%
+\contentsline {subsection}{Recursos clave (RC)}{25}{section*.41}%
+\contentsline {subsection}{Actividades clave (AC)}{25}{section*.42}%
+\contentsline {subsection}{Asociaciones o socios clave(AsC)}{26}{section*.43}%
+\contentsline {subsection}{Estructura de costos (EC)}{26}{section*.44}%
+\contentsline {section}{Esquema de ventas}{26}{section*.45}%
+\contentsline {subsection}{Elementos clave de un esquema de ventas:}{26}{section*.46}%
+\contentsline {subsection}{Esquema de ventas aplicado}{27}{section*.47}%
+\contentsline {section}{Metodología}{28}{section*.48}%
+\contentsline {subsubsection}{Fase 1: Presentación y compromiso del equipo}{28}{section*.49}%
+\contentsline {subsubsection}{Fase 2: Análisis de la situación}{29}{section*.51}%
+\contentsline {subsubsection}{Fase 3: Definición de la empresa}{29}{section*.53}%
+\contentsline {subsubsection}{Fase 4: Estructuración}{30}{section*.55}%
+\contentsline {subsection}{Cronograma}{31}{section*.57}%
+\contentsline {subsection}{Estructura ideológica}{32}{section*.59}%
+\contentsline {subsection}{Entorno}{33}{section*.60}%
+\contentsline {subsection}{Estructura mecánica}{33}{section*.61}%
+\contentsline {subsection}{Estructura financiera}{34}{section*.62}%
+\contentsline {subsection}{Recursos humanos}{35}{section*.63}%
+\contentsline {section}{Información de la empresa}{35}{section*.64}%
+\contentsline {subsection}{Misión}{35}{section*.65}%
+\contentsline {subsection}{Visión}{36}{section*.66}%
+\contentsline {subsection}{Valores}{36}{section*.67}%
+\contentsline {subsection}{Modelo organizacional}{37}{section*.68}%
+\contentsline {section}{Plan de negocio}{37}{section*.69}%
+\contentsline {subsection}{Estudio de mercado}{37}{section*.70}%
+\contentsline {subsection}{Stakeholders}{45}{section*.80}%
+\contentsline {subsection}{Estudio técnico}{46}{section*.81}%
+\contentsline {subsection}{Tamaño}{46}{section*.82}%
+\contentsline {subsection}{Equipo de trabajo}{51}{section*.87}%
+\contentsline {subsection}{Prototipo mínimo viable}{51}{section*.90}%
+\contentsline {subsection}{Estudio legal}{66}{section*.91}%
+\contentsline {subsection}{Estudio Ambiental}{68}{section*.96}%
+\contentsline {section}{Análisis financiero}{69}{section*.99}%
+\contentsline {subsection}{Inversión inicial}{69}{section*.100}%
+\contentsline {subsection}{Establecimiento}{70}{section*.101}%
+\contentsline {subsubsection}{Activos fijos tangibles}{70}{section*.102}%
+\contentsline {subsubsection}{Activos fijos intangibles}{71}{section*.103}%
+\contentsline {subsubsection}{Total activos fijos}{71}{section*.104}%
+\contentsline {subsubsection}{Financiamiento}{72}{section*.105}%
+\contentsline {subsection}{Ingresos y egresos}{72}{section*.106}%
+\contentsline {subsubsection}{Ingresos}{72}{section*.107}%
+\contentsline {subsubsection}{Egresos}{73}{section*.108}%
+\contentsline {subsection}{Proyección de ventas}{73}{section*.109}%
+\contentsline {subsection}{Amortización y depreciación}{74}{section*.110}%
+\contentsline {subsubsection}{Préstamo}{74}{section*.111}%
+\contentsline {subsubsection}{Amortización}{75}{section*.112}%
+\contentsline {subsubsection}{Depreciación}{75}{section*.113}%
+\contentsline {subsection}{Balance general}{76}{section*.114}%
+\contentsline {subsection}{Estado de resultados}{78}{section*.115}%
+\contentsline {subsection}{Flujo de caja}{79}{section*.116}%
+\contentsline {subsection}{Flujo de efectivo}{80}{section*.117}%
+\contentsline {subsection}{Punto de equilibrio}{81}{section*.118}%
+\contentsline {subsection}{Estado de fuentes y usos}{82}{section*.119}%
+\contentsline {subsection}{Indicadores Financieros}{83}{section*.120}%
+\contentsline {section}{Análisis interno y externo}{86}{section*.121}%
+\contentsline {subsection}{Matriz PEYEA}{86}{section*.122}%
+\contentsline {subsection}{Pasos para elaborar una matriz PEYEA}{87}{section*.123}%
+\contentsline {subsection}{Matriz DOFA}{89}{section*.124}%
+\contentsline {subsection}{Análisis DOFA}{92}{section*.125}%
+\contentsline {section}{Análisis de riesgo}{92}{section*.126}%
+\contentsline {subsection}{Factores limitantes y obstáculos}{93}{section*.127}%
+\contentsline {subsection}{Factores claves de éxito}{93}{section*.128}%
+\contentsline {subsection}{Riesgos legales}{94}{section*.129}%
+\contentsline {section}{Riesgos operacionales}{95}{section*.130}%
+\contentsline {section}{Impactos}{97}{section*.131}%
+\contentsline {subsection}{Impacto social}{97}{section*.132}%
+\contentsline {subsection}{Impacto Ambiental}{97}{section*.133}%
+\contentsline {subsection}{Impacto económico}{98}{section*.134}%
+\contentsline {section}{Conclusiones}{98}{section*.135}%
+\contentsline {section}{Anexos}{101}{section*.137}%
+\contentsline {subsection}{Manual de usuario}{101}{section*.138}%
+\contentsline {subsubsection}{Menú de Navegación}{101}{section*.139}%
+\contentsline {subsection}{Criterios de aceptación}{103}{section*.140}%
+\contentsline {subsection}{Certificación de viabilidad de Parquesoft}{103}{section*.141}%

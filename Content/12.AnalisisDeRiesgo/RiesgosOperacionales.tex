@@ -1,26 +1,26 @@
 \section{Riesgos operacionales}
-El Comité de Basilea define al riesgo operacional como al riesgo de pérdidas resultantes de la falta de adecuación o fallas en los procesos internos, de la actuación del personal o de los sistemas o bien aquellas que sean producto de eventos externos.
+El Comité de Basilea define el riesgo operacional como el riesgo de pérdidas resultantes de la falta de adecuación o fallas en los procesos internos, de la actuación del personal o de los sistemas, o bien aquellas que sean producto de eventos externos.
 
-\textbf{Riesgo:}Interrupciones en APIs de proveedores
+\textbf{Riesgo:} Interrupciones en APIs de proveedores
 
-\textbf{Contra medida:} Se implementará un sistema de caché inteligente para respuestas de APIs críticas y se establecerán conexiones redundantes con múltiples proveedores en cada categoría. Además, se desarrollará un módulo de "modo offline" que permita operaciones básicas cuando los servicios externos no estén disponibles, garantizando continuidad en la experiencia del usuario.
+\textbf{Contramedida:} Se implementará un sistema de caché inteligente para respuestas de APIs críticas y se establecerán conexiones redundantes con múltiples proveedores en cada categoría. Además, se desarrollará un módulo de "modo offline" que permita operaciones básicas cuando los servicios externos no estén disponibles, garantizando continuidad en la experiencia del usuario.
 
 \textbf{Riesgo:} Inexactitud en información dinámica
 
-\textbf{Contra medida:}Se implementará un sistema de verificación automatizada que cruce datos de múltiples fuentes en tiempo real y alertas de discrepancia. Además, se establecerá un protocolo de actualización horaria con proveedores y un equipo dedicado para corrección manual inmediata de datos críticos reportados por usuarios.
+\textbf{Contramedida:} Se implementará un sistema de verificación automatizada que cruce datos de múltiples fuentes en tiempo real y alertas de discrepancia. Además, se establecerá un protocolo de actualización horaria con proveedores y un equipo dedicado para corrección manual inmediata de datos críticos reportados por usuarios.
 
-\textbf{Riesgo:}Sobrecarga en la plataforma
+\textbf{Riesgo:} Sobrecarga en la plataforma
 
-\textbf{Contra medida:} Se implementará un sistema de balanceo de carga avanzado que distribuya el tráfico de manera equitativa entre múltiples servidores. Además, se establecerán límites de uso por usuario y se implementarán mecanismos de escalabilidad automática para aumentar la capacidad durante picos de tráfico.
+\textbf{Contramedida:} Se implementará un sistema de balanceo de carga avanzado que distribuya el tráfico de manera equitativa entre múltiples servidores. Además, se establecerán límites de uso por usuario y se implementarán mecanismos de escalabilidad automática para aumentar la capacidad durante picos de tráfico.
 
-\textbf{Riesgo:}Vulneraciones en pagos en línea y datos sensibles de usuarios
+\textbf{Riesgo:} Vulneraciones en pagos en línea y datos sensibles de usuarios
 
-\textbf{Contra medida:} Se integrarán soluciones de tokenización PCI-DSS para procesamiento de pagos y se implementará autenticación multifactor obligatoria para todas las cuentas con acceso a datos sensibles. Además, se realizarán auditorías de seguridad trimestrales por terceros especializados y cifrado de extremo a extremo para toda información financiera.
+\textbf{Contramedida:} Se integrarán soluciones de tokenización PCI-DSS para procesamiento de pagos y se implementará autenticación multifactor obligatoria para todas las cuentas con acceso a datos sensibles. Además, se realizarán auditorías de seguridad trimestrales por terceros especializados y cifrado de extremo a extremo para toda información financiera.
 
-\textbf{Riesgo:}Contenido fraudulento o engañoso en reseñas y perfiles
+\textbf{Riesgo:} Contenido fraudulento o engañoso en reseñas y perfiles
 
-\textbf{Contra medida:} Se implementará un sistema de verificación de identidad por dos pasos para creadores de contenido y algoritmos de detección de patrones fraudulentos. Además, se establecerá un equipo de moderación especializado y un sistema de reputación basado en interacciones validadas por la comunidad.
+\textbf{Contramedida:} Se implementará un sistema de verificación de identidad en dos pasos para creadores de contenido y algoritmos de detección de patrones fraudulentos. Además, se establecerá un equipo de moderación especializado y un sistema de reputación basado en interacciones validadas por la comunidad.
 
-\textbf{Riesgo:}Fallos de integración de sistemas de partners
+\textbf{Riesgo:} Fallos de integración de sistemas de partners
 
-\textbf{Contra medida:} Se establecerán acuerdos de nivel de servicio (SLA) claros con todos los partners y se implementará un sistema de monitoreo continuo de integraciones. Además, se desarrollarán pruebas automatizadas para cada nueva integración y se establecerá un protocolo de respuesta rápida para resolver fallos críticos en menos de 24 horas.
+\textbf{Contramedida:} Se establecerán acuerdos de nivel de servicio (SLA) claros con todos los partners y se implementará un sistema de monitoreo continuo de integraciones. Además, se desarrollarán pruebas automatizadas para cada nueva integración y se establecerá un protocolo de respuesta rápida para resolver fallos críticos en menos de 24 horas.
